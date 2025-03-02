@@ -1,5 +1,5 @@
 +++
-draft=false
+draft=true
 title="Vitality"
 tags=["specialization", "basic-specialization"]
 

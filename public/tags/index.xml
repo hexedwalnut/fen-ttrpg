@@ -67,16 +67,6 @@
     </item>
     
     <item>
-      <title>Basic-Specialization</title>
-      <link>/tags/basic-specialization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/basic-specialization/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Close</title>
       <link>/tags/close/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -162,16 +152,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/long-blade/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Long-Blade-Specialization</title>
-      <link>/tags/long-blade-specialization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/long-blade-specialization/</guid>
       <description></description>
       <content></content>
     </item>
@@ -277,31 +257,11 @@
     </item>
     
     <item>
-      <title>Short-Blade-Specialization</title>
-      <link>/tags/short-blade-specialization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/short-blade-specialization/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
       <title>Skill</title>
       <link>/tags/skill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/skill/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Specialization</title>
-      <link>/tags/specialization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/specialization/</guid>
       <description></description>
       <content></content>
     </item>
@@ -352,16 +312,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/weapon-archetype/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Weapon-Specialization</title>
-      <link>/tags/weapon-specialization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/weapon-specialization/</guid>
       <description></description>
       <content></content>
     </item>

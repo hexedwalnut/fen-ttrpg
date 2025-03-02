@@ -63,7 +63,7 @@ parser.add_argument(
 args = parser.parse_args()
 
 output = f"""+++
-draft=true
+draft=false
 title="{args.name}"
 tags=["{'default", "weapon"' if args.default else 'weapon"'}, "equipment", "{args.archetype}", "{args.range}"]
 

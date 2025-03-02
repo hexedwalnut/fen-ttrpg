@@ -24,8 +24,6 @@
   </url><url>
     <loc>/core/ref/adjacent/</loc>
   </url><url>
-    <loc>/core/ref/aggressive-specialization/</loc>
-  </url><url>
     <loc>/tags/aggressive-action/</loc>
   </url><url>
     <loc>/core/ref/ammunition/</loc>
@@ -38,15 +36,11 @@
   </url><url>
     <loc>/core/ref/articulate-skill/</loc>
   </url><url>
-    <loc>/core/ref/assurance-specialization/</loc>
-  </url><url>
     <loc>/core/ref/attack-action/</loc>
   </url><url>
     <loc>/tags/ax/</loc>
   </url><url>
     <loc>/core/ref/ax/</loc>
-  </url><url>
-    <loc>/tags/basic-specialization/</loc>
   </url><url>
     <loc>/core/ref/bastard-sword-weapon/</loc>
   </url><url>
@@ -75,8 +69,6 @@
     <loc>/core/ref/cognition-skill/</loc>
   </url><url>
     <loc>/core/ref/comfortable/</loc>
-  </url><url>
-    <loc>/core/ref/coordination-specialization/</loc>
   </url><url>
     <loc>/core/ref/counter/</loc>
   </url><url>
@@ -146,8 +138,6 @@
   </url><url>
     <loc>/core/ref/knife-weapon/</loc>
   </url><url>
-    <loc>/core/ref/knife-fighter-specialization/</loc>
-  </url><url>
     <loc>/core/ref/lance-weapon/</loc>
   </url><url>
     <loc>/core/ref/leather-armor/</loc>
@@ -176,15 +166,11 @@
   </url><url>
     <loc>/tags/long-blade/</loc>
   </url><url>
-    <loc>/tags/long-blade-specialization/</loc>
-  </url><url>
     <loc>/core/ref/longbow-weapon/</loc>
   </url><url>
     <loc>/core/ref/longsword-weapon/</loc>
   </url><url>
     <loc>/core/ref/mace-weapon/</loc>
-  </url><url>
-    <loc>/core/ref/manuscripts-and-codices-specialization/</loc>
   </url><url>
     <loc>/core/ref/maul-weapon/</loc>
   </url><url>
@@ -201,8 +187,6 @@
     <loc>/core/ref/notice-skill/</loc>
   </url><url>
     <loc>/core/ref/opportunity-attack-reaction/</loc>
-  </url><url>
-    <loc>/core/ref/opportunity-attack-specialization/</loc>
   </url><url>
     <loc>/core/ref/padded-armor-armor/</loc>
   </url><url>
@@ -229,8 +213,6 @@
     <loc>/core/ref/rapier-weapon/</loc>
   </url><url>
     <loc>/tags/reaction/</loc>
-  </url><url>
-    <loc>/core/ref/reactive-specialization/</loc>
   </url><url>
     <loc>/core/ref/repeatable/</loc>
   </url><url>
@@ -260,8 +242,6 @@
   </url><url>
     <loc>/core/ref/short-blade/</loc>
   </url><url>
-    <loc>/tags/short-blade-specialization/</loc>
-  </url><url>
     <loc>/core/ref/shortbow-weapon/</loc>
   </url><url>
     <loc>/core/ref/shortsword-weapon/</loc>
@@ -271,8 +251,6 @@
     <loc>/core/ref/sling-weapon/</loc>
   </url><url>
     <loc>/core/ref/spear-weapon/</loc>
-  </url><url>
-    <loc>/tags/specialization/</loc>
   </url><url>
     <loc>/tags/specialization-trait/</loc>
   </url><url>
@@ -285,8 +263,6 @@
     <loc>/core/ref/tactics-skill/</loc>
   </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/core/ref/talent-specialization/</loc>
   </url><url>
     <loc>/core/ref/thrown/</loc>
   </url><url>
@@ -306,15 +282,11 @@
   </url><url>
     <loc>/core/ref/vigor-skill/</loc>
   </url><url>
-    <loc>/core/ref/vitality-specialization/</loc>
-  </url><url>
     <loc>/core/ref/war-pick-weapon/</loc>
   </url><url>
     <loc>/tags/weapon/</loc>
   </url><url>
     <loc>/tags/weapon-archetype/</loc>
-  </url><url>
-    <loc>/tags/weapon-specialization/</loc>
   </url><url>
     <loc>/tags/weapon-trait/</loc>
   </url><url>

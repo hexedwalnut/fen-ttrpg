@@ -1,18 +1,18 @@
 +++
 draft=true
-title="Coordination"
-tags=["specialization", "basic-specialization"]
+title="Target Practice"
+tags=["specialization", "weapon-specialization", "long-arm-specialization"]
 
 [params]
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable(4)"]
-    prereq=["tactics(1d8+)"]
+    prereq=["-"]
 +++
 
 {{< specialization-front >}}
 
 ## Description
 
-You gain an additional passive action per turn.
+
 
