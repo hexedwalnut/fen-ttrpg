@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Knife Fighter"
 tags=["specialization", "weapon-specialization", "short-blade-specialization"]
 

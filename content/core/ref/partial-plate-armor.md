@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Partial Plate"
 tags=["default", "armor", "equipment", "medium"]
 

@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Handax"
 tags=["default", "weapon", "equipment", "ax", "adjacent"]
 

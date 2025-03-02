@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Bastard Sword"
 tags=["default", "weapon", "equipment", "long-blade", "adjacent"]
 

@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Clothing"
 tags=["default", "armor", "equipment", "unarmored"]
 

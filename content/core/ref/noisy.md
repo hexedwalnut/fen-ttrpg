@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Noisy"
 tags=["armor-trait"]
 +++

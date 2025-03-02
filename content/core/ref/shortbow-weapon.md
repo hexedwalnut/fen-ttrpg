@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Shortbow"
 tags=["default", "weapon", "equipment", "long-arm", "short"]
 

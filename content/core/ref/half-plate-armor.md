@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Half Plate"
 tags=["default", "armor", "equipment", "heavy"]
 

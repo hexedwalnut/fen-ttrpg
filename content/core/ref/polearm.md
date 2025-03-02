@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Polearm"
 tags=["weapon-archetype"]
 +++

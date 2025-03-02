@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Two-handed"
 tags=["weapon-trait"]
 +++

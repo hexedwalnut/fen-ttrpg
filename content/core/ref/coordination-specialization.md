@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Coordination"
 tags=["specialization", "basic-specialization"]
 

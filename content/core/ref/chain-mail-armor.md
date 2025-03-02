@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Chain Mail"
 tags=["default", "armor", "equipment", "medium"]
 

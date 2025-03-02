@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Staff"
 tags=["default", "weapon", "equipment", "cudgel", "adjacent"]
 

@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Robes"
 tags=["default", "armor", "equipment", "unarmored"]
 

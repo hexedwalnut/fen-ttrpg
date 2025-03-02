@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Light"
 tags=["weapon-trait"]
 +++

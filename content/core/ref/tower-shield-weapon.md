@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Tower Shield"
 tags=["default", "weapon", "equipment", "shield", "adjacent"]
 

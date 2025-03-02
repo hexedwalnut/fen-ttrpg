@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="War pick"
 tags=["default", "weapon", "equipment", "ax", "adjacent"]
 

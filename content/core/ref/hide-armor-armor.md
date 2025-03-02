@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Hide Armor"
 tags=["default", "armor", "equipment", "medium"]
 

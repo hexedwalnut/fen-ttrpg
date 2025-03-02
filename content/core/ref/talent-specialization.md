@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Talent"
 tags=["specialization", "basic-specialization"]
 

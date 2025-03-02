@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="restrictive"
 tags=["armor-trait"]
 +++

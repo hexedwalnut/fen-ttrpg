@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Leather"
 tags=["default", "armor", "equipment", "light"]
 

@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Bulwark"
 tags=["armor-trait"]
 +++

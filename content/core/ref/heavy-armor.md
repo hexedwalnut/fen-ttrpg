@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Heavy"
 tags=["armor-archetype"]
 +++

@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Trident"
 tags=["default", "weapon", "equipment", "polearm", "adjacent"]
 

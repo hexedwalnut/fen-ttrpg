@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Dagger"
 tags=["default", "weapon", "equipment", "short-blade", "adjacent"]
 

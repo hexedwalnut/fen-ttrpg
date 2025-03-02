@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Blowgun"
 tags=["default", "weapon", "equipment", "short-arm", "short"]
 

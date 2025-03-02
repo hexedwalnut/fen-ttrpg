@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Metallic"
 tags=["armor-trait"]
 +++

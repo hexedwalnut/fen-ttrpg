@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Greatax"
 tags=["default", "weapon", "equipment", "ax", "adjacent"]
 

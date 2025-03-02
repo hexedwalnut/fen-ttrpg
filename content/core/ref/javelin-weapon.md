@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Javelin"
 tags=["default", "weapon", "equipment", "short-arm", "close"]
 

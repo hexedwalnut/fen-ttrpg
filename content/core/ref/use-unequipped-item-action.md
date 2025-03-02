@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Use Unequipped Item"
 tags=["Aggressive Action"]
 +++

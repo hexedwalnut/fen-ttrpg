@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Scale Mail"
 tags=["default", "armor", "equipment", "medium"]
 

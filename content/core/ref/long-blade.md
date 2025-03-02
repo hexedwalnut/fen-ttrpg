@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Long-blade"
 tags=["weapon-archetype"]
 +++

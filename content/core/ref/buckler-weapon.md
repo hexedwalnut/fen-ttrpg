@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Buckler"
 tags=["default", "weapon", "equipment", "shield", "adjacent"]
 

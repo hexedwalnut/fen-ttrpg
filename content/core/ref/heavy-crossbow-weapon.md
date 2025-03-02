@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Heavy Crossbow"
 tags=["default", "weapon", "equipment", "long-arm", "long"]
 

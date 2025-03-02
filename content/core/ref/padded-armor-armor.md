@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Padded Armor"
 tags=["default", "armor", "equipment", "light"]
 

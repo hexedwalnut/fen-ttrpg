@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Whip"
 tags=["default", "weapon", "equipment", "whip", "adjacent"]
 

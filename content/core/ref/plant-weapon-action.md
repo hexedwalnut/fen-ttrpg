@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Plant Weapon"
 tags=["passive-action"]
 +++

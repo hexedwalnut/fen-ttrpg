@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Full Plate"
 tags=["default", "armor", "equipment", "heavy"]
 

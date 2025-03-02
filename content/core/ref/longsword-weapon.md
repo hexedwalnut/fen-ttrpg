@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Longsword"
 tags=["default", "weapon", "equipment", "long-blade", "adjacent"]
 

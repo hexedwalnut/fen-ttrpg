@@ -1,5 +1,5 @@
 +++
-draft = true
+draft=false
 title = '03 - Combat'
 +++
 
