@@ -1,4 +1,4 @@
-baseurl = "https://hexedwalnut.github.io/fen-ttrpg/"
+baseurl = "/"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -84,7 +84,7 @@ pagination.pagerSize = 5
 
       [languages.en.params.logo]
         logoText = "Fen TTRPG"
-        logoHomeLink = "/"
+        logoHomeLink = "/about"
 
       [languages.en.menu]
         [[languages.en.menu.main]]
