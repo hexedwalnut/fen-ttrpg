@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cudgel on Fen TTRPG</title>
-    <link>//localhost:1313/tags/cudgel/</link>
+    <link>/tags/cudgel/</link>
     <description>Recent content in Cudgel on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/cudgel/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/cudgel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Club</title>
-      <link>//localhost:1313/core/ref/club-weapon/</link>
+      <link>/core/ref/club-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/club-weapon/</guid>
+      <guid>/core/ref/club-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -24,12 +24,12 @@
     &lt;tr&gt;
         &lt;td&gt;Club&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -42,7 +42,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -81,12 +81,12 @@
     &lt;tr&gt;
         &lt;td&gt;Club&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -99,7 +99,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -112,10 +112,10 @@
     
     <item>
       <title>Flail</title>
-      <link>//localhost:1313/core/ref/flail-weapon/</link>
+      <link>/core/ref/flail-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/flail-weapon/</guid>
+      <guid>/core/ref/flail-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -128,12 +128,12 @@
     &lt;tr&gt;
         &lt;td&gt;Flail&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -185,12 +185,12 @@
     &lt;tr&gt;
         &lt;td&gt;Flail&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -216,10 +216,10 @@
     
     <item>
       <title>Greatclub</title>
-      <link>//localhost:1313/core/ref/greatclub-weapon/</link>
+      <link>/core/ref/greatclub-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/greatclub-weapon/</guid>
+      <guid>/core/ref/greatclub-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -232,12 +232,12 @@
     &lt;tr&gt;
         &lt;td&gt;Greatclub&lt;/td&gt;
         &lt;td&gt;
-            1d10 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d10 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -250,7 +250,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -289,12 +289,12 @@
     &lt;tr&gt;
         &lt;td&gt;Greatclub&lt;/td&gt;
         &lt;td&gt;
-            1d10 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d10 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -307,7 +307,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -320,10 +320,10 @@
     
     <item>
       <title>Hammer</title>
-      <link>//localhost:1313/core/ref/hammer-weapon/</link>
+      <link>/core/ref/hammer-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/hammer-weapon/</guid>
+      <guid>/core/ref/hammer-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -336,12 +336,12 @@
     &lt;tr&gt;
         &lt;td&gt;Hammer&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -354,14 +354,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -400,12 +400,12 @@
     &lt;tr&gt;
         &lt;td&gt;Hammer&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -418,14 +418,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -438,10 +438,10 @@
     
     <item>
       <title>Mace</title>
-      <link>//localhost:1313/core/ref/mace-weapon/</link>
+      <link>/core/ref/mace-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/mace-weapon/</guid>
+      <guid>/core/ref/mace-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -454,12 +454,12 @@
     &lt;tr&gt;
         &lt;td&gt;Mace&lt;/td&gt;
         &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -511,12 +511,12 @@
     &lt;tr&gt;
         &lt;td&gt;Mace&lt;/td&gt;
         &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -542,10 +542,10 @@
     
     <item>
       <title>Maul</title>
-      <link>//localhost:1313/core/ref/maul-weapon/</link>
+      <link>/core/ref/maul-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/maul-weapon/</guid>
+      <guid>/core/ref/maul-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -558,12 +558,12 @@
     &lt;tr&gt;
         &lt;td&gt;Maul&lt;/td&gt;
         &lt;td&gt;
-            2d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            2d6 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -576,7 +576,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -615,12 +615,12 @@
     &lt;tr&gt;
         &lt;td&gt;Maul&lt;/td&gt;
         &lt;td&gt;
-            2d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            2d6 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -633,7 +633,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -646,10 +646,10 @@
     
     <item>
       <title>Morningstar</title>
-      <link>//localhost:1313/core/ref/morningstar-weapon/</link>
+      <link>/core/ref/morningstar-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/morningstar-weapon/</guid>
+      <guid>/core/ref/morningstar-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -662,12 +662,12 @@
     &lt;tr&gt;
         &lt;td&gt;Morningstar&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -680,7 +680,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -719,12 +719,12 @@
     &lt;tr&gt;
         &lt;td&gt;Morningstar&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -737,7 +737,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -750,10 +750,10 @@
     
     <item>
       <title>Staff</title>
-      <link>//localhost:1313/core/ref/staff-weapon/</link>
+      <link>/core/ref/staff-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/staff-weapon/</guid>
+      <guid>/core/ref/staff-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -766,12 +766,12 @@
     &lt;tr&gt;
         &lt;td&gt;Staff&lt;/td&gt;
         &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -784,7 +784,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -823,12 +823,12 @@
     &lt;tr&gt;
         &lt;td&gt;Staff&lt;/td&gt;
         &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+            &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                 
                     Cudgel
                 
@@ -841,7 +841,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                 
             
         &lt;/td&gt;

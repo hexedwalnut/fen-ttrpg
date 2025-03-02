@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shield on Fen TTRPG</title>
-    <link>//localhost:1313/tags/shield/</link>
+    <link>/tags/shield/</link>
     <description>Recent content in Shield on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/shield/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/shield/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Buckler</title>
-      <link>//localhost:1313/core/ref/buckler-weapon/</link>
+      <link>/core/ref/buckler-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/buckler-weapon/</guid>
+      <guid>/core/ref/buckler-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -24,12 +24,12 @@
     &lt;tr&gt;
         &lt;td&gt;Buckler&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;5&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 
@@ -42,7 +42,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -81,12 +81,12 @@
     &lt;tr&gt;
         &lt;td&gt;Buckler&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;5&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 
@@ -99,7 +99,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -112,10 +112,10 @@
     
     <item>
       <title>Heavy Shield</title>
-      <link>//localhost:1313/core/ref/heavy-shield-weapon/</link>
+      <link>/core/ref/heavy-shield-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/heavy-shield-weapon/</guid>
+      <guid>/core/ref/heavy-shield-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -128,12 +128,12 @@
     &lt;tr&gt;
         &lt;td&gt;Heavy Shield&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;15&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 
@@ -185,12 +185,12 @@
     &lt;tr&gt;
         &lt;td&gt;Heavy Shield&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;15&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 
@@ -216,10 +216,10 @@
     
     <item>
       <title>Pavise</title>
-      <link>//localhost:1313/core/ref/pavise-weapon/</link>
+      <link>/core/ref/pavise-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/pavise-weapon/</guid>
+      <guid>/core/ref/pavise-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -232,12 +232,12 @@
     &lt;tr&gt;
         &lt;td&gt;Pavise&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;20&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 
@@ -250,14 +250,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/planted/&#34;&gt;Planted&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/planted/&#34;&gt;Planted&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -296,12 +296,12 @@
     &lt;tr&gt;
         &lt;td&gt;Pavise&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;20&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 
@@ -314,14 +314,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/planted/&#34;&gt;Planted&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/planted/&#34;&gt;Planted&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -334,10 +334,10 @@
     
     <item>
       <title>Shield</title>
-      <link>//localhost:1313/core/ref/shield-weapon/</link>
+      <link>/core/ref/shield-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/shield-weapon/</guid>
+      <guid>/core/ref/shield-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -350,12 +350,12 @@
     &lt;tr&gt;
         &lt;td&gt;Shield&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;10&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 
@@ -407,12 +407,12 @@
     &lt;tr&gt;
         &lt;td&gt;Shield&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;10&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 
@@ -438,10 +438,10 @@
     
     <item>
       <title>Tower Shield</title>
-      <link>//localhost:1313/core/ref/tower-shield-weapon/</link>
+      <link>/core/ref/tower-shield-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/tower-shield-weapon/</guid>
+      <guid>/core/ref/tower-shield-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -454,12 +454,12 @@
     &lt;tr&gt;
         &lt;td&gt;Tower Shield&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;20&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 
@@ -511,12 +511,12 @@
     &lt;tr&gt;
         &lt;td&gt;Tower Shield&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;20&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+            &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                 
                     Shield
                 

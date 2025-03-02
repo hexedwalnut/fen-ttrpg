@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Armor-Archetype on Fen TTRPG</title>
-    <link>//localhost:1313/tags/armor-archetype/</link>
+    <link>/tags/armor-archetype/</link>
     <description>Recent content in Armor-Archetype on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/armor-archetype/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/armor-archetype/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heavy</title>
-      <link>//localhost:1313/core/ref/heavy-armor/</link>
+      <link>/core/ref/heavy-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/heavy-armor/</guid>
+      <guid>/core/ref/heavy-armor/</guid>
       <description>&lt;p&gt;This archetype marks the ultimate protective armors. This armor offers good protection with the obstruction of some movement. This archetype of armor is often worn by heavy cavalry and knights. This would include full plate armors.&lt;/p&gt;
 &lt;h2 id=&#34;heavy-armors&#34;&gt;Heavy Armors&lt;/h2&gt;
 
 
 &lt;ul&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/full-plate-armor/&#34;&gt;Full Plate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/full-plate-armor/&#34;&gt;Full Plate&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/half-plate-armor/&#34;&gt;Half Plate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/half-plate-armor/&#34;&gt;Half Plate&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;</description>
       <content>&lt;p&gt;This archetype marks the ultimate protective armors. This armor offers good protection with the obstruction of some movement. This archetype of armor is often worn by heavy cavalry and knights. This would include full plate armors.&lt;/p&gt;
@@ -29,9 +29,9 @@
 
 &lt;ul&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/full-plate-armor/&#34;&gt;Full Plate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/full-plate-armor/&#34;&gt;Full Plate&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/half-plate-armor/&#34;&gt;Half Plate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/half-plate-armor/&#34;&gt;Half Plate&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 
@@ -40,21 +40,21 @@
     
     <item>
       <title>Light Armor</title>
-      <link>//localhost:1313/core/ref/light-armor/</link>
+      <link>/core/ref/light-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/light-armor/</guid>
+      <guid>/core/ref/light-armor/</guid>
       <description>&lt;p&gt;This archetype encompasses all armors that offer light protection with minimal obstruction of movement, often worn by archers or thieves. Leather armor, such as simple gambesons or padding, might also include small hauberks or other light chain shirts that don&amp;rsquo;t cover the whole torso.&lt;/p&gt;
 &lt;h2 id=&#34;light-armors&#34;&gt;Light Armors&lt;/h2&gt;
 
 
 &lt;ul&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/leather-armor/&#34;&gt;Leather&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/leather-armor/&#34;&gt;Leather&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/padded-armor-armor/&#34;&gt;Padded Armor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/padded-armor-armor/&#34;&gt;Padded Armor&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/studded-leather-armor/&#34;&gt;Studded Leather&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/studded-leather-armor/&#34;&gt;Studded Leather&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;</description>
       <content>&lt;p&gt;This archetype encompasses all armors that offer light protection with minimal obstruction of movement, often worn by archers or thieves. Leather armor, such as simple gambesons or padding, might also include small hauberks or other light chain shirts that don&amp;rsquo;t cover the whole torso.&lt;/p&gt;
@@ -63,11 +63,11 @@
 
 &lt;ul&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/leather-armor/&#34;&gt;Leather&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/leather-armor/&#34;&gt;Leather&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/padded-armor-armor/&#34;&gt;Padded Armor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/padded-armor-armor/&#34;&gt;Padded Armor&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/studded-leather-armor/&#34;&gt;Studded Leather&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/studded-leather-armor/&#34;&gt;Studded Leather&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 
@@ -76,23 +76,23 @@
     
     <item>
       <title>Medium Armor</title>
-      <link>//localhost:1313/core/ref/medium-armor/</link>
+      <link>/core/ref/medium-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/medium-armor/</guid>
+      <guid>/core/ref/medium-armor/</guid>
       <description>&lt;p&gt;This archetype marks the middle ground between light and heavy armors. It offers good protection without obstructing too much movement, considered to be a compromise. Often this archetype is worn by light cavalry and men-at-arms This would include full chain shirts, partial plates and enclosed helmets.&lt;/p&gt;
 &lt;h2 id=&#34;medium-armors&#34;&gt;Medium Armors&lt;/h2&gt;
 
 
 &lt;ul&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/chain-mail-armor/&#34;&gt;Chain Mail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/chain-mail-armor/&#34;&gt;Chain Mail&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/hide-armor-armor/&#34;&gt;Hide Armor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/hide-armor-armor/&#34;&gt;Hide Armor&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/partial-plate-armor/&#34;&gt;Partial Plate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/partial-plate-armor/&#34;&gt;Partial Plate&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/scale-mail-armor/&#34;&gt;Scale Mail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/scale-mail-armor/&#34;&gt;Scale Mail&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;</description>
       <content>&lt;p&gt;This archetype marks the middle ground between light and heavy armors. It offers good protection without obstructing too much movement, considered to be a compromise. Often this archetype is worn by light cavalry and men-at-arms This would include full chain shirts, partial plates and enclosed helmets.&lt;/p&gt;
@@ -101,13 +101,13 @@
 
 &lt;ul&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/chain-mail-armor/&#34;&gt;Chain Mail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/chain-mail-armor/&#34;&gt;Chain Mail&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/hide-armor-armor/&#34;&gt;Hide Armor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/hide-armor-armor/&#34;&gt;Hide Armor&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/partial-plate-armor/&#34;&gt;Partial Plate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/partial-plate-armor/&#34;&gt;Partial Plate&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/scale-mail-armor/&#34;&gt;Scale Mail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/scale-mail-armor/&#34;&gt;Scale Mail&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 
@@ -116,19 +116,19 @@
     
     <item>
       <title>Unarmored</title>
-      <link>//localhost:1313/core/ref/unarmored/</link>
+      <link>/core/ref/unarmored/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/unarmored/</guid>
+      <guid>/core/ref/unarmored/</guid>
       <description>&lt;p&gt;This archetype encompasses any clothing that is worn as &amp;ldquo;armor&amp;rdquo; but isn&amp;rsquo;t considered to be classical armor. For example, monk&amp;rsquo;s vestments, decorative bear-pelts, and wizard&amp;rsquo;s robes all fall into the unarmored archetype.&lt;/p&gt;
 &lt;h2 id=&#34;unarmored-armor&#34;&gt;Unarmored Armor&lt;/h2&gt;
 
 
 &lt;ul&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/clothing-armor/&#34;&gt;Clothing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/clothing-armor/&#34;&gt;Clothing&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/robes-armor/&#34;&gt;Robes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/robes-armor/&#34;&gt;Robes&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;</description>
       <content>&lt;p&gt;This archetype encompasses any clothing that is worn as &amp;ldquo;armor&amp;rdquo; but isn&amp;rsquo;t considered to be classical armor. For example, monk&amp;rsquo;s vestments, decorative bear-pelts, and wizard&amp;rsquo;s robes all fall into the unarmored archetype.&lt;/p&gt;
@@ -137,9 +137,9 @@
 
 &lt;ul&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/clothing-armor/&#34;&gt;Clothing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/clothing-armor/&#34;&gt;Clothing&lt;/a&gt;&lt;/li&gt;
 
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/robes-armor/&#34;&gt;Robes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/robes-armor/&#34;&gt;Robes&lt;/a&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 

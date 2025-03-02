@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Medium on Fen TTRPG</title>
-    <link>//localhost:1313/tags/medium/</link>
+    <link>/tags/medium/</link>
     <description>Recent content in Medium on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/medium/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/medium/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chain Mail</title>
-      <link>//localhost:1313/core/ref/chain-mail-armor/</link>
+      <link>/core/ref/chain-mail-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/chain-mail-armor/</guid>
+      <guid>/core/ref/chain-mail-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -36,14 +36,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -77,14 +77,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -96,10 +96,10 @@
     
     <item>
       <title>Hide Armor</title>
-      <link>//localhost:1313/core/ref/hide-armor-armor/</link>
+      <link>/core/ref/hide-armor-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/hide-armor-armor/</guid>
+      <guid>/core/ref/hide-armor-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -170,10 +170,10 @@
     
     <item>
       <title>Partial Plate</title>
-      <link>//localhost:1313/core/ref/partial-plate-armor/</link>
+      <link>/core/ref/partial-plate-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/partial-plate-armor/</guid>
+      <guid>/core/ref/partial-plate-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -198,21 +198,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -246,21 +246,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -272,10 +272,10 @@
     
     <item>
       <title>Scale Mail</title>
-      <link>//localhost:1313/core/ref/scale-mail-armor/</link>
+      <link>/core/ref/scale-mail-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/scale-mail-armor/</guid>
+      <guid>/core/ref/scale-mail-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -300,21 +300,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -348,21 +348,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;

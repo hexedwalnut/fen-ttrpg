@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Short-Blade on Fen TTRPG</title>
-    <link>//localhost:1313/tags/short-blade/</link>
+    <link>/tags/short-blade/</link>
     <description>Recent content in Short-Blade on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/short-blade/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/short-blade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Curved Blade</title>
-      <link>//localhost:1313/core/ref/curved-blade-weapon/</link>
+      <link>/core/ref/curved-blade-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/curved-blade-weapon/</guid>
+      <guid>/core/ref/curved-blade-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -24,12 +24,12 @@
     &lt;tr&gt;
         &lt;td&gt;Curved Blade&lt;/td&gt;
         &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                 
                     Short-blade
                 
@@ -42,64 +42,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
-                
-            
-        &lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;</description>
-      <content>
-
-
-
-    
-
-
-
-
-
-
-    
-
-
-
-
-
-    
-
-
-
-&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Name&lt;/th&gt;
-        &lt;th&gt;Die&lt;/th&gt;
-        &lt;th&gt;Def&lt;/th&gt;
-        &lt;th&gt;Range&lt;/th&gt;
-        &lt;th&gt;Archetype&lt;/th&gt;
-        &lt;th&gt;Traits&lt;/th&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;Curved Blade&lt;/td&gt;
-        &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
-        &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
-                
-                    Short-blade
-                
-            &lt;/a&gt;
-        &lt;/td&gt;
-        &lt;td&gt;
-            
-            
-                
-                    
-                
-                
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -107,16 +50,30 @@
 &lt;/table&gt;
 
 
-</content>
-    </item>
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;A short curved blade wielded in one hand.&lt;/p&gt;</description>
+      <content>
+
+
+
     
-    <item>
-      <title>Dagger</title>
-      <link>//localhost:1313/core/ref/dagger-weapon/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/core/ref/dagger-weapon/</guid>
-      <description>&lt;table&gt;
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
         &lt;th&gt;Die&lt;/th&gt;
@@ -126,14 +83,14 @@
         &lt;th&gt;Traits&lt;/th&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-        &lt;td&gt;Dagger&lt;/td&gt;
+        &lt;td&gt;Curved Blade&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
-        &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;2&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                 
                     Short-blade
                 
@@ -146,21 +103,70 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;A short curved blade wielded in one hand.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Dagger</title>
+      <link>/core/ref/dagger-weapon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/dagger-weapon/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Die&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Range&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Dagger&lt;/td&gt;
+        &lt;td&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
+                
+                    Short-blade
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -199,12 +205,12 @@
     &lt;tr&gt;
         &lt;td&gt;Dagger&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                 
                     Short-blade
                 
@@ -217,21 +223,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -244,10 +250,10 @@
     
     <item>
       <title>Knife</title>
-      <link>//localhost:1313/core/ref/knife-weapon/</link>
+      <link>/core/ref/knife-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/knife-weapon/</guid>
+      <guid>/core/ref/knife-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -260,12 +266,12 @@
     &lt;tr&gt;
         &lt;td&gt;Knife&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                 
                     Short-blade
                 
@@ -278,14 +284,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -324,12 +330,12 @@
     &lt;tr&gt;
         &lt;td&gt;Knife&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                 
                     Short-blade
                 
@@ -342,14 +348,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -362,10 +368,10 @@
     
     <item>
       <title>Rapier</title>
-      <link>//localhost:1313/core/ref/rapier-weapon/</link>
+      <link>/core/ref/rapier-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/rapier-weapon/</guid>
+      <guid>/core/ref/rapier-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -378,12 +384,12 @@
     &lt;tr&gt;
         &lt;td&gt;Rapier&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                 
                     Short-blade
                 
@@ -396,7 +402,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -435,12 +441,12 @@
     &lt;tr&gt;
         &lt;td&gt;Rapier&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                 
                     Short-blade
                 
@@ -453,7 +459,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -466,10 +472,10 @@
     
     <item>
       <title>Shortsword</title>
-      <link>//localhost:1313/core/ref/shortsword-weapon/</link>
+      <link>/core/ref/shortsword-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/shortsword-weapon/</guid>
+      <guid>/core/ref/shortsword-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -482,12 +488,12 @@
     &lt;tr&gt;
         &lt;td&gt;Shortsword&lt;/td&gt;
         &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                 
                     Short-blade
                 
@@ -500,14 +506,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -546,12 +552,12 @@
     &lt;tr&gt;
         &lt;td&gt;Shortsword&lt;/td&gt;
         &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                 
                     Short-blade
                 
@@ -564,14 +570,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
                 
             
         &lt;/td&gt;

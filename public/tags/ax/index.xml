@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ax on Fen TTRPG</title>
-    <link>//localhost:1313/tags/ax/</link>
+    <link>/tags/ax/</link>
     <description>Recent content in Ax on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/ax/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/ax/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Battleax</title>
-      <link>//localhost:1313/core/ref/battleax-weapon/</link>
+      <link>/core/ref/battleax-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/battleax-weapon/</guid>
+      <guid>/core/ref/battleax-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -24,12 +24,12 @@
     &lt;tr&gt;
         &lt;td&gt;Battleax&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+            &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                 
                     Ax
                 
@@ -81,12 +81,12 @@
     &lt;tr&gt;
         &lt;td&gt;Battleax&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+            &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                 
                     Ax
                 
@@ -112,10 +112,10 @@
     
     <item>
       <title>Greatax</title>
-      <link>//localhost:1313/core/ref/greatax-weapon/</link>
+      <link>/core/ref/greatax-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/greatax-weapon/</guid>
+      <guid>/core/ref/greatax-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -128,12 +128,12 @@
     &lt;tr&gt;
         &lt;td&gt;Greatax&lt;/td&gt;
         &lt;td&gt;
-            1d12 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d12 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+            &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                 
                     Ax
                 
@@ -146,7 +146,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -185,12 +185,12 @@
     &lt;tr&gt;
         &lt;td&gt;Greatax&lt;/td&gt;
         &lt;td&gt;
-            1d12 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d12 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+            &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                 
                     Ax
                 
@@ -203,7 +203,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -216,10 +216,10 @@
     
     <item>
       <title>Handax</title>
-      <link>//localhost:1313/core/ref/handax-weapon/</link>
+      <link>/core/ref/handax-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/handax-weapon/</guid>
+      <guid>/core/ref/handax-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -232,12 +232,12 @@
     &lt;tr&gt;
         &lt;td&gt;Handax&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+            &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                 
                     Ax
                 
@@ -250,14 +250,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -296,12 +296,12 @@
     &lt;tr&gt;
         &lt;td&gt;Handax&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+            &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                 
                     Ax
                 
@@ -314,14 +314,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -334,10 +334,10 @@
     
     <item>
       <title>War pick</title>
-      <link>//localhost:1313/core/ref/war-pick-weapon/</link>
+      <link>/core/ref/war-pick-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/war-pick-weapon/</guid>
+      <guid>/core/ref/war-pick-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -350,12 +350,12 @@
     &lt;tr&gt;
         &lt;td&gt;War pick&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+            &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                 
                     Ax
                 
@@ -407,12 +407,12 @@
     &lt;tr&gt;
         &lt;td&gt;War pick&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;2&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+            &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                 
                     Ax
                 

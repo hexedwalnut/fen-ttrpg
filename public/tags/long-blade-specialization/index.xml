@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Long-Blade-Specialization on Fen TTRPG</title>
-    <link>//localhost:1313/tags/long-blade-specialization/</link>
+    <link>/tags/long-blade-specialization/</link>
     <description>Recent content in Long-Blade-Specialization on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/long-blade-specialization/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/long-blade-specialization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Manuscripts and Codices</title>
-      <link>//localhost:1313/core/ref/manuscripts-and-codices-specialization/</link>
+      <link>/core/ref/manuscripts-and-codices-specialization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/manuscripts-and-codices-specialization/</guid>
+      <guid>/core/ref/manuscripts-and-codices-specialization/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Cost&lt;/th&gt;
@@ -25,7 +25,7 @@
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -45,10 +45,10 @@
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;You gain an additional die when rolling damage using a weapon
-with the &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;long-blade&lt;/a&gt;
+with the &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;long-blade&lt;/a&gt;
 archetype. The type of die is determined by the default sides of
 the weapon. For example, a standard
-&lt;a href=&#34;//localhost:1313/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt; has a weapon die
+&lt;a href=&#34;/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt; has a weapon die
 of 1d8. When rolling damage after taking this specialization you
 instead roll 2d8. If, instead, the weapon had multiple default
 weapon dice you only add one additional die of the highest sides.
@@ -68,7 +68,7 @@ offhanded weapons as well.&lt;/p&gt;</description>
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -88,10 +88,10 @@ offhanded weapons as well.&lt;/p&gt;</description>
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;You gain an additional die when rolling damage using a weapon
-with the &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;long-blade&lt;/a&gt;
+with the &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;long-blade&lt;/a&gt;
 archetype. The type of die is determined by the default sides of
 the weapon. For example, a standard
-&lt;a href=&#34;//localhost:1313/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt; has a weapon die
+&lt;a href=&#34;/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt; has a weapon die
 of 1d8. When rolling damage after taking this specialization you
 instead roll 2d8. If, instead, the weapon had multiple default
 weapon dice you only add one additional die of the highest sides.

@@ -2,26 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skill on Fen TTRPG</title>
-    <link>//localhost:1313/tags/skill/</link>
+    <link>/tags/skill/</link>
     <description>Recent content in Skill on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/skill/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/skill/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dodge</title>
-      <link>//localhost:1313/core/ref/dodge-skill/</link>
+      <title>Articulate</title>
+      <link>/core/ref/articulate-skill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/dodge-skill/</guid>
+      <guid>/core/ref/articulate-skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Cognition</title>
+      <link>/core/ref/cognition-skill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/cognition-skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Dodge</title>
+      <link>/core/ref/dodge-skill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/dodge-skill/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Fight</title>
-      <link>//localhost:1313/core/ref/fight-skill/</link>
+      <link>/core/ref/fight-skill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/fight-skill/</guid>
+      <guid>/core/ref/fight-skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Notice</title>
+      <link>/core/ref/notice-skill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/notice-skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Shoot</title>
+      <link>/core/ref/shoot-skill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/shoot-skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Tactics</title>
+      <link>/core/ref/tactics-skill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/tactics-skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Vigor</title>
+      <link>/core/ref/vigor-skill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/vigor-skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Will</title>
+      <link>/core/ref/will-skill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/will-skill/</guid>
       <description></description>
       <content></content>
     </item>

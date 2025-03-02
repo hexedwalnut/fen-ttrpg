@@ -2,268 +2,328 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2025-02-25T12:15:53-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-02-25T12:15:53-05:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/core/chapters/introduction/</loc>
+    <loc>/core/chapters/introduction/</loc>
   </url><url>
-    <loc>//localhost:1313/core/chapters/actor-creation/</loc>
+    <loc>/core/chapters/actor-creation/</loc>
   </url><url>
-    <loc>//localhost:1313/core/chapters/combat/</loc>
+    <loc>/core/chapters/combat/</loc>
   </url><url>
-    <loc>//localhost:1313/core/chapters/equipment/</loc>
+    <loc>/core/chapters/equipment/</loc>
   </url><url>
-    <loc>//localhost:1313/core/chapters/specializations/</loc>
+    <loc>/core/chapters/specializations/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/</loc>
+    <loc>/core/ref/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/adjacent/</loc>
+    <loc>/tags/adjacent/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/adjacent/</loc>
+    <loc>/core/ref/adjacent/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/aggressive-action/</loc>
+    <loc>/core/ref/aggressive-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/ammunition/</loc>
+    <loc>/tags/aggressive-action/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/armor/</loc>
+    <loc>/core/ref/ammunition/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/armor-archetype/</loc>
+    <loc>/tags/armor/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/armor-trait/</loc>
+    <loc>/tags/armor-archetype/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/ax/</loc>
+    <loc>/tags/armor-trait/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/ax/</loc>
+    <loc>/core/ref/articulate-skill/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/bastard-sword-weapon/</loc>
+    <loc>/core/ref/assurance-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/battleax-weapon/</loc>
+    <loc>/core/ref/attack-action/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/bident-weapon/</loc>
+    <loc>/tags/ax/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/blowgun-weapon/</loc>
+    <loc>/core/ref/ax/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/buckler-weapon/</loc>
+    <loc>/tags/basic-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/bulwark/</loc>
+    <loc>/core/ref/bastard-sword-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/core/ref/battleax-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/chain-mail-armor/</loc>
+    <loc>/core/ref/bident-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/close/</loc>
+    <loc>/core/ref/blowgun-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/close/</loc>
+    <loc>/core/ref/buckler-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/clothing-armor/</loc>
+    <loc>/core/ref/bulwark/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/club-weapon/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/comfortable/</loc>
+    <loc>/core/ref/chain-mail-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/counter/</loc>
+    <loc>/tags/close/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/cover/</loc>
+    <loc>/core/ref/close/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/cudgel/</loc>
+    <loc>/core/ref/clothing-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/cudgel/</loc>
+    <loc>/core/ref/club-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/curved-blade-weapon/</loc>
+    <loc>/core/ref/cognition-skill/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/dagger-weapon/</loc>
+    <loc>/core/ref/comfortable/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/damage-types/</loc>
+    <loc>/core/ref/coordination-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/dart-weapon/</loc>
+    <loc>/core/ref/counter/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/default/</loc>
+    <loc>/core/ref/cover/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/dodge-skill/</loc>
+    <loc>/tags/cudgel/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/equipment/</loc>
+    <loc>/core/ref/cudgel/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/extreme/</loc>
+    <loc>/core/ref/curved-blade-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/</loc>
+    <loc>/core/ref/dagger-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/fight-skill/</loc>
+    <loc>/core/ref/damage-types/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/flail-weapon/</loc>
+    <loc>/core/ref/dart-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/glaive-weapon/</loc>
+    <loc>/tags/default/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/greatax-weapon/</loc>
+    <loc>/core/ref/dodge-skill/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/greatclub-weapon/</loc>
+    <loc>/tags/equipment/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/greatsword-weapon/</loc>
+    <loc>/core/ref/extreme/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/halberd-weapon/</loc>
+    <loc>/core/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/half-plate-armor/</loc>
+    <loc>/core/ref/fight-skill/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/hammer-weapon/</loc>
+    <loc>/core/ref/flail-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/hand-crossbow-weapon/</loc>
+    <loc>/core/ref/full-plate-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/handax-weapon/</loc>
+    <loc>/core/ref/glaive-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/heavy/</loc>
+    <loc>/core/ref/greatax-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/heavy-armor/</loc>
+    <loc>/core/ref/greatclub-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/heavy-crossbow-weapon/</loc>
+    <loc>/core/ref/greatsword-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/heavy-shield-weapon/</loc>
+    <loc>/core/ref/halberd-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/hidden/</loc>
+    <loc>/core/ref/half-plate-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/hide-armor-armor/</loc>
+    <loc>/core/ref/hammer-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/javelin-weapon/</loc>
+    <loc>/core/ref/hand-crossbow-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/knife-weapon/</loc>
+    <loc>/core/ref/handax-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/lance-weapon/</loc>
+    <loc>/tags/heavy/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/leather-armor/</loc>
+    <loc>/core/ref/heavy-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/light/</loc>
+    <loc>/core/ref/heavy-crossbow-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/light-trait/</loc>
+    <loc>/core/ref/heavy-shield-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/light-armor/</loc>
+    <loc>/core/ref/hidden/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/light-crossbow-weapon/</loc>
+    <loc>/core/ref/hide-armor-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/load-action/</loc>
+    <loc>/core/ref/immediate/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/loaded/</loc>
+    <loc>/core/ref/javelin-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/long/</loc>
+    <loc>/core/ref/knife-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/long/</loc>
+    <loc>/core/ref/knife-fighter-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/long-arm/</loc>
+    <loc>/core/ref/lance-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/long-arm/</loc>
+    <loc>/core/ref/leather-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/long-blade/</loc>
+    <loc>/tags/light/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/long-blade/</loc>
+    <loc>/core/ref/light-trait/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/longbow-weapon/</loc>
+    <loc>/core/ref/light-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/longsword-weapon/</loc>
+    <loc>/core/ref/light-crossbow-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/mace-weapon/</loc>
+    <loc>/core/ref/load-action/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/maul-weapon/</loc>
+    <loc>/core/ref/loaded/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/medium/</loc>
+    <loc>/tags/long/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/medium-armor/</loc>
+    <loc>/core/ref/long/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/metallic/</loc>
+    <loc>/core/ref/long-arm/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/morningstar-weapon/</loc>
+    <loc>/tags/long-arm/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/noisy/</loc>
+    <loc>/core/ref/long-blade/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/padded-armor-armor/</loc>
+    <loc>/tags/long-blade/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/partial-plate-armor/</loc>
+    <loc>/tags/long-blade-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/passive-action/</loc>
+    <loc>/core/ref/longbow-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/pavise-weapon/</loc>
+    <loc>/core/ref/longsword-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/pike-weapon/</loc>
+    <loc>/core/ref/mace-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/plant-weapon-action/</loc>
+    <loc>/core/ref/manuscripts-and-codices-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/planted/</loc>
+    <loc>/core/ref/maul-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/polearm/</loc>
+    <loc>/tags/medium/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/polearm/</loc>
+    <loc>/core/ref/medium-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/positive-condition/</loc>
+    <loc>/core/ref/metallic/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/range/</loc>
+    <loc>/core/ref/morningstar-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/rapier-weapon/</loc>
+    <loc>/core/ref/noisy/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/restrictive/</loc>
+    <loc>/core/ref/notice-skill/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/robes-armor/</loc>
+    <loc>/core/ref/opportunity-attack-reaction/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/scale-mail-armor/</loc>
+    <loc>/core/ref/opportunity-attack-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/shield/</loc>
+    <loc>/core/ref/padded-armor-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/shield-arch/</loc>
+    <loc>/core/ref/partial-plate-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/shield-weapon/</loc>
+    <loc>/tags/passive-action/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/short/</loc>
+    <loc>/core/ref/pavise-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/short/</loc>
+    <loc>/core/ref/pike-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/short-arm/</loc>
+    <loc>/core/ref/plant-weapon-action/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/short-arm/</loc>
+    <loc>/core/ref/planted/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/short-blade/</loc>
+    <loc>/tags/polearm/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/short-blade/</loc>
+    <loc>/core/ref/polearm/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/shortbow-weapon/</loc>
+    <loc>/tags/positive-condition/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/shortsword-weapon/</loc>
+    <loc>/tags/range/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/skill/</loc>
+    <loc>/core/ref/rapier-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/sling-weapon/</loc>
+    <loc>/tags/reaction/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/spear-weapon/</loc>
+    <loc>/core/ref/reactive-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/staff-weapon/</loc>
+    <loc>/core/ref/repeatable/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/studded-leather-armor/</loc>
+    <loc>/core/ref/restrictive/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/core/ref/robes-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/thrown/</loc>
+    <loc>/core/ref/scale-mail-armor/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/tower-shield-weapon/</loc>
+    <loc>/tags/shield/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/trident-weapon/</loc>
+    <loc>/core/ref/shield-arch/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/two-handed/</loc>
+    <loc>/core/ref/shield-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/unarmored/</loc>
+    <loc>/core/ref/shoot-skill/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/unarmored/</loc>
+    <loc>/tags/short/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/versatile/</loc>
+    <loc>/core/ref/short/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/war-pick-weapon/</loc>
+    <loc>/core/ref/short-arm/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/weapon/</loc>
+    <loc>/tags/short-arm/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/weapon-archetype/</loc>
+    <loc>/tags/short-blade/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/weapon-trait/</loc>
+    <loc>/core/ref/short-blade/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/whip/</loc>
+    <loc>/tags/short-blade-specialization/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/whip-arch/</loc>
+    <loc>/core/ref/shortbow-weapon/</loc>
   </url><url>
-    <loc>//localhost:1313/core/ref/whip-weapon/</loc>
+    <loc>/core/ref/shortsword-weapon/</loc>
+  </url><url>
+    <loc>/tags/skill/</loc>
+  </url><url>
+    <loc>/core/ref/sling-weapon/</loc>
+  </url><url>
+    <loc>/core/ref/spear-weapon/</loc>
+  </url><url>
+    <loc>/tags/specialization/</loc>
+  </url><url>
+    <loc>/tags/specialization-trait/</loc>
+  </url><url>
+    <loc>/tags/specializationtrait/</loc>
+  </url><url>
+    <loc>/core/ref/staff-weapon/</loc>
+  </url><url>
+    <loc>/core/ref/studded-leather-armor/</loc>
+  </url><url>
+    <loc>/core/ref/tactics-skill/</loc>
+  </url><url>
+    <loc>/tags/</loc>
+  </url><url>
+    <loc>/core/ref/talent-specialization/</loc>
+  </url><url>
+    <loc>/core/ref/thrown/</loc>
+  </url><url>
+    <loc>/core/ref/tower-shield-weapon/</loc>
+  </url><url>
+    <loc>/core/ref/trident-weapon/</loc>
+  </url><url>
+    <loc>/core/ref/two-handed/</loc>
+  </url><url>
+    <loc>/tags/unarmored/</loc>
+  </url><url>
+    <loc>/core/ref/unarmored/</loc>
+  </url><url>
+    <loc>/core/ref/use-unequipped-item-action/</loc>
+  </url><url>
+    <loc>/core/ref/versatile/</loc>
+  </url><url>
+    <loc>/core/ref/vigor-skill/</loc>
+  </url><url>
+    <loc>/core/ref/vitality-specialization/</loc>
+  </url><url>
+    <loc>/core/ref/war-pick-weapon/</loc>
+  </url><url>
+    <loc>/tags/weapon/</loc>
+  </url><url>
+    <loc>/tags/weapon-archetype/</loc>
+  </url><url>
+    <loc>/tags/weapon-specialization/</loc>
+  </url><url>
+    <loc>/tags/weapon-trait/</loc>
+  </url><url>
+    <loc>/tags/whip/</loc>
+  </url><url>
+    <loc>/core/ref/whip-arch/</loc>
+  </url><url>
+    <loc>/core/ref/whip-weapon/</loc>
+  </url><url>
+    <loc>/core/ref/will-skill/</loc>
   </url>
 </urlset>

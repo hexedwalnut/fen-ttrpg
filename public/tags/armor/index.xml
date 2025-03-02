@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Armor on Fen TTRPG</title>
-    <link>//localhost:1313/tags/armor/</link>
+    <link>/tags/armor/</link>
     <description>Recent content in Armor on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/armor/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/armor/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chain Mail</title>
-      <link>//localhost:1313/core/ref/chain-mail-armor/</link>
+      <link>/core/ref/chain-mail-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/chain-mail-armor/</guid>
+      <guid>/core/ref/chain-mail-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -36,14 +36,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -77,14 +77,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -96,10 +96,10 @@
     
     <item>
       <title>Clothing</title>
-      <link>//localhost:1313/core/ref/clothing-armor/</link>
+      <link>/core/ref/clothing-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/clothing-armor/</guid>
+      <guid>/core/ref/clothing-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -111,7 +111,7 @@
         &lt;td&gt;Clothing&lt;/td&gt;
         &lt;td&gt;-&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+            &lt;a href=&#34;/core/ref/unarmored/&#34;&gt;
                 
                     Unarmored
                 
@@ -124,12 +124,15 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
                 
             
         &lt;/td&gt;
     &lt;/tr&gt;
-&lt;/table&gt;</description>
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Any type of normal clothing not meant as armor.&lt;/p&gt;</description>
       <content>
 
 
@@ -147,7 +150,7 @@
         &lt;td&gt;Clothing&lt;/td&gt;
         &lt;td&gt;-&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+            &lt;a href=&#34;/core/ref/unarmored/&#34;&gt;
                 
                     Unarmored
                 
@@ -160,7 +163,111 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Any type of normal clothing not meant as armor.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Full Plate</title>
+      <link>/core/ref/full-plate-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/full-plate-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Full Plate&lt;/td&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Heavy
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Full Plate&lt;/td&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Heavy
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -172,10 +279,10 @@
     
     <item>
       <title>Half Plate</title>
-      <link>//localhost:1313/core/ref/half-plate-armor/</link>
+      <link>/core/ref/half-plate-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/half-plate-armor/</guid>
+      <guid>/core/ref/half-plate-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -185,7 +292,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;Half Plate&lt;/td&gt;
-        &lt;td&gt;20&lt;/td&gt;
+        &lt;td&gt;17&lt;/td&gt;
         &lt;td&gt;
             &lt;a href=&#34;ERROR&#34;&gt;
                 
@@ -200,21 +307,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -233,7 +340,7 @@
     &lt;/tr&gt;
     &lt;tr&gt;
         &lt;td&gt;Half Plate&lt;/td&gt;
-        &lt;td&gt;20&lt;/td&gt;
+        &lt;td&gt;17&lt;/td&gt;
         &lt;td&gt;
             &lt;a href=&#34;ERROR&#34;&gt;
                 
@@ -248,21 +355,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -274,10 +381,10 @@
     
     <item>
       <title>Hide Armor</title>
-      <link>//localhost:1313/core/ref/hide-armor-armor/</link>
+      <link>/core/ref/hide-armor-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/hide-armor-armor/</guid>
+      <guid>/core/ref/hide-armor-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -348,10 +455,10 @@
     
     <item>
       <title>Leather</title>
-      <link>//localhost:1313/core/ref/leather-armor/</link>
+      <link>/core/ref/leather-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/leather-armor/</guid>
+      <guid>/core/ref/leather-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -376,7 +483,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -410,7 +517,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -422,10 +529,10 @@
     
     <item>
       <title>Padded Armor</title>
-      <link>//localhost:1313/core/ref/padded-armor-armor/</link>
+      <link>/core/ref/padded-armor-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/padded-armor-armor/</guid>
+      <guid>/core/ref/padded-armor-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -496,10 +603,10 @@
     
     <item>
       <title>Partial Plate</title>
-      <link>//localhost:1313/core/ref/partial-plate-armor/</link>
+      <link>/core/ref/partial-plate-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/partial-plate-armor/</guid>
+      <guid>/core/ref/partial-plate-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -524,21 +631,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -572,21 +679,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -598,10 +705,10 @@
     
     <item>
       <title>Robes</title>
-      <link>//localhost:1313/core/ref/robes-armor/</link>
+      <link>/core/ref/robes-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/robes-armor/</guid>
+      <guid>/core/ref/robes-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -613,7 +720,7 @@
         &lt;td&gt;Robes&lt;/td&gt;
         &lt;td&gt;-&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+            &lt;a href=&#34;/core/ref/unarmored/&#34;&gt;
                 
                     Unarmored
                 
@@ -626,7 +733,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -649,7 +756,7 @@
         &lt;td&gt;Robes&lt;/td&gt;
         &lt;td&gt;-&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+            &lt;a href=&#34;/core/ref/unarmored/&#34;&gt;
                 
                     Unarmored
                 
@@ -662,7 +769,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -674,10 +781,10 @@
     
     <item>
       <title>Scale Mail</title>
-      <link>//localhost:1313/core/ref/scale-mail-armor/</link>
+      <link>/core/ref/scale-mail-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/scale-mail-armor/</guid>
+      <guid>/core/ref/scale-mail-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -702,21 +809,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -750,21 +857,21 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -776,10 +883,10 @@
     
     <item>
       <title>Studded Leather</title>
-      <link>//localhost:1313/core/ref/studded-leather-armor/</link>
+      <link>/core/ref/studded-leather-armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/studded-leather-armor/</guid>
+      <guid>/core/ref/studded-leather-armor/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;

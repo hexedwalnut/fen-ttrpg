@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Specialization on Fen TTRPG</title>
-    <link>//localhost:1313/tags/specialization/</link>
+    <link>/tags/specialization/</link>
     <description>Recent content in Specialization on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/specialization/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/specialization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aggressive</title>
-      <link>//localhost:1313/core/ref/aggressive-specialization/</link>
+      <link>/core/ref/aggressive-specialization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/aggressive-specialization/</guid>
+      <guid>/core/ref/aggressive-specialization/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Cost&lt;/th&gt;
@@ -25,7 +25,7 @@
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -37,7 +37,7 @@
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/fight-skill/&#34;&gt;fight(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/fight-skill/&#34;&gt;fight(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -58,7 +58,7 @@
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -70,7 +70,7 @@
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/fight-skill/&#34;&gt;fight(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/fight-skill/&#34;&gt;fight(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -83,10 +83,10 @@
     
     <item>
       <title>Assurance</title>
-      <link>//localhost:1313/core/ref/assurance-specialization/</link>
+      <link>/core/ref/assurance-specialization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/assurance-specialization/</guid>
+      <guid>/core/ref/assurance-specialization/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Cost&lt;/th&gt;
@@ -100,7 +100,7 @@
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4) per skill&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4) per skill&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -119,7 +119,7 @@
 &lt;/table&gt;
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Pick a skill your actor has. Increase the number of dice rolled for this skill by 1. For example, if your actor has 1d6 in the Fight skill, after taking this specialization, your actor would roll 2d6 in the Fight skill. Note, once a skill is selected for Assurance it cannot be selected for &lt;a href=&#34;//localhost:1313/core/ref/talent-specialization/&#34;&gt;Talent&lt;/a&gt;. This means that once you select Assurance on a skill, you can never increase the sides of the die.&lt;/p&gt;</description>
+&lt;p&gt;Pick a skill your actor has. Increase the number of dice rolled for this skill by 1. For example, if your actor has 1d6 in the Fight skill, after taking this specialization, your actor would roll 2d6 in the Fight skill. Note, once a skill is selected for Assurance it cannot be selected for &lt;a href=&#34;/core/ref/talent-specialization/&#34;&gt;Talent&lt;/a&gt;. This means that once you select Assurance on a skill, you can never increase the sides of the die.&lt;/p&gt;</description>
       <content>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Cost&lt;/th&gt;
@@ -133,7 +133,7 @@
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4) per skill&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4) per skill&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -152,91 +152,16 @@
 &lt;/table&gt;
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Pick a skill your actor has. Increase the number of dice rolled for this skill by 1. For example, if your actor has 1d6 in the Fight skill, after taking this specialization, your actor would roll 2d6 in the Fight skill. Note, once a skill is selected for Assurance it cannot be selected for &lt;a href=&#34;//localhost:1313/core/ref/talent-specialization/&#34;&gt;Talent&lt;/a&gt;. This means that once you select Assurance on a skill, you can never increase the sides of the die.&lt;/p&gt;
+&lt;p&gt;Pick a skill your actor has. Increase the number of dice rolled for this skill by 1. For example, if your actor has 1d6 in the Fight skill, after taking this specialization, your actor would roll 2d6 in the Fight skill. Note, once a skill is selected for Assurance it cannot be selected for &lt;a href=&#34;/core/ref/talent-specialization/&#34;&gt;Talent&lt;/a&gt;. This means that once you select Assurance on a skill, you can never increase the sides of the die.&lt;/p&gt;
 </content>
     </item>
     
     <item>
       <title>Coordination</title>
-      <link>//localhost:1313/core/ref/coordination-specialization/</link>
+      <link>/core/ref/coordination-specialization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/coordination-specialization/</guid>
-      <description>&lt;p&gt;c&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Cost&lt;/th&gt;
-        &lt;td&gt;0 sp&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Traits&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Prerequisites&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/tactics-skill/&#34;&gt;tactics(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-&lt;/table&gt;
-ation-front &amp;gt;}}&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;You gain an additional passive act&lt;/p&gt;</description>
-      <content>&lt;p&gt;c&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Cost&lt;/th&gt;
-        &lt;td&gt;0 sp&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Traits&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Prerequisites&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/tactics-skill/&#34;&gt;tactics(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-&lt;/table&gt;
-ation-front &amp;gt;}}&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;You gain an additional passive act&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Knife Fighter</title>
-      <link>//localhost:1313/core/ref/knife-fighter-specialization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/core/ref/knife-fighter-specialization/</guid>
+      <guid>/core/ref/coordination-specialization/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Cost&lt;/th&gt;
@@ -250,7 +175,82 @@ ation-front &amp;gt;}}&lt;/p&gt;
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/tactics-skill/&#34;&gt;tactics(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;You gain an additional passive action per turn.&lt;/p&gt;</description>
+      <content>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/tactics-skill/&#34;&gt;tactics(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;You gain an additional passive action per turn.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Knife Fighter</title>
+      <link>/core/ref/knife-fighter-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/knife-fighter-specialization/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -270,10 +270,10 @@ ation-front &amp;gt;}}&lt;/p&gt;
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;You gain an additional die when rolling damage using a weapon
-with the &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;short-blade&lt;/a&gt;
+with the &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;short-blade&lt;/a&gt;
 archetype. The type of die is determined by the default sides of
 the weapon. For example, a standard
-&lt;a href=&#34;//localhost:1313/core/ref/dagger-weapon/&#34;&gt;Dagger&lt;/a&gt; has a weapon die
+&lt;a href=&#34;/core/ref/dagger-weapon/&#34;&gt;Dagger&lt;/a&gt; has a weapon die
 of 1d4. When rolling damage after taking this specialization you
 instead roll 2d4. If, instead, the weapon had multiple default
 weapon dice you only add one additional die of the highest sides.
@@ -293,7 +293,7 @@ offhanded weapons as well.&lt;/p&gt;</description>
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -313,10 +313,10 @@ offhanded weapons as well.&lt;/p&gt;</description>
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;You gain an additional die when rolling damage using a weapon
-with the &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;short-blade&lt;/a&gt;
+with the &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;short-blade&lt;/a&gt;
 archetype. The type of die is determined by the default sides of
 the weapon. For example, a standard
-&lt;a href=&#34;//localhost:1313/core/ref/dagger-weapon/&#34;&gt;Dagger&lt;/a&gt; has a weapon die
+&lt;a href=&#34;/core/ref/dagger-weapon/&#34;&gt;Dagger&lt;/a&gt; has a weapon die
 of 1d4. When rolling damage after taking this specialization you
 instead roll 2d4. If, instead, the weapon had multiple default
 weapon dice you only add one additional die of the highest sides.
@@ -328,10 +328,10 @@ offhanded weapons as well.&lt;/p&gt;
     
     <item>
       <title>Manuscripts and Codices</title>
-      <link>//localhost:1313/core/ref/manuscripts-and-codices-specialization/</link>
+      <link>/core/ref/manuscripts-and-codices-specialization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/manuscripts-and-codices-specialization/</guid>
+      <guid>/core/ref/manuscripts-and-codices-specialization/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Cost&lt;/th&gt;
@@ -345,7 +345,7 @@ offhanded weapons as well.&lt;/p&gt;
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -365,10 +365,10 @@ offhanded weapons as well.&lt;/p&gt;
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;You gain an additional die when rolling damage using a weapon
-with the &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;long-blade&lt;/a&gt;
+with the &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;long-blade&lt;/a&gt;
 archetype. The type of die is determined by the default sides of
 the weapon. For example, a standard
-&lt;a href=&#34;//localhost:1313/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt; has a weapon die
+&lt;a href=&#34;/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt; has a weapon die
 of 1d8. When rolling damage after taking this specialization you
 instead roll 2d8. If, instead, the weapon had multiple default
 weapon dice you only add one additional die of the highest sides.
@@ -388,7 +388,7 @@ offhanded weapons as well.&lt;/p&gt;</description>
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -408,10 +408,10 @@ offhanded weapons as well.&lt;/p&gt;</description>
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;You gain an additional die when rolling damage using a weapon
-with the &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;long-blade&lt;/a&gt;
+with the &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;long-blade&lt;/a&gt;
 archetype. The type of die is determined by the default sides of
 the weapon. For example, a standard
-&lt;a href=&#34;//localhost:1313/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt; has a weapon die
+&lt;a href=&#34;/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt; has a weapon die
 of 1d8. When rolling damage after taking this specialization you
 instead roll 2d8. If, instead, the weapon had multiple default
 weapon dice you only add one additional die of the highest sides.
@@ -423,160 +423,10 @@ offhanded weapons as well.&lt;/p&gt;
     
     <item>
       <title>Opportunity Attack</title>
-      <link>//localhost:1313/core/ref/opportunity-attack-specialization/</link>
+      <link>/core/ref/opportunity-attack-specialization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/opportunity-attack-specialization/</guid>
-      <description>&lt;p&gt;c&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Cost&lt;/th&gt;
-        &lt;td&gt;0 sp&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Traits&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;-&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Prerequisites&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/tactics-skill/&#34;&gt;tactics(1d6&amp;#43;)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-&lt;/table&gt;
-ation-front &amp;gt;}}&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;You gain the [**Opportu//localhost:1313/core/ref/opportunity-attack-reaction/eaction.md&amp;quot; &amp;gt;&lt;/p&gt;</description>
-      <content>&lt;p&gt;c&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Cost&lt;/th&gt;
-        &lt;td&gt;0 sp&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Traits&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;-&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Prerequisites&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/tactics-skill/&#34;&gt;tactics(1d6&amp;#43;)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-&lt;/table&gt;
-ation-front &amp;gt;}}&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;You gain the [**Opportu//localhost:1313/core/ref/opportunity-attack-reaction/eaction.md&amp;quot; &amp;gt;&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Reactive</title>
-      <link>//localhost:1313/core/ref/reactive-specialization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/core/ref/reactive-specialization/</guid>
-      <description>&lt;p&gt;g&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Cost&lt;/th&gt;
-        &lt;td&gt;0 sp&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Traits&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Prerequisites&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/dodge-skill/&#34;&gt;dodge(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-&lt;/table&gt;
-ation-front &amp;gt;}}&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;You gain an additional reacti&lt;/p&gt;</description>
-      <content>&lt;p&gt;g&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Cost&lt;/th&gt;
-        &lt;td&gt;0 sp&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Traits&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Prerequisites&lt;/th&gt;
-        
-        
-        
-            
-        
-        
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/dodge-skill/&#34;&gt;dodge(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
-        
-        
-    &lt;/tr&gt;
-&lt;/table&gt;
-ation-front &amp;gt;}}&lt;/p&gt;
-&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;You gain an additional reacti&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Talent</title>
-      <link>//localhost:1313/core/ref/talent-specialization/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/core/ref/talent-specialization/</guid>
+      <guid>/core/ref/opportunity-attack-specialization/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Cost&lt;/th&gt;
@@ -590,7 +440,7 @@ ation-front &amp;gt;}}&lt;/p&gt;
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;-&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -602,14 +452,14 @@ ation-front &amp;gt;}}&lt;/p&gt;
             
         
         
-        &lt;td&gt;-&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/tactics-skill/&#34;&gt;tactics(1d6&amp;#43;)&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
 &lt;/table&gt;
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Select a skill your actor has that was not selected by the &lt;a href=&#34;//localhost:1313/core/ref/assurance-specialization/&#34;&gt;Assurance&lt;/a&gt; specialization. Increase its die by one increment.&lt;/p&gt;</description>
+&lt;p&gt;You gain the &lt;a href=&#34;/core/ref/opportunity-attack-reaction/&#34;&gt;&lt;strong&gt;Opportunity Attack&lt;/strong&gt;&lt;/a&gt; reaction.&lt;/p&gt;</description>
       <content>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Cost&lt;/th&gt;
@@ -623,7 +473,124 @@ ation-front &amp;gt;}}&lt;/p&gt;
             
         
         
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;-&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/tactics-skill/&#34;&gt;tactics(1d6&amp;#43;)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;You gain the &lt;a href=&#34;/core/ref/opportunity-attack-reaction/&#34;&gt;&lt;strong&gt;Opportunity Attack&lt;/strong&gt;&lt;/a&gt; reaction.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Reactive</title>
+      <link>/core/ref/reactive-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/reactive-specialization/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/dodge-skill/&#34;&gt;dodge(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;You gain an additional reaction per round.&lt;/p&gt;</description>
+      <content>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/dodge-skill/&#34;&gt;dodge(1d8&amp;#43;)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;You gain an additional reaction per round.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Talent</title>
+      <link>/core/ref/talent-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/talent-specialization/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable&lt;/a&gt;&lt;/td&gt;
         
         
     &lt;/tr&gt;
@@ -642,7 +609,115 @@ ation-front &amp;gt;}}&lt;/p&gt;
 &lt;/table&gt;
 
 &lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;Select a skill your actor has that was not selected by the &lt;a href=&#34;//localhost:1313/core/ref/assurance-specialization/&#34;&gt;Assurance&lt;/a&gt; specialization. Increase its die by one increment.&lt;/p&gt;
+&lt;p&gt;Select a skill your actor has that was not selected by the &lt;a href=&#34;/core/ref/assurance-specialization/&#34;&gt;Assurance&lt;/a&gt; specialization. Increase its die by one increment.&lt;/p&gt;</description>
+      <content>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;-&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Select a skill your actor has that was not selected by the &lt;a href=&#34;/core/ref/assurance-specialization/&#34;&gt;Assurance&lt;/a&gt; specialization. Increase its die by one increment.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Vitality</title>
+      <link>/core/ref/vitality-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/core/ref/vitality-specialization/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;-&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Roll non-explosive &lt;a href=&#34;/core/ref/vigor-skill/&#34;&gt;vigor&lt;/a&gt; (or take half the skill die&amp;rsquo;s sides) and add the result to maximum HP.&lt;/p&gt;</description>
+      <content>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;/core/ref/repeatable/&#34;&gt;Repeatable&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;-&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Roll non-explosive &lt;a href=&#34;/core/ref/vigor-skill/&#34;&gt;vigor&lt;/a&gt; (or take half the skill die&amp;rsquo;s sides) and add the result to maximum HP.&lt;/p&gt;
 </content>
     </item>
     

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Long-Blade on Fen TTRPG</title>
-    <link>//localhost:1313/tags/long-blade/</link>
+    <link>/tags/long-blade/</link>
     <description>Recent content in Long-Blade on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/long-blade/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/long-blade/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bastard Sword</title>
-      <link>//localhost:1313/core/ref/bastard-sword-weapon/</link>
+      <link>/core/ref/bastard-sword-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/bastard-sword-weapon/</guid>
+      <guid>/core/ref/bastard-sword-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -24,12 +24,12 @@
     &lt;tr&gt;
         &lt;td&gt;Bastard Sword&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;
                 
                     Long-blade
                 
@@ -42,7 +42,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -81,12 +81,12 @@
     &lt;tr&gt;
         &lt;td&gt;Bastard Sword&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;
                 
                     Long-blade
                 
@@ -99,7 +99,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -112,10 +112,10 @@
     
     <item>
       <title>Greatsword</title>
-      <link>//localhost:1313/core/ref/greatsword-weapon/</link>
+      <link>/core/ref/greatsword-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/greatsword-weapon/</guid>
+      <guid>/core/ref/greatsword-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -128,12 +128,12 @@
     &lt;tr&gt;
         &lt;td&gt;Greatsword&lt;/td&gt;
         &lt;td&gt;
-            2d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            2d6 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;
                 
                     Long-blade
                 
@@ -146,14 +146,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -192,12 +192,12 @@
     &lt;tr&gt;
         &lt;td&gt;Greatsword&lt;/td&gt;
         &lt;td&gt;
-            2d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            2d6 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;
                 
                     Long-blade
                 
@@ -210,14 +210,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -230,10 +230,10 @@
     
     <item>
       <title>Longsword</title>
-      <link>//localhost:1313/core/ref/longsword-weapon/</link>
+      <link>/core/ref/longsword-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/longsword-weapon/</guid>
+      <guid>/core/ref/longsword-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -246,12 +246,12 @@
     &lt;tr&gt;
         &lt;td&gt;Longsword&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;
                 
                     Long-blade
                 
@@ -264,14 +264,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -310,12 +310,12 @@
     &lt;tr&gt;
         &lt;td&gt;Longsword&lt;/td&gt;
         &lt;td&gt;
-            1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+            1d8 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;3&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;
+            &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;
                 
                     Long-blade
                 
@@ -328,14 +328,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
                 
             
         &lt;/td&gt;

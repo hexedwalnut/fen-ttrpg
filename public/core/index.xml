@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fen TTRPG Core on Fen TTRPG</title>
-    <link>//localhost:1313/core/</link>
+    <link>/core/</link>
     <description>Recent content in Fen TTRPG Core on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/core/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/core/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01 - Introduction</title>
-      <link>//localhost:1313/core/chapters/introduction/</link>
+      <link>/core/chapters/introduction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/chapters/introduction/</guid>
+      <guid>/core/chapters/introduction/</guid>
       <description>&lt;h3 id=&#34;contest&#34;&gt;Contest&lt;/h3&gt;
 &lt;p&gt;Skill contests are one of the most used mechanics in Fen. When asked to roll a skill contest, each &amp;ldquo;side&amp;rdquo; rolls a skill, the actor with the higher result wins. A contest is written as &lt;code&gt;skill_1&lt;/code&gt;/&lt;code&gt;skill_2&lt;/code&gt; where the first skill, &lt;code&gt;skill_1&lt;/code&gt; represents the aggressors skill and &lt;code&gt;skill_2&lt;/code&gt; represents the defenders skill. For example, a fight/vigor contest would have the aggressor roll a fight skill vs. the defender&amp;rsquo;s vigor skill. Ties are in favor of the defender in a &amp;ldquo;meet or beat&amp;rdquo; fashion. For example, in a dodge/notice contest (common when hiding), the defender (the one trying to find the hiding actor) wins if they meet or beat the aggressor&amp;rsquo;s (hider&amp;rsquo;s) dodge.&lt;/p&gt;</description>
       <content>&lt;h3 id=&#34;contest&#34;&gt;Contest&lt;/h3&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>02 - Actor Creation</title>
-      <link>//localhost:1313/core/chapters/actor-creation/</link>
+      <link>/core/chapters/actor-creation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/chapters/actor-creation/</guid>
+      <guid>/core/chapters/actor-creation/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;All the world&amp;rsquo;s a stage, And all the men and women merely players; They have their exits and their entrances; And one man in his time plays many parts, Hist acts being seven ages.&amp;rdquo; - William Shakespeare&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;what-is-an-actor&#34;&gt;What is an actor?&lt;/h2&gt;
@@ -96,10 +96,10 @@ A faction with high a will might have an increased sense of belonging or good in
     
     <item>
       <title>03 - Combat</title>
-      <link>//localhost:1313/core/chapters/combat/</link>
+      <link>/core/chapters/combat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/chapters/combat/</guid>
+      <guid>/core/chapters/combat/</guid>
       <description>&lt;p&gt;Introduction to chapter… Many games have a prose example of a combat encounter, I like that, so will write my own once combat is worked out.&lt;/p&gt;
 &lt;h2 id=&#34;structure&#34;&gt;Structure&lt;/h2&gt;
 &lt;p&gt;A combat is a physical altercation between one or more sides (most often two sides). The game breaks combats into rounds and turns. A &lt;strong&gt;round&lt;/strong&gt; represents an elastic amount of in-world time, but must allow every actor the opportunity to act. In this way, a round in a combat between factions might last days, whereas a round between rowdy bar patrons might last a few seconds. The elastic time tries to support the narrative feel of a specific combat, allowing for time between rounds in the same combat as well as time between turns in combat that supports the feeling of the fight as oppose to the rigor of other tactical focused TTRPGs. For example, in a trench warfare combat, one round might last an hour between shots, meaning the actions in the round are spaced out with time in-between.&lt;/p&gt;</description>
@@ -260,47 +260,47 @@ $$&lt;/p&gt;
     
     <item>
       <title>04 - Equipment</title>
-      <link>//localhost:1313/core/chapters/equipment/</link>
+      <link>/core/chapters/equipment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/chapters/equipment/</guid>
+      <guid>/core/chapters/equipment/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;It matters little how much equipment we use; it matters much that we be masters of all we do use. - Sam Abell&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;weapons&#34;&gt;Weapons&lt;/h2&gt;
 &lt;p&gt;Weapons are defined by a combination of a damage die, defense rating, range, archetype, and various traits.&lt;/p&gt;
 &lt;h3 id=&#34;weapon-damage-die&#34;&gt;Weapon Damage Die&lt;/h3&gt;
-&lt;p&gt;The weapon die is the most straightforward of all the parts of a weapon. Weapon die determines the default die (dice) you roll for this weapon. The larger the die, generally the more damage a weapon does. Weapon die can be modified by specializations, materials, and/or traits. Base weapon die will be written alongside the weapon. Weapon dice are exploding by default (see &lt;a href=&#34;//localhost:1313/core/chapters/combat/&#34;&gt;Combat&lt;/a&gt; chapter).&lt;/p&gt;</description>
+&lt;p&gt;The weapon die is the most straightforward of all the parts of a weapon. Weapon die determines the default die (dice) you roll for this weapon. The larger the die, generally the more damage a weapon does. Weapon die can be modified by specializations, materials, and/or traits. Base weapon die will be written alongside the weapon. Weapon dice are exploding by default (see &lt;a href=&#34;/core/chapters/combat/&#34;&gt;Combat&lt;/a&gt; chapter).&lt;/p&gt;</description>
       <content>&lt;blockquote&gt;
 &lt;p&gt;&amp;ldquo;It matters little how much equipment we use; it matters much that we be masters of all we do use. - Sam Abell&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;weapons&#34;&gt;Weapons&lt;/h2&gt;
 &lt;p&gt;Weapons are defined by a combination of a damage die, defense rating, range, archetype, and various traits.&lt;/p&gt;
 &lt;h3 id=&#34;weapon-damage-die&#34;&gt;Weapon Damage Die&lt;/h3&gt;
-&lt;p&gt;The weapon die is the most straightforward of all the parts of a weapon. Weapon die determines the default die (dice) you roll for this weapon. The larger the die, generally the more damage a weapon does. Weapon die can be modified by specializations, materials, and/or traits. Base weapon die will be written alongside the weapon. Weapon dice are exploding by default (see &lt;a href=&#34;//localhost:1313/core/chapters/combat/&#34;&gt;Combat&lt;/a&gt; chapter).&lt;/p&gt;
+&lt;p&gt;The weapon die is the most straightforward of all the parts of a weapon. Weapon die determines the default die (dice) you roll for this weapon. The larger the die, generally the more damage a weapon does. Weapon die can be modified by specializations, materials, and/or traits. Base weapon die will be written alongside the weapon. Weapon dice are exploding by default (see &lt;a href=&#34;/core/chapters/combat/&#34;&gt;Combat&lt;/a&gt; chapter).&lt;/p&gt;
 &lt;h3 id=&#34;weapon-defense-rating&#34;&gt;Weapon Defense Rating&lt;/h3&gt;
-&lt;p&gt;Weapons have a defense rating that is used when blocking with the weapon. As described in the &lt;a href=&#34;//localhost:1313/core/chapters/combat/&#34;&gt;Combat&lt;/a&gt; chapter, weapons with a higher defense block more damage and take longer to break. Weapon Defense Rating can be modified by specializations, materials, and/or traits. Base weapon defense will be written alongside the weapon.&lt;/p&gt;
+&lt;p&gt;Weapons have a defense rating that is used when blocking with the weapon. As described in the &lt;a href=&#34;/core/chapters/combat/&#34;&gt;Combat&lt;/a&gt; chapter, weapons with a higher defense block more damage and take longer to break. Weapon Defense Rating can be modified by specializations, materials, and/or traits. Base weapon defense will be written alongside the weapon.&lt;/p&gt;
 &lt;h3 id=&#34;weapon-range&#34;&gt;Weapon Range&lt;/h3&gt;
 &lt;p&gt;Weapon range determines the effective range of weapons. Weapon range can be modified by specializations, materials, and/or traits. Base weapon range will be written alongside the weapon.&lt;/p&gt;
 &lt;p&gt;Ranges are divided into five categories:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;&lt;strong&gt;Adjacent&lt;/strong&gt;&lt;/a&gt;: These are melee weapons, you need to be next to the target to be within range.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;&lt;strong&gt;Close&lt;/strong&gt;&lt;/a&gt;: These are generally thrown weapons, they can be used within a close range. If specific positioning is needed close range weapons can be used within 20 to 60 feet.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/a&gt;: These are generally ranged weapons that are designed for skirmish type engagements. If specific positioning is needed short range weapons can be used within 30 to 120 feet.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/long/&#34;&gt;&lt;strong&gt;Long&lt;/strong&gt;&lt;/a&gt;: These are generally ranged weapons that are designed for battle/war type engagements. If specific position is needed long range weapons can be used within 80 to 320 feet.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/extreme/&#34;&gt;&lt;strong&gt;Extreme&lt;/strong&gt;&lt;/a&gt;: These are generally unlimited ranged weapons. They can target anything that the actor can see.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;&lt;strong&gt;Adjacent&lt;/strong&gt;&lt;/a&gt;: These are melee weapons, you need to be next to the target to be within range.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/close/&#34;&gt;&lt;strong&gt;Close&lt;/strong&gt;&lt;/a&gt;: These are generally thrown weapons, they can be used within a close range. If specific positioning is needed close range weapons can be used within 20 to 60 feet.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;&lt;strong&gt;Short&lt;/strong&gt;&lt;/a&gt;: These are generally ranged weapons that are designed for skirmish type engagements. If specific positioning is needed short range weapons can be used within 30 to 120 feet.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/long/&#34;&gt;&lt;strong&gt;Long&lt;/strong&gt;&lt;/a&gt;: These are generally ranged weapons that are designed for battle/war type engagements. If specific position is needed long range weapons can be used within 80 to 320 feet.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/extreme/&#34;&gt;&lt;strong&gt;Extreme&lt;/strong&gt;&lt;/a&gt;: These are generally unlimited ranged weapons. They can target anything that the actor can see.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h3 id=&#34;weapon-archetype&#34;&gt;Weapon Archetype&lt;/h3&gt;
 &lt;p&gt;Weapon type corresponds with the type of training that is needed to use the weapon to its highest degree. The weapon&amp;rsquo;s type determines which weapon specializations, if any, affect the weapon. Weapon type is a broad archetype of weapons and is broken into the following categories:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;&lt;strong&gt;Short-blade&lt;/strong&gt;&lt;/a&gt;: A short bladed weapon used for both piercing and slashing. The short blade archetype encompasses all knives and daggers.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;&lt;strong&gt;Long-blade&lt;/strong&gt;&lt;/a&gt;: A long bladed weapon used in both piercing and slashing. The long blade archetype encompasses all swords and great-swords.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;&lt;strong&gt;Short-arms&lt;/strong&gt;&lt;/a&gt;: A weapon used at range within proximity of melee combat. We lump thrown weapons and pistols into one archetype because their archetypes are similar (i.e., ranged weapon in close quarters). Note: not all ages have pistols. This archetype includes all thrown weapons and all pistols.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/long-arm/&#34;&gt;&lt;strong&gt;Long-arms&lt;/strong&gt;&lt;/a&gt;: A weapon used with precision in short to long range engagements. The focus of these weapons is in precision and one needs to be trained for accuracy. We lump bows and rifles into one archetype because their archetypes are similar (i.e., precision based weapons with high skill ceilings). Note: not all ages have rifles. Note: This archetype include both short and long bows, rifles of all kinds, and other precision-focused ranged weapons.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/ammunition/&#34;&gt;&lt;strong&gt;Ammunition&lt;/strong&gt;&lt;/a&gt;: A weapon&amp;rsquo;s ammunition. This archetype is used to give a special type of ammunition to long-arms and short-arms. Includes arrows and bullets.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;&lt;strong&gt;Ax&lt;/strong&gt;&lt;/a&gt;: A weapon with a short handle and a flat ax head in one or more directions. The ax archetype encompasses throwing axes/hatches, battle axes, woodcutting axes, etc. This archetype does not include polearms with ax heads or cleaver knives.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;&lt;strong&gt;Cudgel&lt;/strong&gt;&lt;/a&gt;: A blunt or heavy weapon used to bludgeon or slam enemies. The cudgel archetype encompasses maces, clubs, heavy clubs, warhammers, great-hammers, sheleighly, etc.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/polearm/&#34;&gt;&lt;strong&gt;Polearm&lt;/strong&gt;&lt;/a&gt;: A weapon that is a long stick ended in a blade/weapon head. The polearm archetype encompasses all polearms including spears.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;&lt;strong&gt;Shield&lt;/strong&gt;&lt;/a&gt;: A shield or shield-like weapon. The primary focus is on defense. The shield archetype encompasses all shields and held defenses.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/whip-arch/&#34;&gt;&lt;strong&gt;Whip&lt;/strong&gt;&lt;/a&gt;: A whip or whip-like weapon. The whip archetype is narrow and more focused on mobility or control than damage.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/short-blade/&#34;&gt;&lt;strong&gt;Short-blade&lt;/strong&gt;&lt;/a&gt;: A short bladed weapon used for both piercing and slashing. The short blade archetype encompasses all knives and daggers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/long-blade/&#34;&gt;&lt;strong&gt;Long-blade&lt;/strong&gt;&lt;/a&gt;: A long bladed weapon used in both piercing and slashing. The long blade archetype encompasses all swords and great-swords.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/short-arm/&#34;&gt;&lt;strong&gt;Short-arms&lt;/strong&gt;&lt;/a&gt;: A weapon used at range within proximity of melee combat. We lump thrown weapons and pistols into one archetype because their archetypes are similar (i.e., ranged weapon in close quarters). Note: not all ages have pistols. This archetype includes all thrown weapons and all pistols.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/long-arm/&#34;&gt;&lt;strong&gt;Long-arms&lt;/strong&gt;&lt;/a&gt;: A weapon used with precision in short to long range engagements. The focus of these weapons is in precision and one needs to be trained for accuracy. We lump bows and rifles into one archetype because their archetypes are similar (i.e., precision based weapons with high skill ceilings). Note: not all ages have rifles. Note: This archetype include both short and long bows, rifles of all kinds, and other precision-focused ranged weapons.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/ammunition/&#34;&gt;&lt;strong&gt;Ammunition&lt;/strong&gt;&lt;/a&gt;: A weapon&amp;rsquo;s ammunition. This archetype is used to give a special type of ammunition to long-arms and short-arms. Includes arrows and bullets.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/ax/&#34;&gt;&lt;strong&gt;Ax&lt;/strong&gt;&lt;/a&gt;: A weapon with a short handle and a flat ax head in one or more directions. The ax archetype encompasses throwing axes/hatches, battle axes, woodcutting axes, etc. This archetype does not include polearms with ax heads or cleaver knives.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/cudgel/&#34;&gt;&lt;strong&gt;Cudgel&lt;/strong&gt;&lt;/a&gt;: A blunt or heavy weapon used to bludgeon or slam enemies. The cudgel archetype encompasses maces, clubs, heavy clubs, warhammers, great-hammers, sheleighly, etc.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/polearm/&#34;&gt;&lt;strong&gt;Polearm&lt;/strong&gt;&lt;/a&gt;: A weapon that is a long stick ended in a blade/weapon head. The polearm archetype encompasses all polearms including spears.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;&lt;strong&gt;Shield&lt;/strong&gt;&lt;/a&gt;: A shield or shield-like weapon. The primary focus is on defense. The shield archetype encompasses all shields and held defenses.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/whip-arch/&#34;&gt;&lt;strong&gt;Whip&lt;/strong&gt;&lt;/a&gt;: A whip or whip-like weapon. The whip archetype is narrow and more focused on mobility or control than damage.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Note: some weapons may have more than one archetype or may gain another archetype through a specialization, material, and/or trait.&lt;/p&gt;
 &lt;h3 id=&#34;weapon-traits&#34;&gt;Weapon Traits&lt;/h3&gt;
@@ -319,12 +319,12 @@ $$&lt;/p&gt;
 
 &lt;h4 id=&#34;loadedx&#34;&gt;Loaded(X)&lt;/h4&gt;
 
-    This weapon uses &lt;a href=&#34;//localhost:1313/core/ref/ammunition/&#34;&gt;ammunition&lt;/a&gt; to make a ranged attack. Each time you use the weapon to attack you expend one piece of ammunition. The X property is the amount of ammunition you can fire before needing to reload using the &lt;a href=&#34;//localhost:1313/core/ref/load-action/&#34;&gt;Load&lt;/a&gt; aggressive action. A loading property of zero (0) means that you can draw the ammunition and fire the weapon as part of one aggressive action.
+    This weapon uses &lt;a href=&#34;/core/ref/ammunition/&#34;&gt;ammunition&lt;/a&gt; to make a ranged attack. Each time you use the weapon to attack you expend one piece of ammunition. The X property is the amount of ammunition you can fire before needing to reload using the &lt;a href=&#34;/core/ref/load-action/&#34;&gt;Load&lt;/a&gt; aggressive action. A loading property of zero (0) means that you can draw the ammunition and fire the weapon as part of one aggressive action.
 
 
 &lt;h4 id=&#34;thrownx&#34;&gt;Thrown(X)&lt;/h4&gt;
 
-    You can throw a weapon with the thrown trait. When throwing this weapon you  can use either &lt;a href=&#34;//localhost:1313/core/ref/fight-skill/&#34;&gt;&lt;em&gt;fight&lt;/em&gt;&lt;/a&gt; or &lt;a href=&#34;//localhost:1313/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; as skill die for the damage roll. You can throw this weapon in X range. Thrown weapons gain the &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;short-arm&lt;/a&gt; archetype in addition to all other archetypes.
+    You can throw a weapon with the thrown trait. When throwing this weapon you  can use either &lt;a href=&#34;/core/ref/fight-skill/&#34;&gt;&lt;em&gt;fight&lt;/em&gt;&lt;/a&gt; or &lt;a href=&#34;/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; as skill die for the damage roll. You can throw this weapon in X range. Thrown weapons gain the &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;short-arm&lt;/a&gt; archetype in addition to all other archetypes.
 
 
 &lt;h4 id=&#34;two-handed&#34;&gt;Two-handed&lt;/h4&gt;
@@ -339,7 +339,7 @@ $$&lt;/p&gt;
 
 &lt;h4 id=&#34;planted&#34;&gt;Planted&lt;/h4&gt;
 
-    While wielding this weapon you gain the passive action &lt;a href=&#34;//localhost:1313/core/ref/plant-weapon-action/&#34;&gt;&lt;strong&gt;Plant Weapon&lt;/strong&gt;&lt;/a&gt;.
+    While wielding this weapon you gain the passive action &lt;a href=&#34;/core/ref/plant-weapon-action/&#34;&gt;&lt;strong&gt;Plant Weapon&lt;/strong&gt;&lt;/a&gt;.
 
 
 &lt;h3 id=&#34;default-weapons-list&#34;&gt;Default Weapons List&lt;/h3&gt;
@@ -394,14 +394,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/curved-blade-weapon/&#34;&gt;Curved Blade&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/curved-blade-weapon/&#34;&gt;Curved Blade&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                     
                         Short-blade
                     
@@ -414,7 +414,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -440,14 +440,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/dagger-weapon/&#34;&gt;Dagger&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/dagger-weapon/&#34;&gt;Dagger&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                     
                         Short-blade
                     
@@ -460,21 +460,21 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -500,14 +500,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/knife-weapon/&#34;&gt;Knife&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/knife-weapon/&#34;&gt;Knife&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                     
                         Short-blade
                     
@@ -520,14 +520,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -553,14 +553,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/rapier-weapon/&#34;&gt;Rapier&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/rapier-weapon/&#34;&gt;Rapier&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d8 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                     
                         Short-blade
                     
@@ -573,7 +573,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -599,14 +599,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/shortsword-weapon/&#34;&gt;Shortsword&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/shortsword-weapon/&#34;&gt;Shortsword&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-blade/&#34;&gt;
                     
                         Short-blade
                     
@@ -619,14 +619,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(S)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -685,14 +685,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/bastard-sword-weapon/&#34;&gt;Bastard Sword&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/bastard-sword-weapon/&#34;&gt;Bastard Sword&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                1d8 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;
+                &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;
                     
                         Long-blade
                     
@@ -705,7 +705,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -731,14 +731,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/greatsword-weapon/&#34;&gt;Greatsword&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/greatsword-weapon/&#34;&gt;Greatsword&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                2d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                2d6 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;
+                &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;
                     
                         Long-blade
                     
@@ -751,14 +751,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -784,14 +784,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/longsword-weapon/&#34;&gt;Longsword&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                1d8 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/long-blade/&#34;&gt;
+                &lt;a href=&#34;/core/ref/long-blade/&#34;&gt;
                     
                         Long-blade
                     
@@ -804,14 +804,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P, B)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -870,14 +870,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/blowgun-weapon/&#34;&gt;Blowgun&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/blowgun-weapon/&#34;&gt;Blowgun&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;
                     
                         Short-arm
                     
@@ -890,7 +890,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -916,14 +916,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/dart-weapon/&#34;&gt;Dart&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/dart-weapon/&#34;&gt;Dart&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;
                     
                         Short-arm
                     
@@ -962,14 +962,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/hand-crossbow-weapon/&#34;&gt;Hand Crossbow&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/hand-crossbow-weapon/&#34;&gt;Hand Crossbow&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;
                     
                         Short-arm
                     
@@ -982,7 +982,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1008,14 +1008,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/javelin-weapon/&#34;&gt;Javelin&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/javelin-weapon/&#34;&gt;Javelin&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;
                     
                         Short-arm
                     
@@ -1054,14 +1054,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/sling-weapon/&#34;&gt;Sling&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/sling-weapon/&#34;&gt;Sling&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;
                     
                         Short-arm
                     
@@ -1074,7 +1074,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1133,14 +1133,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/heavy-crossbow-weapon/&#34;&gt;Heavy Crossbow&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/heavy-crossbow-weapon/&#34;&gt;Heavy Crossbow&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d10 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d10 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/long/&#34;&gt;Long&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/long/&#34;&gt;Long&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/long-arm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/long-arm/&#34;&gt;
                     
                         Long-arm
                     
@@ -1153,14 +1153,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1186,14 +1186,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/light-crossbow-weapon/&#34;&gt;Light Crossbow&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/light-crossbow-weapon/&#34;&gt;Light Crossbow&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d8 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/long/&#34;&gt;Long&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/long/&#34;&gt;Long&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/long-arm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/long-arm/&#34;&gt;
                     
                         Long-arm
                     
@@ -1206,7 +1206,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1232,14 +1232,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/longbow-weapon/&#34;&gt;Longbow&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/longbow-weapon/&#34;&gt;Longbow&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d8 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/long/&#34;&gt;Long&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/long/&#34;&gt;Long&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/long-arm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/long-arm/&#34;&gt;
                     
                         Long-arm
                     
@@ -1252,14 +1252,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1285,14 +1285,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/shortbow-weapon/&#34;&gt;Shortbow&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/shortbow-weapon/&#34;&gt;Shortbow&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/long-arm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/long-arm/&#34;&gt;
                     
                         Long-arm
                     
@@ -1305,14 +1305,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1371,14 +1371,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/battleax-weapon/&#34;&gt;Battleax&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/battleax-weapon/&#34;&gt;Battleax&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                1d8 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+                &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                     
                         Ax
                     
@@ -1417,14 +1417,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/greatax-weapon/&#34;&gt;Greatax&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/greatax-weapon/&#34;&gt;Greatax&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d12 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                1d12 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+                &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                     
                         Ax
                     
@@ -1437,7 +1437,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1463,14 +1463,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/handax-weapon/&#34;&gt;Handax&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/handax-weapon/&#34;&gt;Handax&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+                &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                     
                         Ax
                     
@@ -1483,14 +1483,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1516,14 +1516,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/war-pick-weapon/&#34;&gt;War pick&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/war-pick-weapon/&#34;&gt;War pick&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d8 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/ax/&#34;&gt;
+                &lt;a href=&#34;/core/ref/ax/&#34;&gt;
                     
                         Ax
                     
@@ -1595,14 +1595,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/club-weapon/&#34;&gt;Club&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/club-weapon/&#34;&gt;Club&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+                &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                     
                         Cudgel
                     
@@ -1615,7 +1615,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1641,14 +1641,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/flail-weapon/&#34;&gt;Flail&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/flail-weapon/&#34;&gt;Flail&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d8 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+                &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                     
                         Cudgel
                     
@@ -1687,14 +1687,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/greatclub-weapon/&#34;&gt;Greatclub&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/greatclub-weapon/&#34;&gt;Greatclub&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d10 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d10 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+                &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                     
                         Cudgel
                     
@@ -1707,7 +1707,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1733,14 +1733,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/hammer-weapon/&#34;&gt;Hammer&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/hammer-weapon/&#34;&gt;Hammer&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+                &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                     
                         Cudgel
                     
@@ -1753,14 +1753,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1786,14 +1786,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/mace-weapon/&#34;&gt;Mace&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/mace-weapon/&#34;&gt;Mace&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+                &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                     
                         Cudgel
                     
@@ -1832,14 +1832,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/maul-weapon/&#34;&gt;Maul&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/maul-weapon/&#34;&gt;Maul&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                2d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                2d6 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;3&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+                &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                     
                         Cudgel
                     
@@ -1852,7 +1852,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1878,14 +1878,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/morningstar-weapon/&#34;&gt;Morningstar&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/morningstar-weapon/&#34;&gt;Morningstar&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d8 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d8 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+                &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                     
                         Cudgel
                     
@@ -1898,7 +1898,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -1924,14 +1924,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/staff-weapon/&#34;&gt;Staff&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/staff-weapon/&#34;&gt;Staff&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/cudgel/&#34;&gt;
+                &lt;a href=&#34;/core/ref/cudgel/&#34;&gt;
                     
                         Cudgel
                     
@@ -1944,7 +1944,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2003,14 +2003,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/bident-weapon/&#34;&gt;Bident&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/bident-weapon/&#34;&gt;Bident&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/polearm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/polearm/&#34;&gt;
                     
                         Polearm
                     
@@ -2023,14 +2023,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2056,14 +2056,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/glaive-weapon/&#34;&gt;Glaive&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/glaive-weapon/&#34;&gt;Glaive&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d10 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                1d10 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/polearm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/polearm/&#34;&gt;
                     
                         Polearm
                     
@@ -2076,14 +2076,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2109,14 +2109,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/halberd-weapon/&#34;&gt;Halberd&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/halberd-weapon/&#34;&gt;Halberd&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d10 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
+                1d10 &lt;a href=&#34;/core/ref/damage-types/#slashing&#34;&gt;S&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/polearm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/polearm/&#34;&gt;
                     
                         Polearm
                     
@@ -2129,21 +2129,21 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/versatile/&#34;&gt;Versatile(P)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2169,14 +2169,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/lance-weapon/&#34;&gt;Lance&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/lance-weapon/&#34;&gt;Lance&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d10 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d10 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/polearm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/polearm/&#34;&gt;
                     
                         Polearm
                     
@@ -2189,7 +2189,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed (one handed while mounted)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed (one handed while mounted)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2215,14 +2215,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/pike-weapon/&#34;&gt;Pike&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/pike-weapon/&#34;&gt;Pike&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d10 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d10 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/polearm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/polearm/&#34;&gt;
                     
                         Polearm
                     
@@ -2235,14 +2235,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2268,14 +2268,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/spear-weapon/&#34;&gt;Spear&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/spear-weapon/&#34;&gt;Spear&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/polearm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/polearm/&#34;&gt;
                     
                         Polearm
                     
@@ -2288,14 +2288,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2321,14 +2321,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/trident-weapon/&#34;&gt;Trident&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/trident-weapon/&#34;&gt;Trident&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;2&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/polearm/&#34;&gt;
+                &lt;a href=&#34;/core/ref/polearm/&#34;&gt;
                     
                         Polearm
                     
@@ -2341,14 +2341,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/thrown/&#34;&gt;Thrown(close)&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2407,14 +2407,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/buckler-weapon/&#34;&gt;Buckler&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/buckler-weapon/&#34;&gt;Buckler&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;5&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+                &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                     
                         Shield
                     
@@ -2427,7 +2427,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2453,14 +2453,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/heavy-shield-weapon/&#34;&gt;Heavy Shield&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/heavy-shield-weapon/&#34;&gt;Heavy Shield&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;15&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+                &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                     
                         Shield
                     
@@ -2499,14 +2499,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/pavise-weapon/&#34;&gt;Pavise&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/pavise-weapon/&#34;&gt;Pavise&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;20&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+                &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                     
                         Shield
                     
@@ -2519,14 +2519,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/planted/&#34;&gt;Planted&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/planted/&#34;&gt;Planted&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2552,14 +2552,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/shield-weapon/&#34;&gt;Shield&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/shield-weapon/&#34;&gt;Shield&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;10&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+                &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                     
                         Shield
                     
@@ -2598,14 +2598,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/tower-shield-weapon/&#34;&gt;Tower Shield&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/tower-shield-weapon/&#34;&gt;Tower Shield&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;20&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/shield-arch/&#34;&gt;
+                &lt;a href=&#34;/core/ref/shield-arch/&#34;&gt;
                     
                         Shield
                     
@@ -2677,14 +2677,14 @@ $$&lt;/p&gt;
         
 
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/whip-weapon/&#34;&gt;Whip&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/whip-weapon/&#34;&gt;Whip&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+                1d4 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
             &lt;/td&gt;
             &lt;td&gt;1&lt;/td&gt;
-            &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&#34;/core/ref/adjacent/&#34;&gt;Adjacent&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/whip-arch/&#34;&gt;
+                &lt;a href=&#34;/core/ref/whip-arch/&#34;&gt;
                     
                         Whip
                     
@@ -2697,14 +2697,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/counter/&#34;&gt;Counter&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/light-trait/&#34;&gt;Light&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2720,10 +2720,10 @@ $$&lt;/p&gt;
 &lt;h3 id=&#34;armor-archetype&#34;&gt;Armor Archetype&lt;/h3&gt;
 &lt;p&gt;Armor archetype corresponds with the type of training that is needed to use the armor to its highest degree. The armor’s archetype determines which armor specializations, if any, affect the armor. Armor type is a broad archetype of armors and is broken into the following categories:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;&lt;strong&gt;Unarmored&lt;/strong&gt;&lt;/a&gt;: This archetype encompasses any clothing that is worn as &amp;ldquo;armor&amp;rdquo; but isn&amp;rsquo;t considered to be classical armor. For example, monk&amp;rsquo;s vestments, decorative bear-pelts, and wizard&amp;rsquo;s robes all fall into the unarmored archetype.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/light-armor/&#34;&gt;&lt;strong&gt;Light&lt;/strong&gt;&lt;/a&gt;: This archetype encompasses all armors that offer light protection with minimal obstruction of movement, often worn by archers or thieves. Leather armor, such as simple gambesons or padding, might also include small hauberks or other light chain shirts that don&amp;rsquo;t cover the whole torso.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/medium-armor/&#34;&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/a&gt;: This archetype marks the middle ground between light and heavy armors. It offers good protection without obstructing too much movement, considered to be a compromise. Often this archetype is worn by light cavalry and men-at-arms This would include full chain shirts, partial plates and enclosed helmets.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;//localhost:1313/core/ref/heavy-armor/&#34;&gt;&lt;strong&gt;Heavy&lt;/strong&gt;&lt;/a&gt;: This archetype marks the ultimate protective armors. This armor offers good protection with the obstruction of some movement. This archetype of armor is often worn by heavy cavalry and knights. This would include full plate armors.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/unarmored/&#34;&gt;&lt;strong&gt;Unarmored&lt;/strong&gt;&lt;/a&gt;: This archetype encompasses any clothing that is worn as &amp;ldquo;armor&amp;rdquo; but isn&amp;rsquo;t considered to be classical armor. For example, monk&amp;rsquo;s vestments, decorative bear-pelts, and wizard&amp;rsquo;s robes all fall into the unarmored archetype.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/light-armor/&#34;&gt;&lt;strong&gt;Light&lt;/strong&gt;&lt;/a&gt;: This archetype encompasses all armors that offer light protection with minimal obstruction of movement, often worn by archers or thieves. Leather armor, such as simple gambesons or padding, might also include small hauberks or other light chain shirts that don&amp;rsquo;t cover the whole torso.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/medium-armor/&#34;&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/a&gt;: This archetype marks the middle ground between light and heavy armors. It offers good protection without obstructing too much movement, considered to be a compromise. Often this archetype is worn by light cavalry and men-at-arms This would include full chain shirts, partial plates and enclosed helmets.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;/core/ref/heavy-armor/&#34;&gt;&lt;strong&gt;Heavy&lt;/strong&gt;&lt;/a&gt;: This archetype marks the ultimate protective armors. This armor offers good protection with the obstruction of some movement. This archetype of armor is often worn by heavy cavalry and knights. This would include full plate armors.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;armor-traits&#34;&gt;Armor Traits&lt;/h3&gt;
 &lt;h4 id=&#34;comfortable&#34;&gt;Comfortable&lt;/h4&gt;
@@ -2733,7 +2733,7 @@ $$&lt;/p&gt;
 
 &lt;h4 id=&#34;noisy&#34;&gt;Noisy&lt;/h4&gt;
 
-    You can not have the &lt;a href=&#34;//localhost:1313/core/ref/hidden/&#34;&gt;&lt;em&gt;hidden&lt;/em&gt;&lt;/a&gt; condition while wearing this armor. Some spells might overcome this trait.
+    You can not have the &lt;a href=&#34;/core/ref/hidden/&#34;&gt;&lt;em&gt;hidden&lt;/em&gt;&lt;/a&gt; condition while wearing this armor. Some spells might overcome this trait.
 
 
 &lt;h4 id=&#34;metallic&#34;&gt;Metallic&lt;/h4&gt;
@@ -2743,12 +2743,12 @@ $$&lt;/p&gt;
 
 &lt;h3 id=&#34;bulwark&#34;&gt;Bulwark&lt;/h3&gt;
 
-    Your armor restricts movement, your &lt;a href=&#34;//localhost:1313/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; is treated as two die increments lower when rolling dodge. You can use armor&amp;rsquo;s defense to reduce damage of area of effects, your armor does not take damage unless the effect says otherwise.
+    Your armor restricts movement, your &lt;a href=&#34;/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; is treated as two die increments lower when rolling dodge. You can use armor&amp;rsquo;s defense to reduce damage of area of effects, your armor does not take damage unless the effect says otherwise.
 
 
 &lt;h3 id=&#34;restrictive&#34;&gt;Restrictive&lt;/h3&gt;
 
-    Your armor restricts some movement, your &lt;a href=&#34;//localhost:1313/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; is treated as one die increment lower when rolling dodge.
+    Your armor restricts some movement, your &lt;a href=&#34;/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; is treated as one die increment lower when rolling dodge.
 
 
 &lt;h3 id=&#34;default-armors&#34;&gt;Default Armors&lt;/h3&gt;
@@ -2783,10 +2783,10 @@ $$&lt;/p&gt;
             
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/clothing-armor/&#34;&gt;Clothing&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/clothing-armor/&#34;&gt;Clothing&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;-&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+                &lt;a href=&#34;/core/ref/unarmored/&#34;&gt;
                     
                         Unarmored
                     
@@ -2799,7 +2799,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2812,10 +2812,10 @@ $$&lt;/p&gt;
             
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/robes-armor/&#34;&gt;Robes&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/robes-armor/&#34;&gt;Robes&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;-&lt;/td&gt;
             &lt;td&gt;
-                &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+                &lt;a href=&#34;/core/ref/unarmored/&#34;&gt;
                     
                         Unarmored
                     
@@ -2828,7 +2828,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2865,7 +2865,7 @@ $$&lt;/p&gt;
 
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/leather-armor/&#34;&gt;Leather&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/leather-armor/&#34;&gt;Leather&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;5&lt;/td&gt;
             &lt;td&gt;
                 &lt;a href=&#34;ERROR&#34;&gt;
@@ -2881,7 +2881,7 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -2892,7 +2892,7 @@ $$&lt;/p&gt;
 
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/padded-armor-armor/&#34;&gt;Padded Armor&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/padded-armor-armor/&#34;&gt;Padded Armor&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;10&lt;/td&gt;
             &lt;td&gt;
                 &lt;a href=&#34;ERROR&#34;&gt;
@@ -2919,7 +2919,7 @@ $$&lt;/p&gt;
 
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/studded-leather-armor/&#34;&gt;Studded Leather&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/studded-leather-armor/&#34;&gt;Studded Leather&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;7&lt;/td&gt;
             &lt;td&gt;
                 &lt;a href=&#34;ERROR&#34;&gt;
@@ -2972,7 +2972,7 @@ $$&lt;/p&gt;
 
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/chain-mail-armor/&#34;&gt;Chain Mail&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/chain-mail-armor/&#34;&gt;Chain Mail&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;12&lt;/td&gt;
             &lt;td&gt;
                 &lt;a href=&#34;ERROR&#34;&gt;
@@ -2988,14 +2988,14 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -3006,7 +3006,7 @@ $$&lt;/p&gt;
 
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/hide-armor-armor/&#34;&gt;Hide Armor&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/hide-armor-armor/&#34;&gt;Hide Armor&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;10&lt;/td&gt;
             &lt;td&gt;
                 &lt;a href=&#34;ERROR&#34;&gt;
@@ -3033,7 +3033,7 @@ $$&lt;/p&gt;
 
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/partial-plate-armor/&#34;&gt;Partial Plate&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/partial-plate-armor/&#34;&gt;Partial Plate&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;15&lt;/td&gt;
             &lt;td&gt;
                 &lt;a href=&#34;ERROR&#34;&gt;
@@ -3049,21 +3049,21 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -3074,7 +3074,7 @@ $$&lt;/p&gt;
 
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/scale-mail-armor/&#34;&gt;Scale Mail&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/scale-mail-armor/&#34;&gt;Scale Mail&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;14&lt;/td&gt;
             &lt;td&gt;
                 &lt;a href=&#34;ERROR&#34;&gt;
@@ -3090,21 +3090,21 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -3141,7 +3141,7 @@ $$&lt;/p&gt;
 
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/full-plate-armor/&#34;&gt;Full Plate&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/full-plate-armor/&#34;&gt;Full Plate&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;20&lt;/td&gt;
             &lt;td&gt;
                 &lt;a href=&#34;ERROR&#34;&gt;
@@ -3157,21 +3157,21 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -3182,7 +3182,7 @@ $$&lt;/p&gt;
 
         
             &lt;tr&gt;
-                &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/half-plate-armor/&#34;&gt;Half Plate&lt;/a&gt;&lt;/td&gt;
+                &lt;td&gt;&lt;a href=&#34;/core/ref/half-plate-armor/&#34;&gt;Half Plate&lt;/a&gt;&lt;/td&gt;
             &lt;td&gt;17&lt;/td&gt;
             &lt;td&gt;
                 &lt;a href=&#34;ERROR&#34;&gt;
@@ -3198,21 +3198,21 @@ $$&lt;/p&gt;
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
                     
                 
                     
                         
                     
                     
-                        &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                        &lt;a href=&#34;/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
                     
                 
             &lt;/td&gt;
@@ -3225,10 +3225,10 @@ $$&lt;/p&gt;
     
     <item>
       <title>05 - Specializations</title>
-      <link>//localhost:1313/core/chapters/specializations/</link>
+      <link>/core/chapters/specializations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/chapters/specializations/</guid>
+      <guid>/core/chapters/specializations/</guid>
       <description></description>
       <content></content>
     </item>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Short on Fen TTRPG</title>
-    <link>//localhost:1313/tags/short/</link>
+    <link>/tags/short/</link>
     <description>Recent content in Short on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/short/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/short/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blowgun</title>
-      <link>//localhost:1313/core/ref/blowgun-weapon/</link>
+      <link>/core/ref/blowgun-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/blowgun-weapon/</guid>
+      <guid>/core/ref/blowgun-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -24,12 +24,12 @@
     &lt;tr&gt;
         &lt;td&gt;Blowgun&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;
                 
                     Short-arm
                 
@@ -42,7 +42,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -81,12 +81,12 @@
     &lt;tr&gt;
         &lt;td&gt;Blowgun&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;
                 
                     Short-arm
                 
@@ -99,7 +99,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -112,10 +112,10 @@
     
     <item>
       <title>Shortbow</title>
-      <link>//localhost:1313/core/ref/shortbow-weapon/</link>
+      <link>/core/ref/shortbow-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/shortbow-weapon/</guid>
+      <guid>/core/ref/shortbow-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -128,12 +128,12 @@
     &lt;tr&gt;
         &lt;td&gt;Shortbow&lt;/td&gt;
         &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/long-arm/&#34;&gt;
+            &lt;a href=&#34;/core/ref/long-arm/&#34;&gt;
                 
                     Long-arm
                 
@@ -146,14 +146,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -192,12 +192,12 @@
     &lt;tr&gt;
         &lt;td&gt;Shortbow&lt;/td&gt;
         &lt;td&gt;
-            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+            1d6 &lt;a href=&#34;/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/long-arm/&#34;&gt;
+            &lt;a href=&#34;/core/ref/long-arm/&#34;&gt;
                 
                     Long-arm
                 
@@ -210,14 +210,14 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/two-handed/&#34;&gt;Two-handed&lt;/a&gt;
                 
             
                 
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -230,10 +230,10 @@
     
     <item>
       <title>Sling</title>
-      <link>//localhost:1313/core/ref/sling-weapon/</link>
+      <link>/core/ref/sling-weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/core/ref/sling-weapon/</guid>
+      <guid>/core/ref/sling-weapon/</guid>
       <description>&lt;table&gt;
     &lt;tr&gt;
         &lt;th&gt;Name&lt;/th&gt;
@@ -246,12 +246,12 @@
     &lt;tr&gt;
         &lt;td&gt;Sling&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;
                 
                     Short-arm
                 
@@ -264,7 +264,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
                 
             
         &lt;/td&gt;
@@ -303,12 +303,12 @@
     &lt;tr&gt;
         &lt;td&gt;Sling&lt;/td&gt;
         &lt;td&gt;
-            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
+            1d4 &lt;a href=&#34;/core/ref/damage-types/#bludgeoning&#34;&gt;B&lt;/a&gt;
         &lt;/td&gt;
         &lt;td&gt;1&lt;/td&gt;
-        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;/core/ref/short/&#34;&gt;Short&lt;/a&gt;&lt;/td&gt;
         &lt;td&gt;
-            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+            &lt;a href=&#34;/core/ref/short-arm/&#34;&gt;
                 
                     Short-arm
                 
@@ -321,7 +321,7 @@
                     
                 
                 
-                    &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
+                    &lt;a href=&#34;/core/ref/loaded/&#34;&gt;Loaded(0)&lt;/a&gt;
                 
             
         &lt;/td&gt;

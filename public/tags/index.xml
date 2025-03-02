@@ -2,306 +2,386 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fen TTRPG</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Fen TTRPG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adjacent</title>
-      <link>//localhost:1313/tags/adjacent/</link>
+      <link>/tags/adjacent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/adjacent/</guid>
+      <guid>/tags/adjacent/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>Aggressive-Action</title>
-      <link>//localhost:1313/tags/aggressive-action/</link>
+      <title>Aggressive Action</title>
+      <link>/tags/aggressive-action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/aggressive-action/</guid>
+      <guid>/tags/aggressive-action/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Armor</title>
-      <link>//localhost:1313/tags/armor/</link>
+      <link>/tags/armor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/armor/</guid>
+      <guid>/tags/armor/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Armor-Archetype</title>
-      <link>//localhost:1313/tags/armor-archetype/</link>
+      <link>/tags/armor-archetype/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/armor-archetype/</guid>
+      <guid>/tags/armor-archetype/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Armor-Trait</title>
-      <link>//localhost:1313/tags/armor-trait/</link>
+      <link>/tags/armor-trait/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/armor-trait/</guid>
+      <guid>/tags/armor-trait/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Ax</title>
-      <link>//localhost:1313/tags/ax/</link>
+      <link>/tags/ax/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/ax/</guid>
+      <guid>/tags/ax/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Basic-Specialization</title>
+      <link>/tags/basic-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/basic-specialization/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Close</title>
-      <link>//localhost:1313/tags/close/</link>
+      <link>/tags/close/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/close/</guid>
+      <guid>/tags/close/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Cudgel</title>
-      <link>//localhost:1313/tags/cudgel/</link>
+      <link>/tags/cudgel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/cudgel/</guid>
+      <guid>/tags/cudgel/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Default</title>
-      <link>//localhost:1313/tags/default/</link>
+      <link>/tags/default/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/default/</guid>
+      <guid>/tags/default/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Equipment</title>
-      <link>//localhost:1313/tags/equipment/</link>
+      <link>/tags/equipment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/equipment/</guid>
+      <guid>/tags/equipment/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Heavy</title>
-      <link>//localhost:1313/tags/heavy/</link>
+      <link>/tags/heavy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/heavy/</guid>
+      <guid>/tags/heavy/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Light</title>
-      <link>//localhost:1313/tags/light/</link>
+      <link>/tags/light/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/light/</guid>
+      <guid>/tags/light/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Long</title>
-      <link>//localhost:1313/tags/long/</link>
+      <link>/tags/long/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/long/</guid>
+      <guid>/tags/long/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Long-Arm</title>
-      <link>//localhost:1313/tags/long-arm/</link>
+      <link>/tags/long-arm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/long-arm/</guid>
+      <guid>/tags/long-arm/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Long-Blade</title>
-      <link>//localhost:1313/tags/long-blade/</link>
+      <link>/tags/long-blade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/long-blade/</guid>
+      <guid>/tags/long-blade/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Long-Blade-Specialization</title>
+      <link>/tags/long-blade-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/long-blade-specialization/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Medium</title>
-      <link>//localhost:1313/tags/medium/</link>
+      <link>/tags/medium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/medium/</guid>
+      <guid>/tags/medium/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Passive-Action</title>
-      <link>//localhost:1313/tags/passive-action/</link>
+      <link>/tags/passive-action/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/passive-action/</guid>
+      <guid>/tags/passive-action/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Polearm</title>
-      <link>//localhost:1313/tags/polearm/</link>
+      <link>/tags/polearm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/polearm/</guid>
+      <guid>/tags/polearm/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Positive-Condition</title>
-      <link>//localhost:1313/tags/positive-condition/</link>
+      <link>/tags/positive-condition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/positive-condition/</guid>
+      <guid>/tags/positive-condition/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Range</title>
-      <link>//localhost:1313/tags/range/</link>
+      <link>/tags/range/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/range/</guid>
+      <guid>/tags/range/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Reaction</title>
+      <link>/tags/reaction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/reaction/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Shield</title>
-      <link>//localhost:1313/tags/shield/</link>
+      <link>/tags/shield/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/shield/</guid>
+      <guid>/tags/shield/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Short</title>
-      <link>//localhost:1313/tags/short/</link>
+      <link>/tags/short/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/short/</guid>
+      <guid>/tags/short/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Short-Arm</title>
-      <link>//localhost:1313/tags/short-arm/</link>
+      <link>/tags/short-arm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/short-arm/</guid>
+      <guid>/tags/short-arm/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Short-Blade</title>
-      <link>//localhost:1313/tags/short-blade/</link>
+      <link>/tags/short-blade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/short-blade/</guid>
+      <guid>/tags/short-blade/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Short-Blade-Specialization</title>
+      <link>/tags/short-blade-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/short-blade-specialization/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Skill</title>
-      <link>//localhost:1313/tags/skill/</link>
+      <link>/tags/skill/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/skill/</guid>
+      <guid>/tags/skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Specialization</title>
+      <link>/tags/specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/specialization/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Specialization-Trait</title>
+      <link>/tags/specialization-trait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/specialization-trait/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Specialization=trait</title>
+      <link>/tags/specializationtrait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/specializationtrait/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Unarmored</title>
-      <link>//localhost:1313/tags/unarmored/</link>
+      <link>/tags/unarmored/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/unarmored/</guid>
+      <guid>/tags/unarmored/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Weapon</title>
-      <link>//localhost:1313/tags/weapon/</link>
+      <link>/tags/weapon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/weapon/</guid>
+      <guid>/tags/weapon/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Weapon-Archetype</title>
-      <link>//localhost:1313/tags/weapon-archetype/</link>
+      <link>/tags/weapon-archetype/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/weapon-archetype/</guid>
+      <guid>/tags/weapon-archetype/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Weapon-Specialization</title>
+      <link>/tags/weapon-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/weapon-specialization/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Weapon-Trait</title>
-      <link>//localhost:1313/tags/weapon-trait/</link>
+      <link>/tags/weapon-trait/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/weapon-trait/</guid>
+      <guid>/tags/weapon-trait/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Whip</title>
-      <link>//localhost:1313/tags/whip/</link>
+      <link>/tags/whip/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/whip/</guid>
+      <guid>/tags/whip/</guid>
       <description></description>
       <content></content>
     </item>
