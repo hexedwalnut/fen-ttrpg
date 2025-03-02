@@ -1,0 +1,83 @@
+{{ $armors := where site.Pages "Params.tags" "intersect" (slice "armor") }}
+{{ $defaultArmors := where $armors "Params.tags" "intersect" (slice "default") }}
+{{ $unarmored := where $defaultArmors "Params.tags" "intersect" (slice "unarmored") }}
+{{ $light := where $defaultArmors "Params.tags" "intersect" (slice "light") }}
+{{ $medium := where $defaultArmors "Params.tags" "intersect" (slice "medium") }}
+{{ $heavy := where $defaultArmors "Params.tags" "intersect" (slice "heavy") }}
+
+{{ $get := (.Get 0) }}
+{{ $pArmors := $defaultArmors }}
+{{ if $get }}
+    {{ if eq $get "unarmored" }}
+        {{ $pArmors = $unarmored }}
+    {{ else if eq $get "light" }}
+        {{ $pArmors = $light}}
+    {{ else if eq $get "medium" }}
+        {{ $pArmors = $medium }}
+    {{ else if eq $get "heavy" }}
+        {{ $pArmors = $heavy}}
+    {{ end }}
+{{ end }}
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Def</th>
+        <th>Archetype</th>
+        <th>Traits</th>
+    </tr>
+    {{ range $pArmors }}
+        {{ $arch := .Page.Params.armor.arch }}
+        {{ $archRef := "ERROR" }}
+
+        {{ if eq (upper $arch) "UNARMORED" }}
+            {{ $archRef = ref . "/core/ref/unarmored.md" }}
+        {{ else if eq (upper $arch) "light" }}
+            {{ $archRef = ref . "/core/ref/light-armor.md" }}
+        {{ else if eq (upper $arch) "medium" }}
+            {{ $archRef = ref . "/core/ref/medium-armor.md" }}
+        {{ else if eq (upper $arch) "heavy" }}
+            {{ $archRef = ref . "/core/ref/heavy-armor.md" }}
+        {{ end }}
+            <tr>
+                <td><a href="{{.Page.Permalink}}">{{.Page.Title}}</a></td>
+            <td>{{.Page.Params.armor.def}}</td>
+            <td>
+                <a href="{{ $archRef }}">
+                    {{ if eq $arch "ERROR" }}
+                        {{ .Page.Params.weapon.arch }} is a {{ $arch }}
+                    {{ else }}
+                        {{ $arch }}
+                    {{ end }}
+                </a>
+            </td>
+            <td>
+                {{ $traitRef := "NO"}}
+                {{range .Page.Params.armor.traits}}
+                    {{ if eq (upper .) "COMFORTABLE" }}
+                        {{ $traitRef = ref $.Page "/core/ref/comfortable.md" }}
+                    {{ else if eq (upper .) "NOISY" }}
+                        {{ $traitRef = ref $.Page "/core/ref/noisy.md" }}
+                    {{ else if hasPrefix (upper .) "METALLIC" }}
+                        {{ $traitRef = ref $.Page "/core/ref/metallic.md" }}
+                    {{ else if hasPrefix (upper .) "RESTRICTIVE" }}
+                        {{ $traitRef = ref $.Page "/core/ref/restrictive.md" }}
+                    {{ else if hasPrefix (upper .) "BULWARK" }}
+                        {{ $traitRef = ref $.Page "/core/ref/bulwark.md" }}
+                    {{ else if eq (upper . ) "-" }}
+                        {{ $traitRef = "NO" }}
+                    {{ else }}
+                        {{ $traitRef = "ERROR" }}
+                    {{ end }}
+                    {{if eq $traitRef "NO"}}
+                        {{ . }}
+                    {{ else if eq $traitRef "ERROR" }}
+                        Error = {{ . }}
+                    {{ else }}
+                        <a href="{{$traitRef}}">{{ . }}</a>
+                    {{ end }}
+                {{ end }}
+            </td>
+        </tr>
+    {{ end }}
+</table>

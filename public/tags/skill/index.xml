@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skill on Fen TTRPG</title>
+    <link>//localhost:1313/tags/skill/</link>
+    <description>Recent content in Skill on Fen TTRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/tags/skill/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dodge</title>
+      <link>//localhost:1313/core/ref/dodge-skill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/dodge-skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+    <item>
+      <title>Fight</title>
+      <link>//localhost:1313/core/ref/fight-skill/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/fight-skill/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

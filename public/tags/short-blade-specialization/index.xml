@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Short-Blade-Specialization on Fen TTRPG</title>
+    <link>//localhost:1313/tags/short-blade-specialization/</link>
+    <description>Recent content in Short-Blade-Specialization on Fen TTRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/tags/short-blade-specialization/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Knife Fighter</title>
+      <link>//localhost:1313/core/ref/knife-fighter-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/knife-fighter-specialization/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;-&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;You gain an additional die when rolling damage using a weapon
+with the &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;short-blade&lt;/a&gt;
+archetype. The type of die is determined by the default sides of
+the weapon. For example, a standard
+&lt;a href=&#34;//localhost:1313/core/ref/dagger-weapon/&#34;&gt;Dagger&lt;/a&gt; has a weapon die
+of 1d4. When rolling damage after taking this specialization you
+instead roll 2d4. If, instead, the weapon had multiple default
+weapon dice you only add one additional die of the highest sides.
+If a weapon by default rolls 1d4+2d6+3d8 you gain an additional 1d8
+after taking this specialization. This specialization applies to
+offhanded weapons as well.&lt;/p&gt;</description>
+      <content>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Cost&lt;/th&gt;
+        &lt;td&gt;0 sp&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/repeatable/&#34;&gt;Repeatable(4)&lt;/a&gt;&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Prerequisites&lt;/th&gt;
+        
+        
+        
+            
+        
+        
+        &lt;td&gt;-&lt;/td&gt;
+        
+        
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;You gain an additional die when rolling damage using a weapon
+with the &lt;a href=&#34;//localhost:1313/core/ref/short-blade/&#34;&gt;short-blade&lt;/a&gt;
+archetype. The type of die is determined by the default sides of
+the weapon. For example, a standard
+&lt;a href=&#34;//localhost:1313/core/ref/dagger-weapon/&#34;&gt;Dagger&lt;/a&gt; has a weapon die
+of 1d4. When rolling damage after taking this specialization you
+instead roll 2d4. If, instead, the weapon had multiple default
+weapon dice you only add one additional die of the highest sides.
+If a weapon by default rolls 1d4+2d6+3d8 you gain an additional 1d8
+after taking this specialization. This specialization applies to
+offhanded weapons as well.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

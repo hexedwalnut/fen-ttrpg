@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic on Fen TTRPG</title>
+    <link>//localhost:1313/tags/basic/</link>
+    <description>Recent content in Basic on Fen TTRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/tags/basic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talent</title>
+      <link>//localhost:1313/core/ref/talent-specialization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/talent-specialization/</guid>
+      <description>&lt;p&gt;{&amp;lt; specialization-front &amp;gt;}&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Select a skill your actor has that was not selected by the &lt;a href=&#34;&#34;&gt;assurance&lt;/a&gt; specialization. Increase its die by one increment.&lt;/p&gt;</description>
+      <content>&lt;p&gt;{&amp;lt; specialization-front &amp;gt;}&lt;/p&gt;
+&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;Select a skill your actor has that was not selected by the &lt;a href=&#34;&#34;&gt;assurance&lt;/a&gt; specialization. Increase its die by one increment.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

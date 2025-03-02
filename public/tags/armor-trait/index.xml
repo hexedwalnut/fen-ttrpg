@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Armor-Trait on Fen TTRPG</title>
+    <link>//localhost:1313/tags/armor-trait/</link>
+    <description>Recent content in Armor-Trait on Fen TTRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/tags/armor-trait/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bulwark</title>
+      <link>//localhost:1313/core/ref/bulwark/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/bulwark/</guid>
+      <description>&lt;p&gt;Your armor restricts movement, your &lt;a href=&#34;//localhost:1313/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; is treated as two die increments lower when rolling dodge. You can use armor&amp;rsquo;s defense to reduce damage of area of effects, your armor does not take damage unless the effect says otherwise.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Your armor restricts movement, your &lt;a href=&#34;//localhost:1313/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; is treated as two die increments lower when rolling dodge. You can use armor&amp;rsquo;s defense to reduce damage of area of effects, your armor does not take damage unless the effect says otherwise.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Comfortable</title>
+      <link>//localhost:1313/core/ref/comfortable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/comfortable/</guid>
+      <description>&lt;p&gt;You can rest in this armor.&lt;/p&gt;</description>
+      <content>&lt;p&gt;You can rest in this armor.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Metallic</title>
+      <link>//localhost:1313/core/ref/metallic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/metallic/</guid>
+      <description>&lt;p&gt;The armor is made of metal and can rust.&lt;/p&gt;</description>
+      <content>&lt;p&gt;The armor is made of metal and can rust.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Noisy</title>
+      <link>//localhost:1313/core/ref/noisy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/noisy/</guid>
+      <description>&lt;p&gt;You can not have the &lt;a href=&#34;//localhost:1313/core/ref/hidden/&#34;&gt;&lt;em&gt;hidden&lt;/em&gt;&lt;/a&gt; condition while wearing this armor. Some spells might overcome this trait.&lt;/p&gt;</description>
+      <content>&lt;p&gt;You can not have the &lt;a href=&#34;//localhost:1313/core/ref/hidden/&#34;&gt;&lt;em&gt;hidden&lt;/em&gt;&lt;/a&gt; condition while wearing this armor. Some spells might overcome this trait.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>restrictive</title>
+      <link>//localhost:1313/core/ref/restrictive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/restrictive/</guid>
+      <description>&lt;p&gt;Your armor restricts some movement, your &lt;a href=&#34;//localhost:1313/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; is treated as one die increment lower when rolling dodge.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Your armor restricts some movement, your &lt;a href=&#34;//localhost:1313/core/ref/dodge-skill/&#34;&gt;&lt;em&gt;dodge&lt;/em&gt;&lt;/a&gt; is treated as one die increment lower when rolling dodge.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

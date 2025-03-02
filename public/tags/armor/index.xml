@@ -1,0 +1,852 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Armor on Fen TTRPG</title>
+    <link>//localhost:1313/tags/armor/</link>
+    <description>Recent content in Armor on Fen TTRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/tags/armor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chain Mail</title>
+      <link>//localhost:1313/core/ref/chain-mail-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/chain-mail-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Chain Mail&lt;/td&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Medium
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Chain Mail&lt;/td&gt;
+        &lt;td&gt;12&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Medium
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Clothing</title>
+      <link>//localhost:1313/core/ref/clothing-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/clothing-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Clothing&lt;/td&gt;
+        &lt;td&gt;-&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+                
+                    Unarmored
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+    
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Clothing&lt;/td&gt;
+        &lt;td&gt;-&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+                
+                    Unarmored
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Half Plate</title>
+      <link>//localhost:1313/core/ref/half-plate-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/half-plate-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Half Plate&lt;/td&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Heavy
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Half Plate&lt;/td&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Heavy
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/bulwark/&#34;&gt;Bulwark&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Hide Armor</title>
+      <link>//localhost:1313/core/ref/hide-armor-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/hide-armor-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Hide Armor&lt;/td&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Medium
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Hide Armor&lt;/td&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Medium
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Leather</title>
+      <link>//localhost:1313/core/ref/leather-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/leather-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Leather&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Light
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Leather&lt;/td&gt;
+        &lt;td&gt;5&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Light
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Padded Armor</title>
+      <link>//localhost:1313/core/ref/padded-armor-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/padded-armor-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Padded Armor&lt;/td&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Light
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Padded Armor&lt;/td&gt;
+        &lt;td&gt;10&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Light
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Partial Plate</title>
+      <link>//localhost:1313/core/ref/partial-plate-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/partial-plate-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Partial Plate&lt;/td&gt;
+        &lt;td&gt;15&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Medium
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Partial Plate&lt;/td&gt;
+        &lt;td&gt;15&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Medium
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Robes</title>
+      <link>//localhost:1313/core/ref/robes-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/robes-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Robes&lt;/td&gt;
+        &lt;td&gt;-&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+                
+                    Unarmored
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+    
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Robes&lt;/td&gt;
+        &lt;td&gt;-&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/unarmored/&#34;&gt;
+                
+                    Unarmored
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/comfortable/&#34;&gt;Comfortable&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Scale Mail</title>
+      <link>//localhost:1313/core/ref/scale-mail-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/scale-mail-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Scale Mail&lt;/td&gt;
+        &lt;td&gt;14&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Medium
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Scale Mail&lt;/td&gt;
+        &lt;td&gt;14&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Medium
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/noisy/&#34;&gt;Noisy&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/restrictive/&#34;&gt;Restrictive&lt;/a&gt;
+                
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/metallic/&#34;&gt;Metallic&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+    <item>
+      <title>Studded Leather</title>
+      <link>//localhost:1313/core/ref/studded-leather-armor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/studded-leather-armor/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Studded Leather&lt;/td&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Light
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Studded Leather&lt;/td&gt;
+        &lt;td&gt;7&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;ERROR&#34;&gt;
+                
+                    Light
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+</content>
+    </item>
+    
+  </channel>
+</rss>

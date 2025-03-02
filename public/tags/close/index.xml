@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Close on Fen TTRPG</title>
+    <link>//localhost:1313/tags/close/</link>
+    <description>Recent content in Close on Fen TTRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/tags/close/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dart</title>
+      <link>//localhost:1313/core/ref/dart-weapon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/dart-weapon/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Die&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Range&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Dart&lt;/td&gt;
+        &lt;td&gt;
+            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                
+                    Short-arm
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Die&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Range&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Dart&lt;/td&gt;
+        &lt;td&gt;
+            1d4 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                
+                    Short-arm
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+
+</content>
+    </item>
+    
+    <item>
+      <title>Hand Crossbow</title>
+      <link>//localhost:1313/core/ref/hand-crossbow-weapon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/hand-crossbow-weapon/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Die&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Range&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Hand Crossbow&lt;/td&gt;
+        &lt;td&gt;
+            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                
+                    Short-arm
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Die&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Range&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Hand Crossbow&lt;/td&gt;
+        &lt;td&gt;
+            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                
+                    Short-arm
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded(1)&lt;/a&gt;
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+
+</content>
+    </item>
+    
+    <item>
+      <title>Javelin</title>
+      <link>//localhost:1313/core/ref/javelin-weapon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/javelin-weapon/</guid>
+      <description>&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Die&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Range&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Javelin&lt;/td&gt;
+        &lt;td&gt;
+            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                
+                    Short-arm
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;</description>
+      <content>
+
+
+
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+    
+
+
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;th&gt;Name&lt;/th&gt;
+        &lt;th&gt;Die&lt;/th&gt;
+        &lt;th&gt;Def&lt;/th&gt;
+        &lt;th&gt;Range&lt;/th&gt;
+        &lt;th&gt;Archetype&lt;/th&gt;
+        &lt;th&gt;Traits&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Javelin&lt;/td&gt;
+        &lt;td&gt;
+            1d6 &lt;a href=&#34;//localhost:1313/core/ref/damage-types/#piercing&#34;&gt;P&lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;1&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&#34;//localhost:1313/core/ref/close/&#34;&gt;Close&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;
+            &lt;a href=&#34;//localhost:1313/core/ref/short-arm/&#34;&gt;
+                
+                    Short-arm
+                
+            &lt;/a&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+            
+            
+                
+                    
+                
+                
+                    -
+                
+            
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+
+</content>
+    </item>
+    
+  </channel>
+</rss>

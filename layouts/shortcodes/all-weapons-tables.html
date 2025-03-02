@@ -1,0 +1,149 @@
+{{ $weapons := where site.Pages "Params.tags" "intersect" (slice "weapon") }}
+{{ $defaultWeapons := where $weapons "Params.tags" "intersect" (slice "default") }}
+{{ $shortBlade := where $defaultWeapons "Params.tags" "intersect" (slice "short-blade") }}
+{{ $longBlade := where $defaultWeapons "Params.tags" "intersect" (slice "long-blade") }}
+{{ $shortArm := where $defaultWeapons "Params.tags" "intersect" (slice "short-arm") }}
+{{ $longArm := where $defaultWeapons "Params.tags" "intersect" (slice "long-arm") }}
+{{ $ax := where $defaultWeapons "Params.tags" "intersect" (slice "ax") }}
+{{ $cudgel := where $defaultWeapons "Params.tags" "intersect" (slice "cudgel") }}
+{{ $polearm := where $defaultWeapons "Params.tags" "intersect" (slice "polearm") }}
+{{ $shield := where $defaultWeapons "Params.tags" "intersect" (slice "shield") }}
+{{ $whip := where $defaultWeapons "Params.tags" "intersect" (slice "whip") }}
+
+{{ $get := (.Get 0) }}
+{{ $pWeapons := $defaultWeapons }}
+{{ if $get }}
+    {{ if eq $get "short-blade" }}
+        {{ $pWeapons = $shortBlade }}
+    {{ else if eq $get "long-blade" }}
+        {{ $pWeapons = $longBlade }}
+    {{ else if eq $get "short-arm" }}
+        {{ $pWeapons = $shortArm }}
+    {{ else if eq $get "long-arm" }}
+        {{ $pWeapons = $longArm }}
+    {{ else if eq $get "ax" }}
+        {{ $pWeapons = $ax }}
+    {{ else if eq $get "cudgel" }}
+        {{ $pWeapons = $cudgel }}
+    {{ else if eq $get "polearm" }}
+        {{ $pWeapons = $polearm }}
+    {{ else if eq $get "shield" }}
+        {{ $pWeapons = $shield }}
+    {{ else if eq $get "whip" }}
+        {{ $pWeapons = $whip }}
+    {{ end }}
+{{ end }}
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Die</th>
+        <th>Def</th>
+        <th>Range</th>
+        <th>Archetype</th>
+        <th>Traits</th>
+    </tr>
+    {{ range $pWeapons }}
+        {{ $type := .Page.Params.weapon.type }}
+        {{ $typeRef := ref . "/core/ref/damage-types.md#slashing" }}
+        {{if hasPrefix $type "P"}}
+            {{$typeRef = ref . "/core/ref/damage-types.md#piercing"}}
+        {{else if hasPrefix $type "B"}}
+            {{$typeRef = ref . "/core/ref/damage-types.md#bludgeoning"}}
+        {{else if hasPrefix $type "S"}}
+            {{$typeRef = ref . "/core/ref/damage-types.md#slashing"}}
+        {{else}}
+            {{$typeRef = ref . "/core/ref/damage-types.md" }}
+        {{end}}
+
+        {{ $rangeRef := ref . "/core/ref/adjacent.md" }}
+        {{ $range := .Page.Params.weapon.range }}
+
+        {{ if hasPrefix (upper $range) "A" }}
+            {{ $rangeRef = ref . "/core/ref/adjacent.md" }}
+        {{ else if hasPrefix (upper $range) "C" }}
+            {{ $rangeRef = ref . "/core/ref/close.md" }}
+        {{ else if hasPrefix (upper $range) "S" }}
+            {{ $rangeRef = ref . "/core/ref/short.md" }}
+        {{ else if hasPrefix (upper $range) "L" }}
+            {{ $rangeRef = ref . "/core/ref/long.md" }}
+        {{ else if hasPrefix (upper $range) "E" }}
+            {{ $rangeRef = ref . "/core/ref/extreme.md" }}
+        {{ end }}
+
+        {{ $archRef := ref . "/core/ref/short-blade.md" }}
+        {{ $arch := .Page.Params.weapon.arch }}
+        {{ if eq (upper $arch) "LONG-BLADE" }}
+            {{ $archRef = ref . "/core/ref/long-blade.md" }}
+        {{ else if eq (upper $arch) "SHORT-BLADE" }}
+            {{ $archRef = ref . "/core/ref/short-blade.md" }}
+        {{ else if eq (upper $arch) "SHORT-ARM" }}
+            {{ $archRef = ref . "/core/ref/short-arm.md" }}
+        {{ else if eq (upper $arch) "LONG-ARM" }}
+            {{ $archRef = ref . "/core/ref/long-arm.md" }}
+        {{ else if eq (upper $arch) "AMMUNITION" }}
+            {{ $archRef = ref . "/core/ref/ammunition.md" }}
+        {{ else if eq (upper $arch) "AX" }}
+            {{ $archRef = ref . "/core/ref/ax.md" }}
+        {{ else if eq (upper $arch) "CUDGEL" }}
+            {{ $archRef = ref . "/core/ref/cudgel.md" }}
+        {{ else if eq (upper $arch) "POLEARM" }}
+            {{ $archRef = ref . "/core/ref/polearm.md" }}
+        {{ else if eq (upper $arch) "SHIELD" }}
+            {{ $archRef = ref . "/core/ref/shield-arch.md" }}
+        {{ else if eq (upper $arch) "WHIP" }}
+            {{ $archRef = ref . "/core/ref/whip-arch.md" }}
+        {{ else }}
+            {{ $arch = "ERROR" }}
+        {{ end }}
+
+        <tr>
+            <td><a href="{{.Page.Permalink}}">{{.Page.Title}}</a></td>
+            <td>
+                {{.Page.Params.weapon.dmg}} <a href="{{ $typeRef }}">{{ .Page.Params.weapon.type }}</a>
+            </td>
+            <td>{{.Page.Params.weapon.def}}</td>
+            <td><a href="{{ $rangeRef }}">{{ $range }}</a></td>
+            <td>
+                <a href="{{ $archRef }}">
+                    {{ if eq $arch "ERROR" }}
+                        {{ .Page.Params.weapon.arch }} is a {{ $arch }}
+                    {{ else }}
+                        {{ $arch }}
+                    {{ end }}
+                </a>
+            </td>
+            <td>
+                {{ $traitRef := "NO"}}
+                {{range .Page.Params.weapon.traits}}
+                    {{ if eq (upper .) "COUNTER" }}
+                        {{ $traitRef = ref $.Page "/core/ref/counter.md" }}
+                    {{ else if eq (upper .) "LIGHT" }}
+                        {{ $traitRef = ref $.Page "/core/ref/light-trait.md" }}
+                    {{ else if hasPrefix (upper .) "LOADED" }}
+                        {{ $traitRef = ref $.Page "/core/ref/loaded.md" }}
+                    {{ else if hasPrefix (upper .) "THROWN" }}
+                        {{ $traitRef = ref $.Page "/core/ref/thrown.md" }}
+                    {{ else if hasPrefix (upper .) "TWO-HANDED" }}
+                        {{ $traitRef = ref $.Page "/core/ref/two-handed.md" }}
+                    {{ else if hasPrefix (upper .) "VERSATILE" }}
+                        {{ $traitRef = ref $.Page "/core/ref/versatile.md" }}
+                    {{ else if eq (upper .) "PLANTED" }}
+                        {{ $traitRef = ref $.Page "/core/ref/planted.md" }}
+                    {{ else if eq (upper .) "-" }}
+                        {{ $traitRef = "NO" }}
+                    {{ else }}
+                        {{ $traitRef = "ERROR" }}
+                    {{ end }}
+                    {{if eq $traitRef "NO"}}
+                        {{ . }}
+                    {{ else if eq $traitRef "ERROR" }}
+                        Error = {{ . }}
+                    {{ else }}
+                        <a href="{{$traitRef}}">{{ . }}</a>
+                    {{ end }}
+                {{ end }}
+            </td>
+        </tr>
+    {{ end }}
+</table>

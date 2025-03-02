@@ -1,0 +1,59 @@
+<table>
+    <tr>
+        <th>Cost</th>
+        <td>{{.Page.Params.specialization.cost}}</td>
+    </tr>
+    <tr>
+        <th>Traits</th>
+        {{ range .Page.Params.specialization.traits }}
+        {{ $rngRef := "ERROR" }}
+        {{ if hasPrefix (upper .) "REPEATABLE" }}
+            {{ $rngRef = ref $.Page "/core/ref/repeatable.md" }}
+        {{ else if hasPrefix (upper .) "IMMEDIATE" }}
+            {{ $rngRef = ref $.Page "/core/ref/immediate.md" }}
+        {{ else if eq (upper .) "-" }}
+            {{ $rngRef = "NO" }}
+        {{ end }}
+        {{ if eq $rngRef "NO" }}
+        <td>{{.}}</td>
+        {{ else }}
+        <td><a href="{{$rngRef}}">{{.}}</a></td>
+        {{ end }}
+        {{ end }}
+    </tr>
+    <tr>
+        <th>Prerequisites</th>
+        {{ range .Page.Params.specialization.prereq }}
+        {{ $preRef := "ERROR" }}
+        {{ if hasPrefix (upper .) "ARTICULATE" }}
+            {{ $preRef = ref $.Page "/core/ref/articulate-skill.md" }}
+        {{ else if hasPrefix (upper .) "COGNITION" }}
+            {{ $preRef = ref $.Page "/core/ref/cognition-skill.md" }}
+        {{ else if hasPrefix (upper .) "DODGE" }}
+            {{ $preRef = ref $.Page "/core/ref/dodge-skill.md" }}
+        {{ else if hasPrefix (upper .) "FIGHT" }}
+            {{ $preRef = ref $.Page "/core/ref/fight-skill.md" }}
+        {{ else if hasPrefix (upper .) "NOTICE" }}
+            {{ $preRef = ref $.Page "/core/ref/notice-skill.md" }}
+        {{ else if hasPrefix (upper .) "SHOOT" }}
+            {{ $preRef = ref $.Page "/core/ref/shoot-skill.md" }}
+        {{ else if hasPrefix (upper .) "VIGOR" }}
+            {{ $preRef = ref $.Page "/core/ref/vigor-skill.md" }}
+        {{ else if hasPrefix (upper .) "WILL" }}
+            {{ $preRef = ref $.Page "/core/ref/will-skill.md" }}
+        {{ else if hasPrefix (upper .) "TACTICS" }}
+            {{ $preRef = ref $.Page "/core/ref/tactics-skill.md" }}
+        {{ else if eq (upper .) "-" }}
+            {{ $preRef = "NO" }}
+        {{ else }}
+            {{ $cleanedName := lower (index (split . "(") 0) }}
+            {{ $preRef = ref $.Page ( printf "/core/ref/%s-specialization.md" $cleanedName ) }}
+        {{ end }}
+        {{ if eq $preRef "NO"}}
+        <td>{{.}}</td>
+        {{ else }}
+        <td><a href="{{$preRef}}">{{.}}</a></td>
+        {{ end }}
+        {{ end }}
+    </tr>
+</table>

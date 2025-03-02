@@ -1,0 +1,10 @@
+{{ $name := (.Get "name") }}
+{{ with page.GetPage (.Get "src") }}
+<a href="{{ .Permalink }}">
+    {{ if $name }}
+        name:{{ $name }}
+    {{ else }}
+        {{ .Title }}
+    {{ end }}
+</a>
+{{ end }}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aggressive-Action on Fen TTRPG</title>
+    <link>//localhost:1313/tags/aggressive-action/</link>
+    <description>Recent content in Aggressive-Action on Fen TTRPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="//localhost:1313/tags/aggressive-action/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Load</title>
+      <link>//localhost:1313/core/ref/load-action/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/core/ref/load-action/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;1 aggressive action&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You load ammunition into a weapon with the &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded&lt;/a&gt; weapon trait. The number of ammunition loaded into the weapon is specified by its Loaded trait.&lt;/p&gt;</description>
+      <content>&lt;p&gt;&lt;strong&gt;1 aggressive action&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You load ammunition into a weapon with the &lt;a href=&#34;//localhost:1313/core/ref/loaded/&#34;&gt;Loaded&lt;/a&gt; weapon trait. The number of ammunition loaded into the weapon is specified by its Loaded trait.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
