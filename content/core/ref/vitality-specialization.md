@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Vitality"
 tags=["specialization", "basic-specialization"]
 
@@ -14,5 +14,7 @@ tags=["specialization", "basic-specialization"]
 
 ## Description
 
-Roll non-explosive [vigor]({{< ref "/core/ref/vigor-skill.md" >}}) (or take half the skill die's sides) and add the result to maximum HP.
+Roll non-explosive [vigor]({{< ref "/core/ref/vigor-skill.md" >}}) 
+ (or take half the skill die's sides) and add the result to maximum 
+ HP.
 

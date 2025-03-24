@@ -26,11 +26,11 @@ Initiative determines the order in which sides act. Each round starts with both 
 
 ### Step 3: Take Turns
 
-Each actor on a side has a turn. A turn consists of one passive and one aggressive action. The common passive and aggressive actions are detailed in the "Common Actions" section later in this chapter. Many specializations offer other options for passive and aggressive actions; some even offer the ability to take more passive actions per turn. You can forgo doing anything on your turn if you choose.
+Each actor on a side has a turn. A turn consists of one minor and one major action. The common minor and major actions are detailed in the "Common Actions" section later in this chapter. Many specializations offer other options for minor and major actions; some even offer the ability to take more minor actions per turn. You can forgo doing anything on your turn if you choose.
 
 #### Free Actions
 
-Your turn may also include things that do not cost a passive or aggressive action. Talking is always considered a free action. Some specializations offer other options of free actions or allow you to take a passive or aggressive action as part of another action. These additional actions are not counted against your allotted amount of passive and aggressive actions.
+Your turn may also include things that do not cost a minor or major action. Talking is always considered a free action. Some specializations offer other options of free actions or allow you to take a minor or major action as part of another action. These additional actions are not counted against your allotted amount of minor and major actions.
 
 #### Reactions
 
@@ -44,9 +44,9 @@ Once all actors on each side have taken their turn, the process starts over from
 
 ## Common Actions
 
-This section details common passive and aggressive actions that are available to all actors. While this section details some of the most common passive and aggressive actions, you may still improvise actions. If you want to improvise an action, describe the action to the GM, they will tell you if it is possible and what type of (if any) rolls are required to complete the action.
+This section details common minor and major actions that are available to all actors. While this section details some of the most common minor and major actions, you may still improvise actions. If you want to improvise an action, describe the action to the GM, they will tell you if it is possible and what type of (if any) rolls are required to complete the action.
 
-### Passive Actions
+### Minor Actions
 
 #### Move
 
@@ -68,15 +68,15 @@ You try to find something that is *hidden*. Roll a *notice*/*dodge* contest agai
 
 You can give your action to aid another actor's action on your side. The actor that you aid can roll double dice on their next contest. Only one aid can be applied to a contest. For example, two actors cannot give aid to the same actor's contest (i.e., you can't double the double dice). An actor cannot aid themself.
 
-#### Cast a Passive Spell
+#### Cast a minor Spell
 
-If a specialization has given you access to use a spell that is marked passive, you may spend a passive action to cast the spell. Each spell has its own casting time, which might be more than one action. A spell that is marked as *ritual* cannot be cast during combat.
+If a specialization has given you access to use a spell that is marked minor, you may spend a minor action to cast the spell. Each spell has its own casting time, which might be more than one action. A spell that is marked as *ritual* cannot be cast during combat.
 
 #### Use Equipped Item
 
 Use or interact with an item that is marked in one of the equipped slots. 
 
-### Aggressive Actions
+### Major Actions
 
 #### Coup de Grâce
 
@@ -86,13 +86,13 @@ Target an *unconscious* actor, you force a fight/vigor contest. If you win the t
 
 You make one melee or ranged attack. See the "Attacking and Defending" section for specifics.
 
-#### Cast an Aggressive Spell
+#### Cast an major Spell
 
-If a specialization has given you access to use a spell that is marked aggressive, you may spend an aggressive action to cast the spell. Each spell has its own casting time, which might be more than one action. A spell that is marked as *ritual* cannot be cast during combat.
+If a specialization has given you access to use a spell that is marked major, you may spend an major action to cast the spell. Each spell has its own casting time, which might be more than one action. A spell that is marked as *ritual* cannot be cast during combat.
 
 #### Sprint
 
-Take the "move" passive action up to four times without spending a passive action. Until the start of your next turn you gain the *flat-footed* condition.
+Take the "move" minor action up to four times without spending a minor action. Until the start of your next turn you gain the *flat-footed* condition.
 
 #### Use Unequipped Item
 
@@ -102,7 +102,7 @@ Use or interact with an item that is marked in one of the stored slots.
 
 Combat is usually described narratively. This means that the general location is often enough to determine position and movement inside of combat; relative positioning (i.e., "near-by", "at the edge of the room", "within-sight", etc.) is adequate information for running a combat. If a fight requires more specific positioning, or the distances between things are of issue, an actor can move a number of measurement units equal to the sides of their *dodge* dice times five. This measurement unit can change depending on the scale of the combat. This is determined by the GM when distances are required.
 
-For example, a player wants to reach the teleportation portal before it closes. At this moment, the GM can make the determination that the player is 30 feet away from the portal at the start of their turn. The player has a *dodge* die of 1d4, and thus can move up to 20 feet during their turn using a passive action. The player then decides to use their aggressive action to sprint to reach the portal in time. Note: the exact position of the player does not need to be known until a question of distance/movement arises. These decisions are up to the GM's discretion and should be reasonable based on the narrative play up until the point of needing the exact positioning. 
+For example, a player wants to reach the teleportation portal before it closes. At this moment, the GM can make the determination that the player is 30 feet away from the portal at the start of their turn. The player has a *dodge* die of 1d4, and thus can move up to 20 feet during their turn using a minor action. The player then decides to use their major action to sprint to reach the portal in time. Note: the exact position of the player does not need to be known until a question of distance/movement arises. These decisions are up to the GM's discretion and should be reasonable based on the narrative play up until the point of needing the exact positioning. 
 
 ## Attacking and Defending
 
@@ -153,39 +153,6 @@ Weapon dice are exploding by default; if you roll the maximum number on the die,
 ##### Skill Dice 
 
 Weapons are broadly broken into melee (i.e., adjacent and close ranged) and ranged (i.e., short, long, and extreme ranged) weapons. When rolling damage with a melee weapon, an actor adds their *fight* skill to damage rolls. As described in the "Skills" chapter, skills are exploding (like damage dice). Ranged weapons add the *shoot* skill in place of the *fight* skill. Certain weapon traits or specializations might allow you to substitute one skill for another or offer bonuses for using certain skills to augment damage. 
-
-##### Bonuses
-
-Bonuses to damage fall into two large categories: situational and specialization bonuses. Most situational bonuses offer either **advantage** (double dice) or **disadvantage** (half dice). 
-
-Certain situations trigger bonuses and deficits to damage rolls. For example, being hidden offers the ability to roll double damage against a target that does not notice you; this would be called an advantage. Being restrained or grappled decreases your ability to attack, thus halving the number of dice rolled; this would be called a disadvantage. Theses situational effects are either determined ad hoc by the GM or assumed via a condition.
-
-When rolling damage with advantage, double all weapon and skill dice applied to the roll. For example, if a player is *hidden* from their target, they roll damage with advantage. A player in this situation using a dagger (1d4) and has a 1d8 in the skill *fight* would roll 2d4 + 2d8 for damage. 
-
-Disadvantage is a bit more complicated. Rolling half dice is difficult because half of 1 is a fraction, thus impossible to roll. Because of this, in the case of rolling one die, disadvantage alters the number of sides being rolled. 
-
-| Original Dice | Disadvantage |
-| ------------- | ------------ |
-| 1d4           | 1d2          |
-| 1d6           | 1d3          |
-| 1d8           | 1d4          |
-| 1d10          | 1d5          |
-| 1d12          | 1d6          |
-| 1d20          | 1d10         |
-
-If you do not have a physical die of the required sides, roll the original die and divide by two, rounding down. For example, half of 1d4 is 1d2. To roll a d2 you could either flip a coin, or roll 1d4 where ones and twos count as ones and threes and fours are counted as twos.
-
-When rolling half of multiple dice, the equation becomes simpler. Roll half the number of dice rounded down (i.e., 3d6 becomes 1d6). Disadvantage applies to the damage roll as a whole not to each individual part, so if a player attacking with a dagger (1d4) and had a 1d4 in *fight*, disadvantage would make the total roll 1d4.
-
-Situational bonuses can sometimes add additional damage dice, most commonly in the case of poison or blade oils. These alchemical items offer a situational increase to the number of dice rolled for a specific attack, based on a set of rules. See the "Equipment" chapter for more details.
-
-Specialization bonuses are much more wide sweeping and broad. When in doubt, the specialization tells you how to do the bonus. Specializations can be as simple as giving advantage or disadvantage as described above, or as complicated as worrying about the weather for this attack. Knowing your specializations is the player's responsibility and rules ambiguity or disagreements are determined by GM as impartially as possible.
-
-###### Optional Rule: Just Divide and Multiply, Damn It
-
-This optional rule does away with the idea that advantage and disadvantage apply before the dice have been rolled and instead moves the effect to after damage has been calculated. This means that advantage just takes the original damage roll and multiples it by two, and disadvantage takes the original damage roll and divides by two (rounded down). 
-
-This optional rule might be appealing if the disadvantage rules seem to be clunky or not worth the additional time. Do keep in mind for those trying out this rule that it does cut down on the possibility of exploding dice because players are rolling fewer dice. Thus advantage rolls might be more impactful in a game not using this optional rule.
 
 ### Defending 
 

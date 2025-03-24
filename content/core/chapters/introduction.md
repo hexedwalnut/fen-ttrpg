@@ -20,3 +20,7 @@ Some specializations, materials, and traits talk about die increments. Dice exis
 6. 1d20
 
 If a weapon has a trait that increases its die by one increment a weapon with 1d4 becomes 1d6 instead, conversely decreased by one increment would become a 1d8. At number one on the scale a decrease has no effect, similarly when a die reaches a number six on the scale it cannot be increased by any further increments.
+
+### Additional Die
+
+When rolling with one or more additional die, you pick from the dice you are rolling the die with the highest amount of sides. Then you roll one or more additional die of that type.

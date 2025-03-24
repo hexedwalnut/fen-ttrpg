@@ -1,4 +1,8 @@
 +++
 draft=false
-title = '05 - Specializations'
+title = 'Specializations'
 +++
+
+# All Specializations
+
+{{< page-list "specialization" >}}

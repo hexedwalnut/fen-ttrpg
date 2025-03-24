@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Talent"
 tags=["specialization", "basic-specialization"]
 
@@ -14,5 +14,7 @@ tags=["specialization", "basic-specialization"]
 
 ## Description
 
-Select a skill your actor has that was not selected by the [Assurance]({{< ref "/core/ref/assurance-specialization.md" >}}) specialization. Increase its die by one increment.
+Select a skill your actor has that was not selected by the 
+[Assurance]({{< ref "/core/ref/assurance-specialization.md" >}}) 
+specialization. Increase its die by one increment.
 

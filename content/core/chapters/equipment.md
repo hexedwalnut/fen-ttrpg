@@ -33,16 +33,16 @@ Ranges are divided into five categories:
 
 Weapon type corresponds with the type of training that is needed to use the weapon to its highest degree. The weapon's type determines which weapon specializations, if any, affect the weapon. Weapon type is a broad archetype of weapons and is broken into the following categories:
 
-- [**Short-blade**]({{< ref "/core/ref/short-blade.md" >}}): A short bladed weapon used for both piercing and slashing. The short blade archetype encompasses all knives and daggers.
-- [**Long-blade**]({{< ref "/core/ref/long-blade.md" >}}): A long bladed weapon used in both piercing and slashing. The long blade archetype encompasses all swords and great-swords. 
-- [**Short-arms**]({{< ref "/core/ref/short-arm.md" >}}): A weapon used at range within proximity of melee combat. We lump thrown weapons and pistols into one archetype because their archetypes are similar (i.e., ranged weapon in close quarters). Note: not all ages have pistols. This archetype includes all thrown weapons and all pistols.
-- [**Long-arms**]({{< ref "/core/ref/long-arm.md" >}}): A weapon used with precision in short to long range engagements. The focus of these weapons is in precision and one needs to be trained for accuracy. We lump bows and rifles into one archetype because their archetypes are similar (i.e., precision based weapons with high skill ceilings). Note: not all ages have rifles. Note: This archetype include both short and long bows, rifles of all kinds, and other precision-focused ranged weapons.
-- [**Ammunition**]({{< ref "/core/ref/ammunition.md" >}}): A weapon's ammunition. This archetype is used to give a special type of ammunition to long-arms and short-arms. Includes arrows and bullets.
-- [**Ax**]({{< ref "/core/ref/ax.md" >}}): A weapon with a short handle and a flat ax head in one or more directions. The ax archetype encompasses throwing axes/hatches, battle axes, woodcutting axes, etc. This archetype does not include polearms with ax heads or cleaver knives.
-- [**Cudgel**]({{< ref "/core/ref/cudgel.md" >}}): A blunt or heavy weapon used to bludgeon or slam enemies. The cudgel archetype encompasses maces, clubs, heavy clubs, warhammers, great-hammers, sheleighly, etc.
-- [**Polearm**]({{< ref "/core/ref/polearm.md" >}}): A weapon that is a long stick ended in a blade/weapon head. The polearm archetype encompasses all polearms including spears. 
-- [**Shield**]({{< ref "/core/ref/shield-arch.md" >}}): A shield or shield-like weapon. The primary focus is on defense. The shield archetype encompasses all shields and held defenses.
-- [**Whip**]({{< ref "/core/ref/whip-arch.md" >}}): A whip or whip-like weapon. The whip archetype is narrow and more focused on mobility or control than damage.
+- [**Short-blade**]({{< ref "/core/ref/short-blade-archetype.md" >}}): A short bladed weapon used for both piercing and slashing. The short blade archetype encompasses all knives and daggers.
+- [**Long-blade**]({{< ref "/core/ref/long-blade-archetype.md" >}}): A long bladed weapon used in both piercing and slashing. The long blade archetype encompasses all swords and great-swords. 
+- [**Short-arms**]({{< ref "/core/ref/short-arm-archetype.md" >}}): A weapon used at range within proximity of melee combat. We lump thrown weapons and pistols into one archetype because their archetypes are similar (i.e., ranged weapon in close quarters). Note: not all ages have pistols. This archetype includes all thrown weapons and all pistols.
+- [**Long-arms**]({{< ref "/core/ref/long-arm-archetype.md" >}}): A weapon used with precision in short to long range engagements. The focus of these weapons is in precision and one needs to be trained for accuracy. We lump bows and rifles into one archetype because their archetypes are similar (i.e., precision based weapons with high skill ceilings). Note: not all ages have rifles. Note: This archetype include both short and long bows, rifles of all kinds, and other precision-focused ranged weapons.
+- [**Ammunition**]({{< ref "/core/ref/ammunition-archetype.md" >}}): A weapon's ammunition. This archetype is used to give a special type of ammunition to long-arms and short-arms. Includes arrows and bullets.
+- [**Ax**]({{< ref "/core/ref/ax-archetype.md" >}}): A weapon with a short handle and a flat ax head in one or more directions. The ax archetype encompasses throwing axes/hatches, battle axes, woodcutting axes, etc. This archetype does not include polearms with ax heads or cleaver knives.
+- [**Cudgel**]({{< ref "/core/ref/cudgel-archetype.md" >}}): A blunt or heavy weapon used to bludgeon or slam enemies. The cudgel archetype encompasses maces, clubs, heavy clubs, warhammers, great-hammers, sheleighly, etc.
+- [**Polearm**]({{< ref "/core/ref/polearm-archetype.md" >}}): A weapon that is a long stick ended in a blade/weapon head. The polearm archetype encompasses all polearms including spears. 
+- [**Shield**]({{< ref "/core/ref/shield-archetype.md" >}}): A shield or shield-like weapon. The primary focus is on defense. The shield archetype encompasses all shields and held defenses.
+- [**Whip**]({{< ref "/core/ref/whip-archetype.md" >}}): A whip or whip-like weapon. The whip archetype is narrow and more focused on mobility or control than damage.
 
 Note: some weapons may have more than one archetype or may gain another archetype through a specialization, material, and/or trait.
 
@@ -130,32 +130,32 @@ Much like weapons, armors with a higher defense block more damage and take longe
 
 Armor archetype corresponds with the type of training that is needed to use the armor to its highest degree. The armor’s archetype determines which armor specializations, if any, affect the armor. Armor type is a broad archetype of armors and is broken into the following categories:
 
-- [**Unarmored**]({{< ref "/core/ref/unarmored.md" >}}): This archetype encompasses any clothing that is worn as "armor" but isn't considered to be classical armor. For example, monk's vestments, decorative bear-pelts, and wizard's robes all fall into the unarmored archetype.
-- [**Light**]({{< ref "/core/ref/light-armor.md" >}}): This archetype encompasses all armors that offer light protection with minimal obstruction of movement, often worn by archers or thieves. Leather armor, such as simple gambesons or padding, might also include small hauberks or other light chain shirts that don't cover the whole torso.
-- [**Medium**]({{< ref "/core/ref/medium-armor.md" >}}): This archetype marks the middle ground between light and heavy armors. It offers good protection without obstructing too much movement, considered to be a compromise. Often this archetype is worn by light cavalry and men-at-arms This would include full chain shirts, partial plates and enclosed helmets.
-- [**Heavy**]({{< ref "/core/ref/heavy-armor.md" >}}): This archetype marks the ultimate protective armors. This armor offers good protection with the obstruction of some movement. This archetype of armor is often worn by heavy cavalry and knights. This would include full plate armors. 
+- [**Unarmored**]({{< ref "/core/ref/unarmored-archetype.md" >}}): This archetype encompasses any clothing that is worn as "armor" but isn't considered to be classical armor. For example, monk's vestments, decorative bear-pelts, and wizard's robes all fall into the unarmored archetype.
+- [**Light**]({{< ref "/core/ref/light-armor-archetype.md" >}}): This archetype encompasses all armors that offer light protection with minimal obstruction of movement, often worn by archers or thieves. Leather armor, such as simple gambesons or padding, might also include small hauberks or other light chain shirts that don't cover the whole torso.
+- [**Medium**]({{< ref "/core/ref/medium-armor-archetype.md" >}}): This archetype marks the middle ground between light and heavy armors. It offers good protection without obstructing too much movement, considered to be a compromise. Often this archetype is worn by light cavalry and men-at-arms This would include full chain shirts, partial plates and enclosed helmets.
+- [**Heavy**]({{< ref "/core/ref/heavy-armor-archetype.md" >}}): This archetype marks the ultimate protective armors. This armor offers good protection with the obstruction of some movement. This archetype of armor is often worn by heavy cavalry and knights. This would include full plate armors. 
 
 ### Armor Traits
 
 #### Comfortable
 
-{{< include "/core/ref/comfortable.md" >}}
+{{< include "/core/ref/comfortable-trait.md" >}}
 
 #### Noisy
 
-{{< include "/core/ref/noisy.md" >}}
+{{< include "/core/ref/noisy-trait.md" >}}
 
 #### Metallic
 
-{{< include "/core/ref/metallic.md" >}}
+{{< include "/core/ref/metallic-trait.md" >}}
 
 ### Bulwark
 
-{{< include "/core/ref/bulwark.md" >}}
+{{< include "/core/ref/bulwark-trait.md" >}}
 
 ### Restrictive
 
-{{< include "/core/ref/restrictive.md" >}}
+{{< include "/core/ref/restrictive-trait.md" >}}
 
 ### Default Armors
 

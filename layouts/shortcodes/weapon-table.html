@@ -26,28 +26,28 @@
     {{ $rangeRef = ref . "/core/ref/extreme.md" }}
 {{ end }}
 
-{{ $archRef := ref . "/core/ref/short-blade.md" }}
+{{ $archRef := ref . "/core/ref/short-blade-archetype.md" }}
 {{ $arch := .Page.Params.weapon.arch }}
 {{ if eq (upper $arch) "LONG-BLADE" }}
-    {{ $archRef = ref . "/core/ref/long-blade.md" }}
+    {{ $archRef = ref . "/core/ref/long-blade-archetype.md" }}
 {{ else if eq (upper $arch) "SHORT-BLADE" }}
-    {{ $archRef = ref . "/core/ref/short-blade.md" }}
+    {{ $archRef = ref . "/core/ref/short-blade-archetype.md" }}
 {{ else if eq (upper $arch) "SHORT-ARM" }}
-    {{ $archRef = ref . "/core/ref/short-arm.md" }}
+    {{ $archRef = ref . "/core/ref/short-arm-archetype.md" }}
 {{ else if eq (upper $arch) "LONG-ARM" }}
-    {{ $archRef = ref . "/core/ref/long-arm.md" }}
+    {{ $archRef = ref . "/core/ref/long-arm-archetype.md" }}
 {{ else if eq (upper $arch) "AMMUNITION" }}
-    {{ $archRef = ref . "/core/ref/ammunition.md" }}
+    {{ $archRef = ref . "/core/ref/ammunition-archetype.md" }}
 {{ else if eq (upper $arch) "AX" }}
-    {{ $archRef = ref . "/core/ref/ax.md" }}
+    {{ $archRef = ref . "/core/ref/ax-archetype.md" }}
 {{ else if eq (upper $arch) "CUDGEL" }}
-    {{ $archRef = ref . "/core/ref/cudgel.md" }}
+    {{ $archRef = ref . "/core/ref/cudgel-archetype.md" }}
 {{ else if eq (upper $arch) "POLEARM" }}
-    {{ $archRef = ref . "/core/ref/polearm.md" }}
+    {{ $archRef = ref . "/core/ref/polearm-archetype.md" }}
 {{ else if eq (upper $arch) "SHIELD" }}
-    {{ $archRef = ref . "/core/ref/shield-arch.md" }}
+    {{ $archRef = ref . "/core/ref/shield-archetype.md" }}
 {{ else if eq (upper $arch) "WHIP" }}
-    {{ $archRef = ref . "/core/ref/whip-arch.md" }}
+    {{ $archRef = ref . "/core/ref/whip-archetype.md" }}
 {{ else }}
     {{ $arch = "ERROR" }}
 {{ end }}
@@ -82,19 +82,19 @@
             {{ $traitRef := "NO"}}
             {{range .Page.Params.weapon.traits}}
                 {{ if eq (upper .) "COUNTER" }}
-                    {{ $traitRef = ref $.Page "/core/ref/counter.md" }}
+                    {{ $traitRef = ref $.Page "/core/ref/counter-trait.md" }}
                 {{ else if eq (upper .) "LIGHT" }}
                     {{ $traitRef = ref $.Page "/core/ref/light-trait.md" }}
                 {{ else if hasPrefix (upper .) "LOADED" }}
-                    {{ $traitRef = ref $.Page "/core/ref/loaded.md" }}
+                    {{ $traitRef = ref $.Page "/core/ref/loaded-trait.md" }}
                 {{ else if hasPrefix (upper .) "THROWN" }}
-                    {{ $traitRef = ref $.Page "/core/ref/thrown.md" }}
+                    {{ $traitRef = ref $.Page "/core/ref/thrown-trait.md" }}
                 {{ else if hasPrefix (upper .) "TWO-HANDED" }}
-                    {{ $traitRef = ref $.Page "/core/ref/two-handed.md" }}
+                    {{ $traitRef = ref $.Page "/core/ref/two-handed-trait.md" }}
                 {{ else if hasPrefix (upper .) "VERSATILE" }}
-                    {{ $traitRef = ref $.Page "/core/ref/versatile.md" }}
+                    {{ $traitRef = ref $.Page "/core/ref/versatile-trait.md" }}
                 {{ else if eq (upper .) "PLANTED" }}
-                    {{ $traitRef = ref $.Page "/core/ref/planted.md" }}
+                    {{ $traitRef = ref $.Page "/core/ref/planted-trait.md" }}
                 {{ else if eq (upper .) "-" }}
                     {{ $traitRef = "NO" }}
                 {{ else }}

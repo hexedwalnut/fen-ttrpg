@@ -8,9 +8,9 @@
         {{ range .Page.Params.specialization.traits }}
         {{ $rngRef := "ERROR" }}
         {{ if hasPrefix (upper .) "REPEATABLE" }}
-            {{ $rngRef = ref $.Page "/core/ref/repeatable.md" }}
+            {{ $rngRef = ref $.Page "/core/ref/repeatable-trait.md" }}
         {{ else if hasPrefix (upper .) "IMMEDIATE" }}
-            {{ $rngRef = ref $.Page "/core/ref/immediate.md" }}
+            {{ $rngRef = ref $.Page "/core/ref/immediate-trait.md" }}
         {{ else if eq (upper .) "-" }}
             {{ $rngRef = "NO" }}
         {{ end }}
@@ -23,7 +23,7 @@
     </tr>
     <tr>
         <th>Prerequisites</th>
-        {{ range .Page.Params.specialization.prereq }}
+        <td>{{ range .Page.Params.specialization.prereq }}
         {{ $preRef := "ERROR" }}
         {{ if hasPrefix (upper .) "ARTICULATE" }}
             {{ $preRef = ref $.Page "/core/ref/articulate-skill.md" }}
@@ -46,14 +46,15 @@
         {{ else if eq (upper .) "-" }}
             {{ $preRef = "NO" }}
         {{ else }}
-            {{ $cleanedName := lower (index (split . "(") 0) }}
+            {{ $cleanedName := trim ( lower (index (split . "(") 0) ) " "}}
+            {{ $cleanedName := replace $cleanedName " " "-" }}
             {{ $preRef = ref $.Page ( printf "/core/ref/%s-specialization.md" $cleanedName ) }}
         {{ end }}
         {{ if eq $preRef "NO"}}
-        <td>{{.}}</td>
+        {{.}}
         {{ else }}
-        <td><a href="{{$preRef}}">{{.}}</a></td>
+        <a href="{{$preRef}}">{{.}}</a>
         {{ end }}
-        {{ end }}
+        {{ end }}</td>
     </tr>
 </table>

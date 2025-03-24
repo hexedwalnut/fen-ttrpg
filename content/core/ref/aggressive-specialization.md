@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Aggressive"
 tags=["specialization", "basic-specialization"]
 
@@ -7,12 +7,12 @@ tags=["specialization", "basic-specialization"]
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable(4)"]
-    prereq=["fight(1d8+)"]
+    prereq=["-"]
 +++
 
 {{< specialization-front >}}
 
 ## Description
 
-You gain an additional aggressive action
+You gain an additional major action
 

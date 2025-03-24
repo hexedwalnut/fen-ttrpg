@@ -31,13 +31,13 @@
         {{ $archRef := "ERROR" }}
 
         {{ if eq (upper $arch) "UNARMORED" }}
-            {{ $archRef = ref . "/core/ref/unarmored.md" }}
+            {{ $archRef = ref . "/core/ref/unarmored-archetype.md" }}
         {{ else if eq (upper $arch) "light" }}
-            {{ $archRef = ref . "/core/ref/light-armor.md" }}
+            {{ $archRef = ref . "/core/ref/light-armor-archetype.md" }}
         {{ else if eq (upper $arch) "medium" }}
-            {{ $archRef = ref . "/core/ref/medium-armor.md" }}
+            {{ $archRef = ref . "/core/ref/medium-armor-archetype.md" }}
         {{ else if eq (upper $arch) "heavy" }}
-            {{ $archRef = ref . "/core/ref/heavy-armor.md" }}
+            {{ $archRef = ref . "/core/ref/heavy-armor-archetype.md" }}
         {{ end }}
             <tr>
                 <td><a href="{{.Page.Permalink}}">{{.Page.Title}}</a></td>
@@ -55,15 +55,15 @@
                 {{ $traitRef := "NO"}}
                 {{range .Page.Params.armor.traits}}
                     {{ if eq (upper .) "COMFORTABLE" }}
-                        {{ $traitRef = ref $.Page "/core/ref/comfortable.md" }}
+                        {{ $traitRef = ref $.Page "/core/ref/comfortable-trait.md" }}
                     {{ else if eq (upper .) "NOISY" }}
-                        {{ $traitRef = ref $.Page "/core/ref/noisy.md" }}
+                        {{ $traitRef = ref $.Page "/core/ref/noisy-trait.md" }}
                     {{ else if hasPrefix (upper .) "METALLIC" }}
-                        {{ $traitRef = ref $.Page "/core/ref/metallic.md" }}
+                        {{ $traitRef = ref $.Page "/core/ref/metallic-trait.md" }}
                     {{ else if hasPrefix (upper .) "RESTRICTIVE" }}
-                        {{ $traitRef = ref $.Page "/core/ref/restrictive.md" }}
+                        {{ $traitRef = ref $.Page "/core/ref/restrictive-trait.md" }}
                     {{ else if hasPrefix (upper .) "BULWARK" }}
-                        {{ $traitRef = ref $.Page "/core/ref/bulwark.md" }}
+                        {{ $traitRef = ref $.Page "/core/ref/bulwark-trait.md" }}
                     {{ else if eq (upper . ) "-" }}
                         {{ $traitRef = "NO" }}
                     {{ else }}

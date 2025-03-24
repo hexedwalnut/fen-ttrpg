@@ -40,7 +40,7 @@ parser.add_argument("--add", "-a", nargs="*", help="Additional tags", required=F
 args = parser.parse_args()
 
 output = f"""+++
-draft=true
+draft=false
 title="{args.name}"
 tags=["specialization", "{str(args.kind)}-specialization\""""
 
@@ -64,7 +64,7 @@ output += """]
 
 output += f'"{args.prereq[0]}"'
 for i in range(1, len(args.prereq)):
-    output += f', "{args.traits[i]}'
+    output += f', "{args.prereq[i]}"'
 output += f"""]
 +++
 

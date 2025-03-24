@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Opportunity Attack"
 tags=["specialization", "basic-specialization"]
 
@@ -14,5 +14,7 @@ tags=["specialization", "basic-specialization"]
 
 ## Description
 
-You gain the [**Opportunity Attack**]({{< ref "/core/ref/opportunity-attack-reaction.md" >}}) reaction.
+You gain the 
+[**Opportunity Attack**]({{< ref "/core/ref/opportunity-attack-reaction.md" >}}) 
+reaction.
 

@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Coordination"
 tags=["specialization", "basic-specialization"]
 
@@ -7,12 +7,12 @@ tags=["specialization", "basic-specialization"]
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable(4)"]
-    prereq=["tactics(1d8+)"]
+    prereq=["-"]
 +++
 
 {{< specialization-front >}}
 
 ## Description
 
-You gain an additional passive action per turn.
+You gain an additional minor action per turn.
 

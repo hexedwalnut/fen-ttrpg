@@ -1,5 +1,5 @@
 +++
-draft=true
+draft=false
 title="Reactive"
 tags=["specialization", "basic-specialization"]
 
@@ -7,7 +7,7 @@ tags=["specialization", "basic-specialization"]
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable(4)"]
-    prereq=["dodge(1d8+)"]
+    prereq=["-"]
 +++
 
 {{< specialization-front >}}
