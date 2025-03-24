@@ -607,6 +607,45 @@ of the Target minor action.""",
         ),
         ["long-arm-specialization"],
     ),
+    (
+        (
+            "Manuscripts and Codices",
+            "weapon",
+            "0",
+            ["-"],
+            ["Weapon Training(long-blade)"],
+            """You gain the four guards of [long-blade]({{< ref "/core/ref/long-blade-archetype.md" >}}):
+Plow, Ox, Fool, and Boar.
+
+* **Plow**: A primarily defensive guard, your blade held low across your body
+ready to block incoming blows. While in Plow you may use [vigor]({{< ref "/core/ref/vigor-skill.md" >}})
+dice in place of [dodge]({{< ref "/core/ref/dodge-skill.md" >}}) dice when defending.
+* **Ox**: A primarily offensive guard, your blade held high above your head
+point out. While in Ox you may add an additional [fight]({{< ref "/core/ref/fight-skill.md" >}})
+die to damage rolls.
+* **Fool**: A defensive guard that tries to lure in attackers, your blade held
+pointing to the ground. While in Fool long-blade weapons gain the [counter]({{< ref "/core/ref/counter-trait.md" >}})
+trait while you are wielding them.
+* **Boar**: A offensive guard focused on spacing and maneuvering, your sword held
+straight towards your target. While in boar your movement doesn't provoke attacks
+of opportunity
+
+You can enter a guard as a minor action gaining the benefits as stated above.
+""",
+        ),
+        ["long-blade-specialization"],
+    ),
+    (
+        (
+            "Lunge",
+            "weapon",
+            "0",
+            ["-"],
+            ["Weapon Training(long-blade)(2)", "Manuscripts and Codices"],
+            """You gain the [Lunge]({{< ref "/core/ref/lunge-action.md" >}}) major action""",
+        ),
+        ["long-blade-specialization"],
+    ),
     ## WEAPON END ##
 ]
 
