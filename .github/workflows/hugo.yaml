@@ -27,15 +27,6 @@ defaults:
   run:
     shell: bash
 
-outputs:
-  home:
-  # To create webpages. 
-    - HTML
-  # To create RSS Feed
-    - RSS
-  # To create an index.json so search works on the site
-    - JSON
-
 jobs:
   # Build job
   build:
