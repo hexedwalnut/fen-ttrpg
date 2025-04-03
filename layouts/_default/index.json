@@ -1,0 +1,16 @@
+{{/* layouts/_default/index.json */}}
+
+{{- $index := slice -}}
+{{- range where .Site.RegularPages.ByDate.Reverse "Type" "not in"  (slice "page" "json") -}}
+    {{ $tags := "" }}
+    {{ range .Params.tags }}
+    {{ $newtags := (printf "<string><a href='/tags/%s'>%s</a></strong>"  ( . | urlize ) ( . | humanize ) ) }}
+    {{ if (eq $tags "" ) }}
+        {{$tags = (printf "%s" $newtags)}}
+    {{ else }}
+        {{ $tags = (printf "%s, %s" $tags $newtags)}}
+    {{ end }}
+    {{ end }}
+    {{- $index = $index | append (dict "title" ( .Title | plainify ) "permalink" .Permalink  "tags" ( $tags ) "categories" ( .Params.categories ) "summary" ( .Params.abstract | markdownify | htmlUnescape | plainify) ) -}}
+{{- end -}}
+{{- $index | jsonify -}}

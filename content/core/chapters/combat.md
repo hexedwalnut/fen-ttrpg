@@ -1,6 +1,9 @@
 +++
 draft=false
-title = '03 - Combat'
+title = 'Combat'
+tags=["chapter"]
+[Params]
+  abstract="In this chapter we introduce combat."
 +++
 
 Introduction to chapter… Many games have a prose example of a combat encounter, I like that, so will write my own once combat is worked out.

@@ -1,6 +1,9 @@
 +++
 draft=false
-title = '02 - Actor Creation'
+title = 'Actor Creation'
+tags=["chapter"]
+[Params]
+  abstract="In this chapter we discuss the concept of the actor and how to create actors."
 +++
 
 > "All the world's a stage, And all the men and women merely players; They have their exits and their entrances; And one man in his time plays many parts, Hist acts being seven ages." - William Shakespeare
@@ -88,3 +91,19 @@ A faction with high a will might have an increased sense of belonging or good in
 #### Regional or Temporal Skill
 
 Different campaigns might add other skills that actors can utilize. These skills will be listed by the GM during character creation.
+
+## Creating a Player Character
+
+To create a player character (PC) you use the following steps:
+
+1. Pick a species and gain species specializations
+2. Pick an origin and gain origin specializations 
+3. Determine initial talents for your skills
+4. Roll initial hit points
+5. Roll for starting money and buy equipment 
+6. Gain initial specialization points and purchase specialization 
+7. Name your character and come up with a backstory (if needed)
+
+The GM then determines a few things:
+
+1. Your character's maximum life-span and date of death if nothing else kills you first.

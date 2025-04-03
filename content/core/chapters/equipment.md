@@ -1,6 +1,9 @@
 +++
 draft=false
-title = '04 - Equipment'
+title = 'Equipment'
+tags=["chapter"]
+[Params]
+  abstract="This chapter convers equipment."
 +++
 
 > "It matters little how much equipment we use; it matters much that we be masters of all we do use. - Sam Abell

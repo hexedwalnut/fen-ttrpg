@@ -2,9 +2,6 @@
 draft = false 
 title = 'Fen Homepage'
 +++
+# Welcome to Fen
 
-## Welcome to Fen
-
-This is placeholder
-
-This is a test.
+Fen is a TTRPG for 4-6 players that is set in the world of Fen. Fen is a game world were the history is made up of previous campaigns with the same players.
