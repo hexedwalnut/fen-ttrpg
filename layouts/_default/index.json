@@ -4,7 +4,7 @@
 {{- range where .Site.RegularPages.ByDate.Reverse "Type" "not in"  (slice "page" "json") -}}
     {{ $tags := "" }}
     {{ range .Params.tags }}
-    {{ $newtags := (printf "<string><a href='/tags/%s'>%s</a></strong>"  ( . | urlize ) ( . | humanize ) ) }}
+    {{ $newtags := (printf "<string><a href='%s/tags/%s'>%s</a></strong>" $.Site.BaseURL ( . | urlize ) ( . | humanize ) ) }}
     {{ if (eq $tags "" ) }}
         {{$tags = (printf "%s" $newtags)}}
     {{ else }}
