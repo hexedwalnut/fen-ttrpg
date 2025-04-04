@@ -19,7 +19,7 @@
 <script>
     const input = document.getElementById("elbi-input");
     const results = document.getElementById("elbi-results");
-    const request = new Request("/index.json");
+    const request = new Request({{ .Site.BaseURL }} + "/index.json");
     const display_score = false; // Set to true if you want to see the score in the results
 
     fetch(request)
