@@ -4,6 +4,7 @@ title="Aim"
 tags=["specialization", "weapon-specialization", "long-arm-specialization"]
 
 [params]
+  abstract="Allows you to roll and additional die per major action spent aiming."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

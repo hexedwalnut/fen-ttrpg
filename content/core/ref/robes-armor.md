@@ -4,6 +4,7 @@ title="Robes"
 tags=["default", "armor", "equipment", "unarmored"]
 
 [params]
+  abstract = "None"
   [params.armor]
     def="-"
     arch="Unarmored"

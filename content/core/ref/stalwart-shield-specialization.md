@@ -4,6 +4,7 @@ title="Stalwart Shield"
 tags=["specialization", "weapon-specialization", "shield-specialization"]
 
 [params]
+  abstract="The raise shield action becomes two minor actions instead of a major action."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

@@ -4,6 +4,7 @@ title="Bludgeon"
 tags=["specialization", "weapon-specialization", "cudgel-specialization"]
 
 [params]
+  abstract="Lets cudgel weapons cause the dazed condition."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable"]

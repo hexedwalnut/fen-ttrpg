@@ -68,6 +68,7 @@ title="{args.name}"
 tags=["{'default", "weapon"' if args.default else 'weapon"'}, "equipment", "{args.archetype}", "{args.range}"]
 
 [params]
+  abstract="{args.description}"
   [params.weapon]
     dmg="{args.dmg}"
     type="{args.dtype}"

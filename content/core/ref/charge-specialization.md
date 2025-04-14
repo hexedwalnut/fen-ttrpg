@@ -4,6 +4,7 @@ title="Charge"
 tags=["specialization", "weapon-specialization"]
 
 [params]
+  abstract="Allows you to move and attack as one major action."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

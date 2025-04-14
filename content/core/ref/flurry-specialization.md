@@ -4,6 +4,7 @@ title="Flurry"
 tags=["specialization", "weapon-specialization", "short-blade-specialization"]
 
 [params]
+  abstract="Allows you to attack again with an off-handed short-blade with a successful hit as a reaction."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

@@ -37,6 +37,7 @@ title="{args.name}"
 tags=["{'default", "armor"' if args.default else 'armor"'}, "equipment", "{args.archetype}"]
 
 [params]
+  abstract = "{args.description}"
   [params.armor]
     def="{args.defense}"
     arch="{str(args.archetype).capitalize()}"

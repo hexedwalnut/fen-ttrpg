@@ -4,6 +4,7 @@ title="Opportunity Attack"
 tags=["specialization", "basic-specialization"]
 
 [params]
+  abstract="Gain the ability to attack as a reaction under certain circumstances."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

@@ -4,6 +4,7 @@ title="Sweeping Trip"
 tags=["specialization", "weapon-specialization", "polearm-specialization"]
 
 [params]
+  abstract="Trip actors when dealing damage with the sweep action."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

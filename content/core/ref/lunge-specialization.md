@@ -4,6 +4,7 @@ title="Lunge"
 tags=["specialization", "weapon-specialization", "long-blade-specialization"]
 
 [params]
+  abstract="Lunge at a target with a long-blade, gain additional effects based on guard."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

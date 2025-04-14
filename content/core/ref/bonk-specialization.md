@@ -4,6 +4,7 @@ title="Bonk"
 tags=["specialization", "weapon-specialization", "cudgel-specialization"]
 
 [params]
+  abstract="Allows your cudgel weapons to knock people out with destructive strikes."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

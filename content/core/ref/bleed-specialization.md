@@ -4,6 +4,7 @@ title="Bleed"
 tags=["specialization", "weapon-specialization", "ax-specialization", "long-blade-specialization", "short-blade-specialization"]
 
 [params]
+  abstract="Allows either, ax, long-blade, or short-blade weapons to cause Bleed."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable"]

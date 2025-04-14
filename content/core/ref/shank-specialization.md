@@ -4,6 +4,7 @@ title="Shank"
 tags=["specialization", "weapon-specialization", "short-blade-specialization"]
 
 [params]
+  abstract="Deal more damage with a short-blade per negative condition on the target."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

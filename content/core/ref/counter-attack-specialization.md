@@ -4,6 +4,7 @@ title="Counter Attack"
 tags=["specialization", "weapon-specialization"]
 
 [params]
+  abstract="Successfully dodging and attack causes an attack of opportunity against the attacker."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

@@ -4,6 +4,7 @@ title="Sweep"
 tags=["specialization", "weapon-specialization", "polearm-specialization"]
 
 [params]
+  abstract="Target more than one actor with a polearm weapon."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable(4)"]

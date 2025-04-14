@@ -4,6 +4,7 @@ title="Clothing"
 tags=["default", "armor", "equipment", "unarmored"]
 
 [params]
+  abstract = "Any type of normal clothing not meant as armor."
   [params.armor]
     def="-"
     arch="Unarmored"

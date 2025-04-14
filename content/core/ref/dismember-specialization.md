@@ -4,6 +4,7 @@ title="Dismember"
 tags=["specialization", "weapon-specialization", "ax-specialization"]
 
 [params]
+  abstract="Allows an ax to hobble or disjoint an actor."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

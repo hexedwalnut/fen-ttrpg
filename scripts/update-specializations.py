@@ -6,7 +6,9 @@ import re
 dir_path = Path(os.path.dirname(os.path.realpath(__file__)))
 
 
-def specialization_command(name, kind, cost, tlist, plist, description, addition=None):
+def specialization_command(
+    name, kind, cost, tlist, plist, description, addition=None, abstract=None
+):
     output = [
         "python3",
         str(dir_path / "create-specialization.py"),
@@ -26,10 +28,13 @@ def specialization_command(name, kind, cost, tlist, plist, description, addition
     if addition:
         output.append("-a")
         output.extend(addition)
+    if abstract:
+        output.append("-b")
+        output.append(abstract)
     return output
 
 
-def specialization_command_entry(entry, addition=None):
+def specialization_command_entry(entry, addition=None, abstract=None):
     return specialization_command(
         entry[0],
         entry[1],
@@ -38,6 +43,7 @@ def specialization_command_entry(entry, addition=None):
         entry[4],
         entry[5],
         addition=addition,
+        abstract=abstract,
     )
 
 
@@ -59,6 +65,7 @@ specializations = [
 specialization. Increase its die by one increment.""",
         ),
         None,
+        "Increases die increment of skills.",
     ),
     (
         (
@@ -76,6 +83,7 @@ once you select Assurance on a skill, you can never increase the sides of the
 die.""",
         ),
         None,
+        "Increases the number of dice rolled for a skill, locks in the number of sides.",
     ),
     (
         (
@@ -87,6 +95,7 @@ die.""",
             """You gain an additional minor action per turn.""",
         ),
         None,
+        "Gain another minor action per turn.",
     ),
     (
         (
@@ -98,6 +107,7 @@ die.""",
             """You gain an additional major action""",
         ),
         None,
+        "Gain another major action per turn.",
     ),
     (
         (
@@ -111,6 +121,7 @@ die.""",
 reaction.""",
         ),
         None,
+        "Gain the ability to attack as a reaction under certain circumstances.",
     ),
     (
         (
@@ -124,6 +135,7 @@ reaction.""",
  HP.""",
         ),
         None,
+        "Increase maximum hp.",
     ),
     (
         (
@@ -135,6 +147,7 @@ reaction.""",
             """You gain an additional reaction per round.""",
         ),
         None,
+        "Increase the number of reactions per round.",
     ),
     ## BASIC END ##
     ## WEAPON START ##
@@ -157,18 +170,7 @@ gain an additional 1d8 after taking this specialization. This
 specialization applies to offhanded weapons as well.""",
         ),
         None,
-    ),
-    (
-        (
-            "Target",
-            "weapon",
-            "0",
-            ["-"],
-            ["Weapon Training(long-arm)"],
-            """You gain the minor action 
-[**Target**]({{< ref "/core/ref/target-action.md" >}}).""",
-        ),
-        None,
+        "Gain an additional die when rolling damage with a specific weapon archetype.",
     ),
     (
         (
@@ -181,6 +183,7 @@ specialization applies to offhanded weapons as well.""",
 [**Aim**]({{< ref "/core/ref/aim-action.md" >}})""",
         ),
         ["long-arm-specialization"],
+        "Allows you to roll and additional die per major action spent aiming.",
     ),
     (
         (
@@ -193,6 +196,7 @@ specialization applies to offhanded weapons as well.""",
 [light]({{< ref "/core/ref/light-trait.md" >}}) trait for you.""",
         ),
         ["short-arm-specialization"],
+        "Lets all short-arms be light weapons.",
     ),
     (
         (
@@ -211,6 +215,7 @@ for short-arms taking it again, you move from Defensive(2)
 to Defensive(3).""",
         ),
         None,
+        "Gives the Defensive trait to all weapons in a specific weapon archetype.",
     ),
     (
         (
@@ -228,6 +233,7 @@ sundered, instead keeping 1 defense. This reaction cannot be
 applied to magical effects that cause damage to armaments.""",
         ),
         None,
+        "Allows you to try to save weapons that are about to be sundered.",
     ),
     (
         (
@@ -254,6 +260,7 @@ a X archetype weapon.""",
             "long-blade-specialization",
             "short-blade-specialization",
         ],
+        "Allows either, ax, long-blade, or short-blade weapons to cause Bleed.",
     ),
     (
         (
@@ -269,6 +276,7 @@ next turn. If you take this specialization again, you increase the number of
 rounds your target is affected by *dazed* by one.""",
         ),
         ["cudgel-specialization"],
+        "Lets cudgel weapons cause the dazed condition.",
     ),
     (
         (
@@ -294,6 +302,7 @@ major action""",
             "polearm-specialization",
             "long-blade-specialization",
         ],
+        "Allows ax, cudgel, polearm, or long-blades deal more damage to defenses.",
     ),
     (
         (
@@ -315,6 +324,7 @@ until the end of your next turn. If they are *incapacitated* they become
 [*unconscious*]({{< ref "/core/ref/unconscious-condition.md" >}}).""",
         ),
         ["cudgel-specialization"],
+        "Allows your cudgel weapons to knock people out with destructive strikes.",
     ),
     (
         (
@@ -327,6 +337,7 @@ until the end of your next turn. If they are *incapacitated* they become
 action [**Charge**]({{< ref "/core/ref/charge-action.md" >}}).""",
         ),
         None,
+        "Allows you to move and attack as one major action.",
     ),
     (
         (
@@ -336,9 +347,10 @@ action [**Charge**]({{< ref "/core/ref/charge-action.md" >}}).""",
             ["-"],
             ["Weapon Training(short-arm)(3)", "Akimbo"],
             """Firing a [short-arm]({{< ref "/core/ref/short-arm-archetype.md" >}}) 
-does not provoke an [attack of opportunity]({{< ref "/core/ref/attack-of-opportunity-reaction.md" >}}).""",
+does not provoke an [attack of opportunity]({{< ref "/core/ref/opportunity-attack-reaction.md" >}}).""",
         ),
         ["short-arm-specialization"],
+        "Removes the attack of opportunity for using a ranged weapon in melee.",
     ),
     (
         (
@@ -351,6 +363,7 @@ does not provoke an [attack of opportunity]({{< ref "/core/ref/attack-of-opportu
 [**Disarming Shot**]({{< ref "/core/ref/disarming-shot-action.md" >}}).""",
         ),
         ["short-arm-specialization"],
+        "Allows you to use a short-arm to make an actor drop a weapon.",
     ),
     (
         (
@@ -369,6 +382,7 @@ rest of the combat, in addition you may apply the effects of the
 [bleed specialization]({{< ref "/core/ref/bleed-specialization.md" >}}) level.""",
         ),
         ["ax-specialization"],
+        "Allows an ax to hobble or disjoint an actor.",
     ),
     (
         (
@@ -382,17 +396,7 @@ short-blade weapon is in your off-hand. You may use your reaction to roll
 another attack using the off hand short-blade.""",
         ),
         ["short-blade-specialization"],
-    ),
-    (
-        (
-            "Quick Draw",
-            "weapon",
-            "0",
-            ["-"],
-            ["Weapon Training(short-arm)(3)", "Akimbo"],
-            """When you fire a short-arm it adoes not provoke an attack of opportunity.""",
-        ),
-        ["short-arm-specialization"],
+        "Allows you to attack again with an off-handed short-blade with a successful hit as a reaction.",
     ),
     (
         (
@@ -409,6 +413,7 @@ you kick your target away from you. Until the start of your next turn, your
 movement does not provoke attacks of opportunity from the target.""",
         ),
         ["short-arm-specialization"],
+        "Allows you to kick an actor away from you when shooting with a short-arm in melee range.",
     ),
     (
         (
@@ -417,12 +422,12 @@ movement does not provoke attacks of opportunity from the target.""",
             "0",
             ["-"],
             ["Weapon Training(polearm)", "Opportunity Attack"],
-            """When you use your reaction to make an attack of opportunity
+            """When you use your reaction to make an attack of opportunity with a polearm,
 you can move (as per the [move]({{< ref "/core/ref/move-action.md" >}}) 
-minor action) as a reaction. This movement doesn't provoke attacks of 
-opportunity.""",
+minor action). This movement doesn't provoke attacks of opportunity.""",
         ),
         ["polearm-specialization"],
+        "Allows you to move while making and attack of opportunity with a polearm.",
     ),
     (
         (
@@ -435,6 +440,7 @@ opportunity.""",
 [loaded]({{< ref "/core/ref/loaded-trait.md" >}}) trait as a minor action.""",
         ),
         ["short-arm-specialization", "long-arm-specialization"],
+        "You can load as a minor action.",
     ),
     (
         (
@@ -447,6 +453,7 @@ opportunity.""",
 [Raise Shield]({{< ref "/core/ref/raise-shield-action.md" >}}).""",
         ),
         ["shield-specialization"],
+        "Double a shield's defense for a round.",
     ),
     (
         (
@@ -461,21 +468,7 @@ If this is not the first time you purchase this specialization, you increase
 the number of additional dice granted by the reckless strike action by one.""",
         ),
         ["ax-specialization"],
-    ),
-    (
-        (
-            "Resilient Armament",
-            "weapon",
-            "0",
-            ["Repeatable"],
-            ["Averting Armory(X)(%)"],
-            """Pick an archetype X. You have learned how to best wield a weapon
-when it is soon to break. When a weapon of the X archetype is dealt enough 
-damage to be sundered, you may use your reaction to cause a Vigor/Fight contest
-between you and the damage dealer. If you win the contest, the weapon is not
-sundered, instead is reduced to one defense.""",
-        ),
-        None,
+        "Put your self into more danger to deal more damage with an ax.",
     ),
     (
         (
@@ -489,6 +482,7 @@ sundered, instead is reduced to one defense.""",
 of opportunity against your attacker.""",
         ),
         None,
+        "Successfully dodging and attack causes an attack of opportunity against the attacker.",
     ),
     (
         (
@@ -502,6 +496,7 @@ polearm, that actor gains the [*immobile*]({{< ref "/core/ref/immobile-condition
 condition until the start of their next turn.""",
         ),
         ["polearm-specialization"],
+        "Stop an actor from moving when you successfully deal damage with an attack of opportunity with a polearm.",
     ),
     (
         (
@@ -513,6 +508,7 @@ condition until the start of their next turn.""",
             """You gain the major action [Shank]({{< ref "/core/ref/shank-action.md" >}}).""",
         ),
         ["short-blade-specialization"],
+        "Deal more damage with a short-blade per negative condition on the target.",
     ),
     (
         (
@@ -521,10 +517,11 @@ condition until the start of their next turn.""",
             "0",
             ["-"],
             ["Weapon Training(Shield)(1)", "Opportunity Attack"],
-            """Successfully defending using a shield provokes and attack of
-opportunity.""",
+            """Successfully defending (take no hp) using a shield provokes an attack of
+opportunity against the attacker.""",
         ),
         ["shield-specialization"],
+        "Successfully defending with a shield provokes an attack of opportunity against the attacker.",
     ),
     (
         (
@@ -539,6 +536,7 @@ their other archetypes. Base damage for shields you wield are increased by one
 die increment.""",
         ),
         ["shield-specialization"],
+        "Shields gain the cudgel archetype and a damage increase.",
     ),
     (
         (
@@ -552,6 +550,7 @@ die increment.""",
 [attack]({{< ref "/core/ref/attack-action.md" >}}) action.""",
         ),
         ["short-arm-specialization"],
+        "You can load as part of an attack with a short-arm.",
     ),
     (
         (
@@ -564,6 +563,7 @@ die increment.""",
 with two minor actions.""",
         ),
         ["shield-specialization"],
+        "The raise shield action becomes two minor actions instead of a major action.",
     ),
     (
         (
@@ -578,6 +578,7 @@ additional target with the sweep action. Each additional target still takes
 half the total damage as per the sweep action.""",
         ),
         ["polearm-specialization"],
+        "Target more than one actor with a polearm weapon.",
     ),
     (
         (
@@ -593,6 +594,7 @@ condition. The effect of the *prone* condition is applied after the sweep damage
 is dealt.""",
         ),
         ["polearm-specialization"],
+        "Trip actors when dealing damage with the sweep action.",
     ),
     (
         (
@@ -606,6 +608,7 @@ If you take this specialization again, you gain one additional shoot die on a ta
 of the Target minor action.""",
         ),
         ["long-arm-specialization"],
+        "Target an actor to gain an additional shoot die on the damage roll with a long-arm.",
     ),
     (
         (
@@ -634,6 +637,7 @@ You can enter a guard as a minor action gaining the benefits as stated above.
 """,
         ),
         ["long-blade-specialization"],
+        "Gain the basic long-blade guards.",
     ),
     (
         (
@@ -645,6 +649,7 @@ You can enter a guard as a minor action gaining the benefits as stated above.
             """You gain the [Lunge]({{< ref "/core/ref/lunge-action.md" >}}) major action""",
         ),
         ["long-blade-specialization"],
+        "Lunge at a target with a long-blade, gain additional effects based on guard.",
     ),
     ## WEAPON END ##
     ## MAGIC START ##
@@ -715,25 +720,31 @@ above sources.
 
 ## Starting Spell List
 
-No conduit is alone in their manifestations of magical spells. 
+No conduit is alone in their manifestations of magical spells. You gain a starting
+spell list based on your interests. Select one spell list from those featured below.
 
 """,
         ),
         None,
+        "Gain the ability to cast magic and become a conduit",
+    ),
+    (
+        ("Magic Well", "magic", "0", ["-"], ["-"], """ """),
+        None,
+        "Increase your maximum mp",
     ),
     ## MAGIC END ##
 ]
 
-for specialization, addition in specializations:
+for specialization, addition, abstract in specializations:
     with open(
         str(dir_path.parent / "content/core/ref" / fname(specialization[0])),
         "w+",
         encoding="utf-8",
     ) as file:
-        if addition:
-            subprocess.run(
-                specialization_command_entry(specialization, addition=addition),
-                stdout=file,
-            )
-        else:
-            subprocess.run(specialization_command_entry(specialization), stdout=file)
+        subprocess.run(
+            specialization_command_entry(
+                specialization, addition=addition, abstract=abstract
+            ),
+            stdout=file,
+        )

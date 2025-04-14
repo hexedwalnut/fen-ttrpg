@@ -4,6 +4,7 @@ title="Kick Start"
 tags=["specialization", "weapon-specialization", "short-arm-specialization"]
 
 [params]
+  abstract="Allows you to kick an actor away from you when shooting with a short-arm in melee range."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

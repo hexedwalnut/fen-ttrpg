@@ -6,6 +6,7 @@ class Specialization(Enum):
     basic = "basic"
     weapon = "weapon"
     armor = "armor"
+    magic = "magic"
 
     def __str__(self):
         return self.value
@@ -33,6 +34,9 @@ parser.add_argument(
     "--description", "-d", help="The description of the specialization", required=True
 )
 parser.add_argument(
+    "--abstract", "-b", help="Abstract for the specialization", required=False
+)
+parser.add_argument(
     "--cost", "-c", help="The cost of the specialization", required=False
 )
 parser.add_argument("--add", "-a", nargs="*", help="Additional tags", required=False)
@@ -52,6 +56,7 @@ output += "]"
 output += f"""
 
 [params]
+  abstract="{args.abstract}"
   [params.specialization]
     cost="{args.cost} sp"
     traits=["""

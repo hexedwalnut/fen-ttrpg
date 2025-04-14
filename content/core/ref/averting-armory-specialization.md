@@ -4,6 +4,7 @@ title="Averting Armory"
 tags=["specialization", "weapon-specialization"]
 
 [params]
+  abstract="Gives the Defensive trait to all weapons in a specific weapon archetype."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable"]

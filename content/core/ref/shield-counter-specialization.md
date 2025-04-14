@@ -4,6 +4,7 @@ title="Shield Counter"
 tags=["specialization", "weapon-specialization", "shield-specialization"]
 
 [params]
+  abstract="Successfully defending with a shield provokes an attack of opportunity against the attacker."
   [params.specialization]
     cost="0 sp"
     traits=["-"]
@@ -14,6 +15,6 @@ tags=["specialization", "weapon-specialization", "shield-specialization"]
 
 ## Description
 
-Successfully defending using a shield provokes and attack of
-opportunity.
+Successfully defending (take no hp) using a shield provokes an attack of
+opportunity against the attacker.
 

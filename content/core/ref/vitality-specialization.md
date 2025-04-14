@@ -4,6 +4,7 @@ title="Vitality"
 tags=["specialization", "basic-specialization"]
 
 [params]
+  abstract="Increase maximum hp."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable"]

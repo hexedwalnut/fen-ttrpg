@@ -4,6 +4,7 @@ title="Target"
 tags=["specialization", "weapon-specialization", "long-arm-specialization"]
 
 [params]
+  abstract="Target an actor to gain an additional shoot die on the damage roll with a long-arm."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable(4)"]

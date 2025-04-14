@@ -4,6 +4,7 @@ title="Destructive Strike"
 tags=["specialization", "weapon-specialization", "ax-specialization", "cudgel-specialization", "polearm-specialization", "long-blade-specialization"]
 
 [params]
+  abstract="Allows ax, cudgel, polearm, or long-blades deal more damage to defenses."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable"]

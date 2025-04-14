@@ -18,17 +18,37 @@ The basic makeup of an actor consists of a collection of statistics and skills.
 
 ### Statistics
 
-Statistics describe a limited resource that an actor has at their disposal. These can be either physical resources, like Hit Point (*hp*) or intangible resources such as Specialization Points (*sp*).
+Statistics describe a limited resource that an actor has at their disposal. These can be either physical resources, like Hit Point (*hp*) or intangible resources such as Specialization Points (*sp*). Statistic come in three kinds: a *Pool*, *Count* and *Tally*.
 
-#### Hit Points
+#### Pool
 
-*hp* represents the total amount of effort an actor can exert to stop an action from killing or harming them. Every actor has a maximum *hp* and tracks their current *hp*.
+A *Pool* is a collection of points that represents a finite resource. A Pool has a maximum value and a current value. For example, hit points are considered a Pool statistic. Generally actors want as many points in a pool statistic as they can get. 
+
+#### Temporary Points
+
+Pools can hold at maximum a finite sum of points in the usual case, however a Pool statistic can gain temporary points. If an effects adds temporary points to a Pool statistic, you gain an additional amount of points equal to the points described. This addition does not increase your current or total points in the Pool. When spending points from this Pool you must remove points from the temporary points before you take points from your regular Pool. Once all temporary points are gone, you remove from the regular pool again. If another source give you temporary points when you already have some, you add the new amount to your temporary points.
+
+#### Hit Points (*hp*)
+
+All actors have the Pool statistic Hit Points (*hp*). *hp* represents the total amount of effort an actor can exert to stop an action from killing or harming them. In the case of non-creature actors (i.e., storms, environments, etc.), *hp* represents the general ability for an actor to remain the way that they are. For example, a storm with low current *hp* might be soon to break, or an environment with low *hp* might be polluted or close to collapse.
+
+### Count
+
+A *Count* statistic is a running amount of a resource that does not have a maximum. A Count only has a current value. For example specialization points are a Count statistic. Generally actors want as many points in a Count statistic as they can.
 
 #### Specialization Points 
 
 *sp* represents the current training an actor has. This can be thought of as *xp* from other TTRPGs. *sp* is used to purchase specializations and customize a actor's abilities. Every actor tracks their current amount of *sp* as they earn and spend it.
 
-#### Regional or Temporal Statistics
+### Tally
+
+A *Tally* statistic is a running amount with a maximum, where something happens when the count reaches its maximum. For example, wounds are a Tally statistic. Generally actors want a few tally points as possible.
+
+#### Wound Points (*wp*)
+
+A wound point *wp* represents physical bodily health. Actors have a maximum of half the sides of their vigor die for *wp*. 
+
+### Regional or Temporal Statistics
 
 Some campaigns or regions can add statistics. The GM will list these statistics at the start of character creation.
 
@@ -97,7 +117,7 @@ Different campaigns might add other skills that actors can utilize. These skills
 To create a player character (PC) you use the following steps:
 
 1. Pick a species and gain species specializations
-2. Pick an origin and gain origin specializations 
+2. Pick an origin and gain origin specializations (pick languages)
 3. Determine initial talents for your skills
 4. Roll initial hit points
 5. Roll for starting money and buy equipment 
@@ -107,3 +127,10 @@ To create a player character (PC) you use the following steps:
 The GM then determines a few things:
 
 1. Your character's maximum life-span and date of death if nothing else kills you first.
+2. The GM can give you any other specializations that makes sense for your character based on backstory, alternately the GM might give you additional specialization points to start the game.
+
+## Advancement
+
+## Death and Dying
+
+If damage causes you to fall to zero hit points, you gain one *wp* and the [wounded]({{< ref "/core/ref/wounded-condition.md" >}}) condition. Each time you take damage while at zero hit point, you gain another *wp* and the wounded condition if you don't already have it. 

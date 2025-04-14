@@ -4,6 +4,7 @@ title="Reactive"
 tags=["specialization", "basic-specialization"]
 
 [params]
+  abstract="Increase the number of reactions per round."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable(4)"]

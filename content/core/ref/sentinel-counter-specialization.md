@@ -4,6 +4,7 @@ title="Sentinel Counter"
 tags=["specialization", "weapon-specialization", "polearm-specialization"]
 
 [params]
+  abstract="Stop an actor from moving when you successfully deal damage with an attack of opportunity with a polearm."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

@@ -4,6 +4,7 @@ title="Manuscripts and Codices"
 tags=["specialization", "weapon-specialization", "long-blade-specialization"]
 
 [params]
+  abstract="Gain the basic long-blade guards."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

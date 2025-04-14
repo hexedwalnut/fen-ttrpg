@@ -4,6 +4,7 @@ title="Assurance"
 tags=["specialization", "basic-specialization"]
 
 [params]
+  abstract="Increases the number of dice rolled for a skill, locks in the number of sides."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable(4) per skill"]

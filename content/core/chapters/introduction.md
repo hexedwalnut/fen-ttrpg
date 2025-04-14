@@ -5,6 +5,11 @@ tags=["chapter"]
 [Params]
   abstract="In this chapter we introduce Fen some common phrases."
 +++
+
+### Dice Explode 
+
+When you roll the maximum number on any die in the game, you can roll the die again and add the result to the total.
+
 ### Contest
 
 Skill contests are one of the most used mechanics in Fen. When asked to roll a skill contest, each "side" rolls a skill, the actor with the higher result wins. A contest is written as `skill_1`/`skill_2` where the first skill, `skill_1` represents the aggressors skill and `skill_2` represents the defenders skill. For example, a fight/vigor contest would have the aggressor roll a fight skill vs. the defender's vigor skill. Ties are in favor of the defender in a "meet or beat" fashion. For example, in a dodge/notice contest (common when hiding), the defender (the one trying to find the hiding actor) wins if they meet or beat the aggressor's (hider's) dodge.
@@ -27,3 +32,7 @@ If a weapon has a trait that increases its die by one increment a weapon with 1d
 ### Additional Die
 
 When rolling with one or more additional die, you pick from the dice you are rolling the die with the highest amount of sides. Then you roll one or more additional die of that type.
+
+### Non-explosive
+
+A non-explosive roll means that you roll one dice of the number of sides indicated that cannot explode. For example, if a specialization asks you to roll one non-explosive vigor skill and you have 3d8 in vigor, you roll 1d8 that does not explode. Likewise if it asks you to roll two non-explosive vigor skill with the same vigor, you roll 2d8 where each die does not explode.

@@ -4,6 +4,7 @@ title="Akimbo"
 tags=["specialization", "weapon-specialization", "short-arm-specialization"]
 
 [params]
+  abstract="Lets all short-arms be light weapons."
   [params.specialization]
     cost="0 sp"
     traits=["-"]

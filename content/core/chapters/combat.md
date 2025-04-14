@@ -83,7 +83,7 @@ Use or interact with an item that is marked in one of the equipped slots.
 
 #### Coup de Grâce
 
-Target an *unconscious* actor, you force a fight/vigor contest. If you win the target dies.
+Target an *unconscious* actor, you force a fight/vigor contest. If you win the target gains wounded.
 
 #### Attack
 

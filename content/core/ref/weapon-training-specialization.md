@@ -4,6 +4,7 @@ title="Weapon Training"
 tags=["specialization", "weapon-specialization"]
 
 [params]
+  abstract="Gain an additional die when rolling damage with a specific weapon archetype."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable(4)"]

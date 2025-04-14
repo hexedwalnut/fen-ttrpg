@@ -4,6 +4,7 @@ title="Talent"
 tags=["specialization", "basic-specialization"]
 
 [params]
+  abstract="Increases die increment of skills."
   [params.specialization]
     cost="0 sp"
     traits=["Repeatable"]
