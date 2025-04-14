@@ -10,3 +10,4 @@ Fen is a TTRPG for 4-6 players that is set in the world of Fen. Fen is a game wo
 
 - Magic
 - Search bar
+- Color scheme  
