@@ -1,0 +1,14 @@
+name: Akimbo
+type: weapon
+cost: 10
+traits: null
+prereqs:
+  - Weapon Training(short-arm)(2)
+text: |
+  Any short-arm gains the [light]({{< relref "/core/ref/light-trait.md" >}}) trait
+  while you are wielding it.
+tags:
+  - short-arm-specialization 
+abstract: Lets all short-arms be light weapons.
+module: armory
+scale: all

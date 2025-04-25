@@ -4,6 +4,7 @@ title="Hand Crossbow"
 tags=["default", "weapon", "equipment", "short-arm", "close"]
 
 [params]
+  abstract="A crossbow able to be wielded in one hand. Fires bolts."
   [params.weapon]
     dmg="1d6"
     type="P"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "short-arm", "close"]
 
 {{< weapon-table >}}
 
-
+## Description
+A crossbow able to be wielded in one hand. Fires bolts.

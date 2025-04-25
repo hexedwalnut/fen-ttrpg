@@ -4,7 +4,7 @@ title="Studded Leather"
 tags=["default", "armor", "equipment", "light"]
 
 [params]
-  abstract = "None"
+  abstract = "Leather armor reinforced with metal studs that offer increased protection and defensive ability."
   [params.armor]
     def="7"
     arch="Light"
@@ -13,4 +13,5 @@ tags=["default", "armor", "equipment", "light"]
 
 {{< armor-table >}}
 
-
+## Description
+Leather armor reinforced with metal studs that offer increased protection and defensive ability.

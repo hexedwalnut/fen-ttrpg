@@ -26,7 +26,7 @@ pagination.pagerSize = 10
   fullWidthTheme = true 
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true 
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -77,9 +77,9 @@ pagination.pagerSize = 10
       copyright = ""
       menuMore = "Show more"
       readMore = "Read more"
-      readOtherPosts = "Read other posts"
-      newerPosts = "Newer posts"
-      olderPosts = "Older posts"
+      readOtherPosts = "Read more pages"
+      newerPosts = "Previous pages"
+      olderPosts = "More pages"
       missingContentMessage = "Page not found..."
       missingBackButtonLabel = "Back to home page"
       minuteReadingTime = "min read"

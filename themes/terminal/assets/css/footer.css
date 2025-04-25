@@ -2,6 +2,7 @@
   padding: 40px 0;
   flex-grow: 0;
   opacity: 0.5;
+  text-align: center;
 }
 
 .footer__inner {
@@ -11,6 +12,7 @@
   margin: 0;
   width: 760px;
   max-width: 100%;
+  text-align: center;
 }
 
 .footer a {
@@ -24,6 +26,7 @@
   align-items: center;
   font-size: 1rem;
   justify-content: center;
+  text-align: center;
 }
 
 .footer .copyright--user {

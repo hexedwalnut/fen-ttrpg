@@ -4,7 +4,7 @@ title="Leather"
 tags=["default", "armor", "equipment", "light"]
 
 [params]
-  abstract = "None"
+  abstract = "Special made clothes reinforced with hardened leather to offer moderate protection. Might include a helmet, leather chest plate, and arm and leg protection."
   [params.armor]
     def="5"
     arch="Light"
@@ -13,4 +13,5 @@ tags=["default", "armor", "equipment", "light"]
 
 {{< armor-table >}}
 
-
+## Description
+Special made clothes reinforced with hardened leather to offer moderate protection. Might include a helmet, leather chest plate, and arm and leg protection.

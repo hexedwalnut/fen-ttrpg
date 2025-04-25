@@ -4,6 +4,7 @@ title="Lance"
 tags=["default", "weapon", "equipment", "polearm", "adjacent"]
 
 [params]
+  abstract="A long heavy spear used while on horseback."
   [params.weapon]
     dmg="1d10"
     type="P"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "polearm", "adjacent"]
 
 {{< weapon-table >}}
 
-
+## Description
+A long heavy spear used while on horseback.

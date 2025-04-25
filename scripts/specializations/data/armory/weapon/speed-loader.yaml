@@ -1,0 +1,15 @@
+name: Speed Loader
+type: weapon 
+cost: 15
+traits: null
+prereqs:
+  - Weapon Training(short-arm)
+  - Quick Load
+text: |
+  You can load a [short-arm]({{< relref "/core/ref/short-arm-archetype.md" >}}) as 
+  part of an [attack]({{< relref "/core/ref/attack-action.md" >}}) action.
+tags:
+  - short-arm-specialization
+abstract: You can load as part of an attack with a short-arm
+module: armory
+scale: all

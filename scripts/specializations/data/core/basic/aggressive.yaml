@@ -1,0 +1,22 @@
+name: Aggressive
+type: basic
+cost: 10
+traits:
+  - Repeatable(4)
+prereqs: null
+text: |
+  You gain an additional major action.
+
+  If this is not the first time you have taken this specialization,
+  the cost changes as per the following table:
+
+  | Time | Cost (sp) |
+  | ---- | --------- |
+  | 1    | 10        |
+  | 2    | 20        |
+  | 3    | 40        |
+  | 5    | 80        |
+tags: null
+abstract: You gain an additional major action per turn.
+module: core
+scale: all 

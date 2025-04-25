@@ -1,0 +1,20 @@
+name: Wound
+type: weapon
+cost: 15
+traits:
+  - Repeatable
+prereqs:
+  - Weapon Training(X)(4)
+text: |
+  Pick a weapon archetype X. When you cause damage with a weapon from your selected
+  archetype, you may use your reaction to cause a fight contest versus the
+  defender's vigor or dodge. On a success your target takes one point of *wp*
+  and gains the [wounded]({{< ref "/core/ref/wounded-condition.md" >}}).
+
+  Taking this specialization more than once for the same archetype as no
+  additional effect. The cost of this specialization does not increase when you 
+  purchase it again.
+tags: null
+abstract: Allows your weapons to cause wounds.
+module: core
+scale: all 

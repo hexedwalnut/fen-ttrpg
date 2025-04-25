@@ -1,7 +1,7 @@
 +++
 draft=false
 title="Metallic"
-tags=["armor-trait"]
+tags=["armor-trait", "weapon-trait"]
 +++
 
-The armor is made of metal and can rust.
+The equipment is made of metal and can rust.

@@ -2,6 +2,7 @@
 draft=false
 title = 'Combat'
 tags=["chapter"]
+toc=true
 [Params]
   abstract="In this chapter we introduce combat."
 +++

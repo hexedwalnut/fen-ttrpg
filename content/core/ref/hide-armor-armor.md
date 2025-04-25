@@ -4,7 +4,7 @@ title="Hide Armor"
 tags=["default", "armor", "equipment", "medium"]
 
 [params]
-  abstract = "None"
+  abstract = "Extra heavy and hardened leather armor."
   [params.armor]
     def="10"
     arch="Medium"
@@ -13,4 +13,5 @@ tags=["default", "armor", "equipment", "medium"]
 
 {{< armor-table >}}
 
-
+## Description
+Extra heavy and hardened leather armor.

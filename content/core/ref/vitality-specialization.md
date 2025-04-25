@@ -1,12 +1,13 @@
 +++
 draft=false
 title="Vitality"
-tags=["specialization", "basic-specialization"]
+tags=["specialization", "basic-specialization", "core-module", "all-scale"]
 
 [params]
   abstract="Increase maximum hp."
   [params.specialization]
-    cost="0 sp"
+    module="core"
+    cost="1 sp"
     traits=["Repeatable"]
     prereq=["-"]
 +++
@@ -15,7 +16,12 @@ tags=["specialization", "basic-specialization"]
 
 ## Description
 
-Roll non-explosive [vigor]({{< ref "/core/ref/vigor-skill.md" >}}) 
- (or take half the skill die's sides) and add the result to maximum 
- HP.
+Roll [non-explosive]({{< ref "/core/chapters/introduction.md#non-explosive" >}})
+[vigor]({{< ref "/core/ref/vigor-skill.md" >}}) and add the result to your 
+maximum *hp*.
+
+If this is not the first time you have taken this specialization, it costs one 
+*sp* extra for each past purchase. For example, if you have selected this
+specialization two times prior, the next purchase of this specialization will
+cost three *sp*.
 

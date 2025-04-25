@@ -1,12 +1,13 @@
 +++
 draft=false
 title="Conduit"
-tags=["specialization", "magic-specialization"]
+tags=["specialization", "magic-specialization", "core-module", "skirmish-scale"]
 
 [params]
-  abstract="Gain the ability to cast magic and become a conduit"
+  abstract="Gain the ability to cast magic and become a conduit."
   [params.specialization]
-    cost="0 sp"
+    module="core"
+    cost="10 sp"
     traits=["-"]
     prereq=["-"]
 +++
@@ -23,8 +24,7 @@ represents your ability to cast, understand, and control magical sources, spells
 phenomena, and creatures. 
 * **Magic Point Statistic**: Works much like hit points, but instead of 
 representing available effort to avoid death, it represents your total ability
-to cast or preform magic spells.
-* **Primary Source**: The source you pull most of your magic from.
+to cast or preform magic spells.* **Primary Source**: The source you pull most of your magic from.
 * **Starting Spell List**: A list of default spells that you know how to cast.
 
 ## Magic Skill
@@ -75,8 +75,7 @@ above sources.
 
 ## Starting Spell List
 
-No conduit is alone in their manifestations of magical spells. You gain a starting
-spell list based on your interests. Select one spell list from those featured below.
-
-
+No conduit is alone in their manifestations of magical spells. You gain a
+starting spell list based on your interests. Select one spell list from those 
+featured below.
 

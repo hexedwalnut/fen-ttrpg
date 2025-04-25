@@ -1,6 +1,9 @@
 +++
 draft=false
 title = 'Fen TTRPG Core'
+tags=["core-module"]
+[Params]
+  abstract="The landing page for the core module"
 +++ 
 
 # Fen TTRPG Core

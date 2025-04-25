@@ -4,6 +4,7 @@ title="Shortbow"
 tags=["default", "weapon", "equipment", "long-arm", "short"]
 
 [params]
+  abstract="Shorter than a longbow. Fires arrows."
   [params.weapon]
     dmg="1d6"
     type="P"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "long-arm", "short"]
 
 {{< weapon-table >}}
 
-
+## Description
+Shorter than a longbow. Fires arrows.

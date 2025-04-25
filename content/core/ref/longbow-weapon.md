@@ -4,6 +4,7 @@ title="Longbow"
 tags=["default", "weapon", "equipment", "long-arm", "long"]
 
 [params]
+  abstract="A proper bow for war. Fires arrows."
   [params.weapon]
     dmg="1d8"
     type="P"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "long-arm", "long"]
 
 {{< weapon-table >}}
 
-
+## Description
+A proper bow for war. Fires arrows.

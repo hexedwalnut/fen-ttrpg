@@ -1,0 +1,15 @@
+name: Bludgeon
+type: weapon
+cost: 10
+traits: null
+prereqs:
+  - Weapon Training(cudgel)
+text: |
+  When you deal damage with a weapon with the cudgel archetype, you may use your
+  reaction to force a fight/vigor contest. If you win, the defender suffers the
+  [dazed]({{< relref "/core/ref/dazed-condition.md" >}}) until the end of your 
+  next turn.
+tags: cudgel-specialization
+abstract: Cudgel weapons can be used to cause the dazed condition.
+module: armory
+scale: all

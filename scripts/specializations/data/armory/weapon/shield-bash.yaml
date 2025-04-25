@@ -1,0 +1,16 @@
+name: Shield Bash
+type: weapon
+cost: 10
+traits: null
+prereqs:
+  - Weapon Training(shield)(2)
+text: |
+  Shields wielded by you gain the 
+  [cudgel]({{< relref "/core/ref/cudgel-archetype.md" >}}) archetype in addition to
+  their other archetypes. Base damage for shields you wield are increased by one
+  die increment.
+tags:
+  - shield-specialization
+abstract: Shields gain the cudgel archetype and a damage increase.
+module: armory
+scale: all

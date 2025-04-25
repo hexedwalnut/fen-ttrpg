@@ -1,0 +1,16 @@
+name: Target
+type: weapon 
+cost: 5
+traits:
+  - Repeatable(4)
+prereqs:
+  - Weapon Training(long-arm)
+text: |
+  You gain the [Target]({{< relref "/armory/ref/target-action.md" >}}) minor action.
+  If you take this specialization again, you gain one additional shoot die when 
+  you use the Target minor action.
+tags:
+  - long-arm-specialization
+abstract: Target an actor to gain an additional shot die on the damage roll.
+module: armory
+scale: all

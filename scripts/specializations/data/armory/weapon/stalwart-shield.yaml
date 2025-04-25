@@ -1,0 +1,15 @@
+name: Stalwart Shield
+type: weapon
+cost: 15
+traits: null
+prereqs:
+  - Weapon Training(shield)(4)
+  - Raise Shield
+text: |
+  The [raise shield]({{< relref "/armory/ref/raise-shield-action.md" >}}) major action
+  can be used using two minor actions.
+tags:
+  - shield-specialization
+abstract: The raise shield action can be used using two minor actions.
+module: armory
+scale: all

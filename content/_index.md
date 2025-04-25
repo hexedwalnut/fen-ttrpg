@@ -6,8 +6,9 @@ title = 'Fen Homepage'
 
 Fen is a TTRPG for 4-6 players that is set in the world of Fen. Fen is a game world were the history is made up of previous campaigns with the same players.
 
-## What is new
+## Modules 
 
-- Magic
-- Search bar
-- Color scheme  
+Fen as a TTRPG is a collection of modules that you can pick and choose from. Fen has the following modules:
+
+- [Core]({{< ref "/core/_index.md" >}}): The core rules of Fen, necessary for the game.
+- [Armory]({{< ref "/armory/_index.md" >}}): Advanced rules that change the way actors wield weapons and armor.

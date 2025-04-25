@@ -1,0 +1,16 @@
+name: Shield Counter
+type: weapon 
+cost: 10
+traits: null
+prereqs:
+  - Weapon Training(shield)
+  - Opportunity Attack
+text: |
+  Successfully defending (take no *hp*) using a shield provokes an 
+  [opportunity attack]({{< relref "/core/ref/opportunity-attack-reaction.md" >}})
+  against the attacker.
+tags:
+  - shield-specialization
+abstract: Successfully defending with a shield provokes an opportunity attack against the attacker.
+module: armory
+scale: all

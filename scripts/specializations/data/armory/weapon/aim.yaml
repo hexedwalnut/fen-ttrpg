@@ -1,0 +1,14 @@
+name: Aim
+type: weapon
+cost: 10
+traits: null
+prereqs:
+  - Weapon Training(long-arm)(2)
+  - Target
+text: |
+  You gain the major action [Aim]({{< ref "/armory/ref/aim-action.md" >}}).
+tags:
+  - long-arm-specialization
+abstract: Allows you to roll an additional die per major action spent aiming.
+module: armory
+scale: all

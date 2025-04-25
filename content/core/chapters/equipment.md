@@ -2,11 +2,16 @@
 draft=false
 title = 'Equipment'
 tags=["chapter"]
+toc=true
 [Params]
   abstract="This chapter convers equipment."
 +++
 
 > "It matters little how much equipment we use; it matters much that we be masters of all we do use. - Sam Abell
+
+## Slot Based Encumbrance
+
+TODO
 
 ## Weapons
 
@@ -55,7 +60,7 @@ Traits are special rules based on the specific weapons. A weapon can have zero o
 
 #### Counter 
 
-{{< include "/core/ref/counter.md" >}}
+{{< include "/core/ref/counter-trait.md" >}}
 
 #### Light
 
@@ -63,23 +68,23 @@ Traits are special rules based on the specific weapons. A weapon can have zero o
 
 #### Loaded(X)
 
-{{< include "/core/ref/loaded.md" >}}
+{{< include "/core/ref/loaded-trait.md" >}}
 
 #### Thrown(X)
 
-{{< include "/core/ref/thrown.md" >}}
+{{< include "/core/ref/thrown-trait.md" >}}
 
 #### Two-handed
 
-{{< include "/core/ref/two-handed.md" >}}
+{{< include "/core/ref/two-handed-trait.md" >}}
 
 #### Versatile(X)
 
-{{< include "/core/ref/versatile.md" >}}
+{{< include "/core/ref/versatile-trait.md" >}}
 
 #### Planted
 
-{{< include "/core/ref/planted.md" >}}
+{{< include "/core/ref/planted-trait.md" >}}
 
 ### Default Weapons List
 

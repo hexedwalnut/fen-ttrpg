@@ -1,0 +1,16 @@
+name: Quick Draw
+type: weapon
+cost: 15
+traits: null
+prereqs:
+  - Weapon Training(short-arm)(3)
+  - Akimbo
+text: |
+  Attacking with a [short-arm]({{< relref "/core/ref/short-arm-archetype.md" >}})
+  does not provoke an 
+  [attack of opportunity]({{< relref "/core/ref/opportunity-attack-reaction.md" >}})
+tags:
+  - short-arm-specialization 
+abstract: Removes the attack of opportunity when you fire a short-arm in melee.
+module: armory
+scale: all

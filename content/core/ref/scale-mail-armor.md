@@ -4,7 +4,7 @@ title="Scale Mail"
 tags=["default", "armor", "equipment", "medium"]
 
 [params]
-  abstract = "None"
+  abstract = "A metal shirt made of singular plate scales, basic armor and leg protection, and a helmet. Worn over padded armor, included in this armor description."
   [params.armor]
     def="14"
     arch="Medium"
@@ -13,4 +13,5 @@ tags=["default", "armor", "equipment", "medium"]
 
 {{< armor-table >}}
 
-
+## Description
+A metal shirt made of singular plate scales, basic armor and leg protection, and a helmet. Worn over padded armor, included in this armor description.

@@ -1,0 +1,13 @@
+name: Charge 
+type: basic 
+cost: 5
+traits: null
+prereqs:
+  - tactics(1d6+)
+text: |
+  You learn to move and strike quickly. You gain the 
+  [Charge]({{< ref "/core/ref/charge-action.md" >}}) major action.
+tags: null
+abstract: Allows you to move and attack as one major action.
+module: core
+scale: all

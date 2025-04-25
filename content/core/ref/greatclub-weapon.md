@@ -4,6 +4,7 @@ title="Greatclub"
 tags=["default", "weapon", "equipment", "cudgel", "adjacent"]
 
 [params]
+  abstract="A large blunt weapon."
   [params.weapon]
     dmg="1d10"
     type="B"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "cudgel", "adjacent"]
 
 {{< weapon-table >}}
 
-
+## Description
+A large blunt weapon.

@@ -2,6 +2,7 @@
 draft=false
 title="Magic"
 tags=["chapter"]
+toc=true
 [Params]
   abstract="This chapter introduces magic and the rules therein."
 +++

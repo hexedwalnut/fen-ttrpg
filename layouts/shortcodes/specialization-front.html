@@ -48,7 +48,12 @@
         {{ else }}
             {{ $cleanedName := trim ( lower (index (split . "(") 0) ) " "}}
             {{ $cleanedName := replace $cleanedName " " "-" }}
-            {{ $preRef = ref $.Page ( printf "/core/ref/%s-specialization.md" $cleanedName ) }}
+            {{ $module := $.Page.Params.specialization.module }}
+            {{ with resources.Match ( printf "**%s-specialization.md" $cleanedName )}}
+              {{ range . }}
+                {{ $preRef = .RelPermalink }}
+              {{ end }}
+            {{ end }}
         {{ end }}
         {{ if eq $preRef "NO"}}
         {{.}}

@@ -1,22 +1,31 @@
 +++
 draft=false
 title="Reckless Strikes"
-tags=["specialization", "weapon-specialization", "ax-specialization"]
+tags=["specialization", "weapon-specialization", "core-module", "all-scale"]
 
 [params]
-  abstract="Put your self into more danger to deal more damage with an ax."
+  abstract="Put yourself in more danger to deal more damage."
   [params.specialization]
-    cost="0 sp"
-    traits=["Repeatable(4)"]
-    prereq=["Weapon Training(Ax)"]
+    module="core"
+    cost="10 sp"
+    traits=["Repeatable(4) per archetype"]
+    prereq=["Weapon Training(X)(2)"]
 +++
 
 {{< specialization-front >}}
 
 ## Description
 
-You gain the minor action 
-[Reckless Strikes]({{< ref "/core/ref/reckless-strike-action.md" >}}).
-If this is not the first time you purchase this specialization, you increase 
-the number of additional dice granted by the reckless strike action by one.
+You gain the [Reckless Strike]({{< ref "/core/ref/reckless-strike-action.md" >}})
+minor action. If this is not the first time you purchase this specialization, 
+you increase the number of additional dice granted by reckless strike by one.
+
+If this is not the first time you have taken this specialization **for this
+archetype**, the cost changes as per the following table:
+
+| Time | Cost (sp) |
+| 1    | 10        |
+| 2    | 20        |
+| 3    | 40        |
+| 4    | 80        |
 

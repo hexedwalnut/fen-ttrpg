@@ -1,0 +1,15 @@
+name: Counter Attack
+type: basic
+cost: 10
+traits: null
+prereqs:
+  - Weapon Training(X)(3)
+  - Opportunity Attack
+text: |
+  Successfully defending damage using your 
+  [*dodge*]({{< ref "/core/ref/dodge-skill.md" >}}) skill triggers an attack
+  of opportunity against your attacker.
+tags: null
+abstract: Successfully dodging an attack causes a opportunity attack against your attacker.
+module: core
+scale: all

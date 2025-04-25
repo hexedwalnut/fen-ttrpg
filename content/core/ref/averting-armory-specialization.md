@@ -1,13 +1,14 @@
 +++
 draft=false
 title="Averting Armory"
-tags=["specialization", "weapon-specialization"]
+tags=["specialization", "weapon-specialization", "core-module", "all-scale"]
 
 [params]
-  abstract="Gives the Defensive trait to all weapons in a specific weapon archetype."
+  abstract="Gives the Defensive trait to a specific weapon archetype."
   [params.specialization]
-    cost="0 sp"
-    traits=["Repeatable"]
+    module="core"
+    cost="5 sp"
+    traits=["Repeatable(4) per each archetype"]
     prereq=["Weapon Training(X)"]
 +++
 
@@ -15,12 +16,18 @@ tags=["specialization", "weapon-specialization"]
 
 ## Description
 
-Pick an archetype X. All weapons in chosen archetype gains 
-[Defensive(1)]({{< ref "core/ref/defensive-trait.md" >}}) for
-you. If you are taking this specialization again after the first
-time and select the same weapon archetype, you instead increase 
-the number of Defensive by one for that archetype. For 
-example, if you have taken this specialization two times before 
-for short-arms taking it again, you move from Defensive(2) 
-to Defensive(3).
+Pick a weapon archetype X. All weapons in the chosen archetype gains 
+[Defensive(1)]({{< ref "/core/ref/defensive-trait.md" >}}) while you are 
+wielding it.
+
+If you are taking this specialization again after the first for the same archetype, you instead increase the number of defensive by one for that archetype. For example, if you have taken this specialization two time before for shields and are taking it again, you move from Defensive(2) to Defensive(3).
+
+If this is not the first time you have taken this specialization **for this archetype**, the cost changes as per the following table:
+
+| Time | Cost (sp) |
+| ---- | --------- |
+| 1    | 5         |
+| 2    | 10        |
+| 3    | 20        |
+| 4    | 40        |
 

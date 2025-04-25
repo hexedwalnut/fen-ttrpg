@@ -1,0 +1,19 @@
+name: Vitality
+type: basic
+cost: 1
+traits:
+  - Repeatable
+prereqs: null
+text: |
+  Roll [non-explosive]({{< ref "/core/chapters/introduction.md#non-explosive" >}})
+  [vigor]({{< ref "/core/ref/vigor-skill.md" >}}) and add the result to your 
+  maximum *hp*.
+
+  If this is not the first time you have taken this specialization, it costs one 
+  *sp* extra for each past purchase. For example, if you have selected this
+  specialization two times prior, the next purchase of this specialization will
+  cost three *sp*.
+tags: null
+abstract: Increase maximum hp.
+module: core
+scale: all

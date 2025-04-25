@@ -1,12 +1,13 @@
 +++
 draft=false
 title="Destructive Strike"
-tags=["specialization", "weapon-specialization", "ax-specialization", "cudgel-specialization", "polearm-specialization", "long-blade-specialization"]
+tags=["specialization", "weapon-specialization", "core-module", "all-scale"]
 
 [params]
-  abstract="Allows ax, cudgel, polearm, or long-blades deal more damage to defenses."
+  abstract="Allows a selected archetype to deal more damage to defenses."
   [params.specialization]
-    cost="0 sp"
+    module="core"
+    cost="15 sp"
     traits=["Repeatable"]
     prereq=["Weapon Training(X)(2)"]
 +++
@@ -15,14 +16,12 @@ tags=["specialization", "weapon-specialization", "ax-specialization", "cudgel-sp
 
 ## Description
 
-Pick a weapon archetype X from the following list:
-* [Ax]({{< ref "/core/ref/ax-archetype.md" >}})
-* [Cudgel]({{< ref "/core/ref/cudgel-archetype.md" >}})
-* [Polearm]({{< ref "/core/ref/polearm-archetype.md" >}})
-* [Long-blade]({{< ref "/core/ref/long-blade-archetype.md" >}})
+Pick a weapon archetype X. You learn to deal a devastating blow to your
+target's defenses with this weapon archetype. You gain the 
+[Destructive Strike]({{< ref "/core/ref/destructive-strike-action.md" >}}) major
+action.
 
-You learn to deal a devastating blow to defenses with this weapon archetype. 
-You gain the 
-[**Destructive Strike**]({{< ref "/core/ref/destructive-strike-action.md">}})
-major action
+Taking this specialization multiple times for the same archetype has no 
+additional effect. The cost of this specialization does not increase when you
+purchase it again.
 

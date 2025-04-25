@@ -1,0 +1,17 @@
+name: Maneuvering Counter
+type: weapon
+cost: 10
+traits: null
+prereqs:
+  - Weapon Training(polearm)
+  - Opportunity Attack
+text: |
+  When you use your reaction to make an 
+  [attack of opportunity]({{< relref "/core/ref/opportunity-attack-reaction.md" >}})
+  with a polearm, you can [move]({{< relref "/core/ref/move-action.md" >}}). This
+  movement doesn't provoke attacks of opportunity.
+tags:
+  - polearm-specialization 
+abstract: Allows you to move while making an attack of opportunity with a polearm.
+module: armory
+scale: all

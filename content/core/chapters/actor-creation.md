@@ -2,6 +2,7 @@
 draft=false
 title = 'Actor Creation'
 tags=["chapter"]
+toc=true
 [Params]
   abstract="In this chapter we discuss the concept of the actor and how to create actors."
 +++
@@ -73,40 +74,39 @@ Skills are tied to a die that represents proficiency. A die with more sides repr
 
 #### Articulate
 
-Articulate represents the actor's ability to navigate social or interpersonal relationships. This includes an actor's ability to deceive, persuade, explain, or otherwise articulate a coherent point verbally or through social interaction. Articulate represents the summation of an actor's social skills. Articulate could also represent how an actor is perceived. For example, a faction or region with a high articulate might be perceived better than a faction or region with a low articulate.
+{{< include "/core/ref/articulate-skill.md" >}}
 
 #### Cognition
 
-Cognition represents the ability for an actor to pull pieces of information together, notice patters, or perform complex mental tasks. This skill is raw intellect and processing power. This skill can also represent how logical or rational a system is. A faction with a high cognition might appreciate a more logical or rational argument. A region with high cognition might be structured well, with clear roads and boundaries.
+{{< include "/core/ref/cognition-skill.md" >}}
 
 #### Dodge
 
-Dodge represents an actor's ability to move dexterously or evade danger. Dodge is an important part of defending yourself from harm (see "Combat" chapter) but also represents an actor's ability to move quickly, balance, perform tasks associated with acrobatics, or move stealthily. A storm with a high dodge skill can move quickly or strike fast. A faction with a high dodge could travel quickly or be somewhat stealthy.
+{{< include "/core/ref/dodge-skill.md" >}}
 
 #### Fight
 
-Fight represents an actor's ability to cause damage adjacent to another actor (i.e., hit them with a stick). Fight might also represent verbal threats or raw physical might. Fight is used in combat. A faction with a high fight might hold a lot of military might, or be prone to acts of violence.
+{{< include "/core/ref/fight-skill.md" >}}
 
 #### Notice
 
-Notice represents an actor's ability to see, perceive, and find objects. Notice also represents the degree to which an actor is paying attention. A faction with a high notice might have spies or other such mechanisms to find out the secrets of another faction.
+{{< include "/core/ref/notice-skill.md" >}}
 
 #### Shoot
 
-Shoot represents the ability to cause damage to another actor from a distance. This skill also represents the actor's accuracy and ability to aim. A faction with a high shoot normally engages from a longer range in combat.
+{{< include "/core/ref/shoot-skill.md" >}}
 
 #### Tactics
 
-Tactics represents the actor's tactical knowledge and intuition. It often denotes a more crafty view of combat. A faction with a high tactics would have clever generals and commanders.
+{{< include "/core/ref/tactics-skill.md" >}}
 
 #### Vigor
 
-Vigor represents an actor's steadfastness and heartiness towards physical conditions. A faction with high vigor might have increased stores or resources.
+{{< include "/core/ref/vigor-skill.md" >}}
 
 #### Will
 
-Will represents an actor's steadfastness and heartiness towards mental conditions.
-A faction with high a will might have an increased sense of belonging or good internal relations.
+{{< include "/core/ref/will-skill.md" >}}
 
 #### Regional or Temporal Skill
 

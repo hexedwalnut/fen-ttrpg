@@ -95,6 +95,8 @@
                     {{ $traitRef = ref $.Page "/core/ref/versatile-trait.md" }}
                 {{ else if eq (upper .) "PLANTED" }}
                     {{ $traitRef = ref $.Page "/core/ref/planted-trait.md" }}
+                {{ else if eq (upper .) "METALLIC" }}
+                    {{ $traitRef = ref $.Page "/core/ref/metallic-trait.md" }}
                 {{ else if eq (upper .) "-" }}
                     {{ $traitRef = "NO" }}
                 {{ else }}

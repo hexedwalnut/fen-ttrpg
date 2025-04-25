@@ -4,6 +4,7 @@ title="Whip"
 tags=["default", "weapon", "equipment", "whip", "adjacent"]
 
 [params]
+  abstract="A length of rope or leather used to strike at foes."
   [params.weapon]
     dmg="1d4"
     type="P"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "whip", "adjacent"]
 
 {{< weapon-table >}}
 
-
+## Description
+A length of rope or leather used to strike at foes.

@@ -4,6 +4,7 @@ title="Dart"
 tags=["default", "weapon", "equipment", "short-arm", "close"]
 
 [params]
+  abstract="A piercing weapon that is thrown, looks like a thin spike."
   [params.weapon]
     dmg="1d4"
     type="P"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "short-arm", "close"]
 
 {{< weapon-table >}}
 
-
+## Description
+A piercing weapon that is thrown, looks like a thin spike.

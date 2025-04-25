@@ -1,0 +1,20 @@
+name: Magic Well
+type: magic
+cost: 1
+traits:
+  - Repeatable
+prereqs:
+  - Conduit
+text: |
+  Roll [non-explosive]({{< ref "/core/chapters/introduction.md#non-explosive" >}})
+  [magic]({{< ref "/core/ref/magic-skill.md" >}}) and add the result to your 
+  maximum *mp*.
+
+  If this is not the first time you have taken this specialization, it costs one 
+  *sp* extra for each past purchase. For example, if you have selected this
+  specialization two times prior, the next purchase of this specialization will
+  cost three *sp*.
+tags: null
+abstract: Increase maximum mp.
+module: core
+scale: skirmish 

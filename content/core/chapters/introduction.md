@@ -2,6 +2,7 @@
 draft=false
 title="Introduction"
 tags=["chapter"]
+toc=true
 [Params]
   abstract="In this chapter we introduce Fen some common phrases."
 +++
@@ -31,7 +32,9 @@ If a weapon has a trait that increases its die by one increment a weapon with 1d
 
 ### Additional Die
 
-When rolling with one or more additional die, you pick from the dice you are rolling the die with the highest amount of sides. Then you roll one or more additional die of that type.
+When told to roll an additional die, you roll one more die of the same sides as you are rolling. When told to roll and additional die for a dice roll that has multiple different sided dice, you roll and additional die with sides equal to the highest sides among the dice rolled. 
+
+For example, if you are told to roll one additional weapon die for your [Dagger]({{< ref "/core/ref/dagger-weapon.md" >}}), which as a weapon die of 1d4, you roll 2d4 instead. Likewise, if told to roll an additional die for a roll of 1d4+1d8+1d20, you would roll 1d4+1d8+2d20 instead.
 
 ### Non-explosive
 

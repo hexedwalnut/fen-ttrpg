@@ -4,6 +4,7 @@ title="Sling"
 tags=["default", "weapon", "equipment", "short-arm", "short"]
 
 [params]
+  abstract="A length of rope that is used to throw stones. Fires stones or pellets."
   [params.weapon]
     dmg="1d4"
     type="B"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "short-arm", "short"]
 
 {{< weapon-table >}}
 
-
+## Description
+A length of rope that is used to throw stones. Fires stones or pellets.

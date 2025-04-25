@@ -1,0 +1,15 @@
+name: Disarming Shot
+type: weapon
+cost: 10
+traits: null
+prereqs:
+  - Weapon Training(short-arm or long-arm)(2)
+text: |
+  You gain the [Disarming Shot]({{< relref "/armory/ref/disarming-shot-action.md" >}})
+  major action.
+tags:
+  - short-arm-specialization
+  - long-arm-specialization
+abstract: You can disarm an actor with a well placed shot with a short or long-arm.
+module: armory
+scale: all

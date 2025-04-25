@@ -1,0 +1,20 @@
+name: Destructive Strike
+type: weapon
+cost: 15
+traits:
+  - Repeatable
+prereqs:
+  - Weapon Training(X)(2)
+text: |
+  Pick a weapon archetype X. You learn to deal a devastating blow to your
+  target's defenses with this weapon archetype. You gain the 
+  [Destructive Strike]({{< ref "/core/ref/destructive-strike-action.md" >}}) major
+  action.
+
+  Taking this specialization multiple times for the same archetype has no 
+  additional effect. The cost of this specialization does not increase when you
+  purchase it again.
+tags: null
+abstract: Allows a selected archetype to deal more damage to defenses.
+module: core
+scale: all

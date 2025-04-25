@@ -1,0 +1,12 @@
+name: Opportunity Attack
+type: basic
+cost: 5
+traits: null
+prereqs:
+  - tactics(1d6+)
+text: |
+  You gain the [Opportunity Attack]({{< ref "/core/ref/opportunity-attack-reaction.md" >}}) reaction.
+tags: null
+abstract: Gain the ability to attack as a reaction under certain circumstances.
+module: core
+scale: all 

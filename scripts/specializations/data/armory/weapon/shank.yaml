@@ -1,0 +1,13 @@
+name: Shank
+type: weapon
+cost: 15
+traits: null
+prereqs:
+  - Weapon Training(short-blade)(4)
+  - Wound
+text: |
+  You gain the [Shank]({{< relref "/armory/ref/shank-action.md" >}}) major action.
+tags: null
+abstract: Deal more damage with short-blade per negative condition on the target.
+module: armory
+scale: all

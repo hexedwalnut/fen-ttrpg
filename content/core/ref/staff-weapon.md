@@ -4,6 +4,7 @@ title="Staff"
 tags=["default", "weapon", "equipment", "cudgel", "adjacent"]
 
 [params]
+  abstract="A walking staff or the like."
   [params.weapon]
     dmg="1d6"
     type="B"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "cudgel", "adjacent"]
 
 {{< weapon-table >}}
 
-
+## Description
+A walking staff or the like.

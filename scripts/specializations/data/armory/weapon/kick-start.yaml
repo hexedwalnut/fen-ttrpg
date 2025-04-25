@@ -1,0 +1,17 @@
+name: Kick Start
+type: weapon
+cost: 20
+traits: null
+prereqs:
+  - Quick Draw
+text: |
+  You can use your reaction to force a fight/vigor contest when rolling damage
+  with a [short-arm]({{< relref "/core/ref/short-arm-archetype.md" >}}) in
+  [adjacent]({{< relref "/core/ref/adjacent.md" >}}) range. If you win the contest,
+  you kick your target away from you. Until the start of your next turn, your
+  movement does not provoke attacks of opportunity from the target.
+tags:
+  - short-arm-specialization
+abstract: Allows you to kick an actor away form you when attacking with a short-arm.
+module: armory
+scale: all

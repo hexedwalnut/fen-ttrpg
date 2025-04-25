@@ -4,6 +4,7 @@ title="Pike"
 tags=["default", "weapon", "equipment", "polearm", "adjacent"]
 
 [params]
+  abstract="Crude long-spear. The weapon of peasants."
   [params.weapon]
     dmg="1d10"
     type="P"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "polearm", "adjacent"]
 
 {{< weapon-table >}}
 
-
+## Description
+Crude long-spear. The weapon of peasants.

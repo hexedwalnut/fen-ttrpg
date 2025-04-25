@@ -1,0 +1,22 @@
+name: Coordination
+type: basic
+cost: 5
+traits:
+  - Repeatable(4)
+prereqs: null
+text: |
+  You gain an additional minor action per turn.
+
+  If this is not the first time you have taken this specialization,
+  the cost changes as per the following table:
+
+  | Time | Cost (sp) |
+  | ---- | --------- |
+  | 1    | 5         |
+  | 2    | 10        |
+  | 3    | 20        |
+  | 4    | 40        |
+tags: null
+abstract: You gain an additional minor action per turn.
+module: core 
+scale: all

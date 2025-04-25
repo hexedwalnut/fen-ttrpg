@@ -1,0 +1,14 @@
+name: Raise Shield
+type: weapon
+cost: 10
+traits: null
+prereqs:
+  - Weapon Training(shield)
+text: |
+  You gain the [Raise Shield]({{< relref "/armory/ref/raise-shield-action.md" >}}) 
+  major action.
+tags:
+  - shield-specialization
+abstract: Double a shield's defense for a round. 
+module: armory
+scale: all

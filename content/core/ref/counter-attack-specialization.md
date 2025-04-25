@@ -1,12 +1,13 @@
 +++
 draft=false
 title="Counter Attack"
-tags=["specialization", "weapon-specialization"]
+tags=["specialization", "basic-specialization", "core-module", "all-scale"]
 
 [params]
-  abstract="Successfully dodging and attack causes an attack of opportunity against the attacker."
+  abstract="Successfully dodging an attack causes a opportunity attack against your attacker."
   [params.specialization]
-    cost="0 sp"
+    module="core"
+    cost="10 sp"
     traits=["-"]
     prereq=["Weapon Training(X)(3)", "Opportunity Attack"]
 +++

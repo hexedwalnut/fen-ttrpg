@@ -1,12 +1,13 @@
 +++
 draft=false
 title="Quick Load"
-tags=["specialization", "weapon-specialization", "short-arm-specialization", "long-arm-specialization"]
+tags=["specialization", "weapon-specialization", "core-module", "all-scale"]
 
 [params]
   abstract="You can load as a minor action."
   [params.specialization]
-    cost="0 sp"
+    module="core"
+    cost="10 sp"
     traits=["-"]
     prereq=["dodge(1d6+)", "shoot(1d6+)"]
 +++
@@ -15,6 +16,6 @@ tags=["specialization", "weapon-specialization", "short-arm-specialization", "lo
 
 ## Description
 
-You can load a weapon with the 
-[loaded]({{< ref "/core/ref/loaded-trait.md" >}}) trait as a minor action.
+You can load a weapon with the [loaded]({{< ref "/core/ref/loaded-trait.md" >}})
+trait as a minor action.
 

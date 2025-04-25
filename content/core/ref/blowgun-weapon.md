@@ -4,6 +4,7 @@ title="Blowgun"
 tags=["default", "weapon", "equipment", "short-arm", "short"]
 
 [params]
+  abstract="A tube or reed used to shoot small ammunition using your mouth."
   [params.weapon]
     dmg="1d4"
     type="P"
@@ -15,4 +16,5 @@ tags=["default", "weapon", "equipment", "short-arm", "short"]
 
 {{< weapon-table >}}
 
-
+## Description
+A tube or reed used to shoot small ammunition using your mouth.

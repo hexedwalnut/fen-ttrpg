@@ -4,7 +4,7 @@ title="Robes"
 tags=["default", "armor", "equipment", "unarmored"]
 
 [params]
-  abstract = "None"
+  abstract = "Loose flowing robes or garments, often worn by nobility and scholars."
   [params.armor]
     def="-"
     arch="Unarmored"
@@ -13,4 +13,5 @@ tags=["default", "armor", "equipment", "unarmored"]
 
 {{< armor-table >}}
 
-
+## Description
+Loose flowing robes or garments, often worn by nobility and scholars.
