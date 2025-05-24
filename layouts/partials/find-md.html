@@ -1,0 +1,15 @@
+{{ $file := "NO" }}
+
+{{ range (readDir .path) }}
+    {{if eq .Name $.cleanedName}}
+        {{ $file = (replace (printf "%s/%s" $.path .Name) "/content/" "/")}}
+    {{ end }}
+    {{if .IsDir }}
+        {{ $newFile := (partial "find-md" (dict "cleanedName" $.cleanedName "path" (path.Join $.path .Name))) }}
+        {{ if not (eq $newFile "NO") }}
+            {{ $file = $newFile }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+{{ return $file }}

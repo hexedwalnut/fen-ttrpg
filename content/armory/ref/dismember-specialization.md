@@ -8,6 +8,7 @@ tags=["specialization", "weapon-specialization", "armory-module", "all-scale", "
   [params.specialization]
     module="armory"
     cost="25 sp"
+    scale="all"
     traits=["-"]
     prereq=["Weapon Training(ax)(4)", "Charage", "Wound", "fight(1d8+)"]
 +++

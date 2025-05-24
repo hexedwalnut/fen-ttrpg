@@ -1,0 +1,13 @@
+name: Contingency
+mp: 10
+action: major
+traits:
+  - Ritual
+list: 
+  - all
+text: |
+  You set up another spell to be cast when a condition is met.
+tags: null
+abstract: You set up another spell to be cast when a condition is met.
+module: core
+scale: skirmish 

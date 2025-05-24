@@ -1,0 +1,15 @@
+name: From Clay
+type: progenitor 
+cost: 1
+traits: null
+prereqs: null
+text: |
+  Your body remembers your origins, you are clay, and clay can be hardened. 
+  When you purchase the 
+  [Vitality]({{< ref "/core/ref/vitality-specialization.md" >}}) specialization, 
+  you may roll the non-explosive vigor roll twice and take the higher result.
+tags: 
+  - thecian-progenitor-specialization
+abstract: Allows a Thecian to roll twice and take the higher result for the Vitality specialization.
+module: core
+scale: skirmish 

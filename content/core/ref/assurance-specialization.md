@@ -8,6 +8,7 @@ tags=["specialization", "basic-specialization", "core-module", "skirmish-scale"]
   [params.specialization]
     module="core"
     cost="2 sp"
+    scale="skirmish"
     traits=["Repeatable(4) per skill"]
     prereq=["-"]
 +++

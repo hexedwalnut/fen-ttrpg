@@ -1,0 +1,14 @@
+name: Crab Shell
+type: progenitor
+cost: 2
+traits: null
+prereqs:
+  - Xi'Fosra Curse
+  - Hard Shell
+text: |
+  Your hard shell armor gains the [Bulwark]({{< ref "/core/ref/bulwark-trait.md" >}}) and increases to 25 defense.
+tags:
+  - formian-progenitor-specialization
+abstract: You gain a harder crustacean shell.
+module: core
+scale: skirmish 

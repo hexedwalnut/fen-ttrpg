@@ -8,6 +8,7 @@ tags=["specialization", "weapon-specialization", "armory-module", "all-scale", "
   [params.specialization]
     module="armory"
     cost="5 sp"
+    scale="all"
     traits=["Repeatable(4)"]
     prereq=["Weapon Training(long-arm)"]
 +++

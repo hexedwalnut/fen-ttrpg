@@ -6,7 +6,7 @@ from create_specialization import dict_to_specialization
 
 
 def fname(name):
-    return name.lower().replace(" ", "-") + "-specialization.md"
+    return name.lower().replace(" ", "-").replace("'", "") + "-specialization.md"
 
 dir_path = Path(os.path.dirname(os.path.realpath(__file__)))
 

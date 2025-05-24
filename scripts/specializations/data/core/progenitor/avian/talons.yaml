@@ -1,0 +1,12 @@
+name: Talons
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You have strong talons that denotes your ancestors as Tiercel. Your talons are considered [short-blade]({{< ref "/core/ref/short-blade-archetype.md" >}}) weapons that deals 1d6 [P]({{< ref "/core/ref/damage-types.md#piercing" >}}) damage with the [light]({{< ref "/core/ref/light-trait.md" >}}) trait.
+tags:
+  - avian-progenitor-specialization
+abstract: You gain powerful talon natural weapon.
+module: core
+scale: skirmish 

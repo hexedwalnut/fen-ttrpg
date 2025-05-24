@@ -1,0 +1,13 @@
+name: Immortal
+type: progenitor
+cost: 3
+traits: null
+prereqs:
+  - Long Life
+text: |
+  You do not have a maximum life span, instead can only die by violence, illness, or external threat.
+tags:
+  - alfim-progenitor-specialization
+abstract: You are immortal and can only die from external threats.
+module: core
+scale: skirmish 

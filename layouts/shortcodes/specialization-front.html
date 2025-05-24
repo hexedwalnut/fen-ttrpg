@@ -5,7 +5,7 @@
     </tr>
     <tr>
         <th>Traits</th>
-        {{ range .Page.Params.specialization.traits }}
+        <td>{{ range .Page.Params.specialization.traits }}
         {{ $rngRef := "ERROR" }}
         {{ if hasPrefix (upper .) "REPEATABLE" }}
             {{ $rngRef = ref $.Page "/core/ref/repeatable-trait.md" }}
@@ -15,11 +15,11 @@
             {{ $rngRef = "NO" }}
         {{ end }}
         {{ if eq $rngRef "NO" }}
-        <td>{{.}}</td>
+        {{.}}
         {{ else }}
-        <td><a href="{{$rngRef}}">{{.}}</a></td>
+        <a href="{{$rngRef}}">{{.}}</a>
         {{ end }}
-        {{ end }}
+        {{ end }}</td>
     </tr>
     <tr>
         <th>Prerequisites</th>
@@ -48,11 +48,14 @@
         {{ else }}
             {{ $cleanedName := trim ( lower (index (split . "(") 0) ) " "}}
             {{ $cleanedName := replace $cleanedName " " "-" }}
-            {{ $module := $.Page.Params.specialization.module }}
-            {{ with resources.Match ( printf "**%s-specialization.md" $cleanedName )}}
-              {{ range . }}
-                {{ $preRef = .RelPermalink }}
-              {{ end }}
+            {{ $cleanedName := replace $cleanedName "'" "" }}
+            {{ $cleanedName = printf "%s-specialization.md" $cleanedName }}
+            {{ with partial "find-md" (dict "cleanedName" $cleanedName "path" "/content/") }}
+                {{if eq . "NO" }}
+                    {{ $preRef = "NO" }}
+                {{ else }}
+                    {{ $preRef = (ref $.Page .) }}
+                {{ end }}
             {{ end }}
         {{ end }}
         {{ if eq $preRef "NO"}}

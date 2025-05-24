@@ -1,0 +1,12 @@
+name: Waterfowl
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You have water resistance feathers and flipper like feet. You can swim without rolling when not encumbered, while encumbered you gain an additional skill die to swim.
+tags:
+  - avian-progenitor-specialization
+abstract: You can swim better than most birds.
+module: core
+scale: skirmish 

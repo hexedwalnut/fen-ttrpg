@@ -1,0 +1,51 @@
++++
+draft=false
+title="Detect/Non-detection"
+tags=["spell", "core-module", "skirmish-scale", "apotropaic-spell-list", "permanency-spell"]
+
+[params]
+  abstract="You can detect or hide from detection presences."
+  [params.spell]
+    module="core"
+    mp="5 mp"
+    action="major"
+    scale="skirmish"
+    traits=["Reversible", "Ritual", "Sink", "Permanency"]
+    list=["apotropaic"]
++++
+
+{{< spell-front >}}
+
+## Description
+
+### Detect
+
+You use your magical abilities to try to sense the presence of various phenomenon in your surroundings. You (or a willing actor within [adjacent]({{< ref "/core/ref/adjacent.md" >}}) range) can sense the presence of one of the following within a [short]({{< ref "/core/ref/short.md" >}}) range for 1 hour:
+
+- Magical items or effects
+- Creatures from another sphere
+- Traps (magical or otherwise)
+- A specific item or person
+- A specific plant, animal or source of an alchemical reagent
+
+*Note that presences above can be masked with non-detection, detailed below.* 
+
+#### Sink
+
+For every 2 mp you spend in addition to the original amount, you can select an additional item from the list above.
+
+#### Permanency
+
+You can make the detect spell permanent using the permanency spell. You must supply 30 eagle eyes (costing 1,000gp, or equivalent, if you buy them) to cast the spell. When you do so, you cannot use the sink trait of detect, in addition you can only have one of the listed presences above at a time. If you cast the permanency spell again to make detect permanent, the original casting is dispelled.
+
+### Non-detection
+
+You use your magical abilities to hide something from detection. You select an object or actor within [adjacent]({{< ref "/core/ref/adjacent.md" >}}) range, they are hidden from the effects of the detect spell (detailed above) for 1 hour.
+
+#### Sink
+
+For every 2 mp you spend in addition to the original amount, you can select an additional object or actor.
+
+#### Permanency
+
+You can make the non-detection spell permanent using the permanency spell. You must shatter 10 glass mirrors (costing 1,000gp, or equivalent, if you buy them) to cast the spell. When you do so, you cannot use the sink trait of non-detection.

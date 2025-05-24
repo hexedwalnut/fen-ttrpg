@@ -116,7 +116,7 @@ Different campaigns might add other skills that actors can utilize. These skills
 
 To create a player character (PC) you use the following steps:
 
-1. Pick a species and gain species specializations
+1. Pick a progenitor and gain progenitor specializations
 2. Pick an origin and gain origin specializations (pick languages)
 3. Determine initial talents for your skills
 4. Roll initial hit points
@@ -128,6 +128,32 @@ The GM then determines a few things:
 
 1. Your character's maximum life-span and date of death if nothing else kills you first.
 2. The GM can give you any other specializations that makes sense for your character based on backstory, alternately the GM might give you additional specialization points to start the game.
+
+### 1. Pick a progenitor and gain progenitor specializations
+
+Based on the age of Fen and the region (specified by the GM), you have a collection of progenitor to pick from. There is a set of default progenitor that exist in most ages of Fen (with the noted exception of the First Age). Every age after the first, the default progenitor list exists somewhere on Fen, so the region is the most important factor. 
+
+The default progenitors are:
+
+- [Thecian]({{< ref "/core/ref/thecian-progenitor.md" >}}): Humans, Dwarfs, and Halflings. Thecians are the divinely created mammalian progenitor, originally created from the bones of dead Alfinims by the Mother and the Father. They have since split into several races and dominate a large part of Fen.
+- [Alfim]({{< ref "/core/ref/alfim-progenitor.md" >}}): The Elves. Alfim first arrive on Fen as Alfinim from Fae to battle with Waerdin for control over Fen. The Alfinim that stayed adapted to their environments becoming more mortal over time.
+- [Formian]({{< ref "/core/ref/formian-progenitor.md" >}}): The insect and arachnid hoards. The Formian are a divinely created insectoid and arachnid progenitor, originally led by flesh and blood Formian gods. Their gods have since retreated leaving the leadership of the Formian hoards to new queens, themselves becoming gods through the worship of the hive mind collective.
+- [Avian]({{< ref "/core/ref/avian-progenitor.md" >}}): The birds. The Avian are a divinely created bird progenitor, originally pulled down from the stars by the Celestial Emperor. Blessed with the gift of flight, powerful talons, and strong beaks, Avians can be fierce adversaries on a battle field, their gifts of navigation and song, is just extra.
+- [Saurisozan]({{< ref "/core/ref/saurisozan-progenitor.md" >}}): The reptiles. A diverse group of divinely created reptilians, the Saurisozans were originally created by the Celestial Emperor as Avians, but were called by the tempest spirit, Notos to serve, loosing their ability to fly, replaced with the ability to swim. Saurisozans have thick hides and powerful teeth and claws, and they are a threat in the water and on the land.
+- [Perim]({{< ref "/core/ref/perim-progenitor.md" >}}): The small fey-folk. Perim are originally from Fae, consisting of the small fey creatures. These include Red-caps, Gnomes, and faeries of all kinds. Perims although far removed from their fey ancestors, still have a touch of the fey magic in them.
+- [Nephilim]({{< ref "/core/ref/nephilim-progenitor.md" >}}): The last of the Fae immigrants to Fen. Nephilim are a progenitor of giants. While very few Nephilim retain all of their ancestors powers and stature, Nephilim are still tall, strong, and imposing creatures. Nephilim are now a minority among their progenitor, leaving room for Jötunn and Uruks alike. 
+- [Ichthyostega]({{< ref "/core/ref/ichthyostega-progenitor.md" >}}): The amphibians. The naturally accruing amphibious progenitor on Fen, primarily reside in their sunken continent of Obol. They are diverse in stature and build, but all require easy access to fresh water. Many Ichthyostega are mentally bound and enslaved by a strange creature that resides in the center of the continent of Obol.
+
+Each progenitor gets a set number of *sp* that can be spent on their specific progenitor specializations. All unspent *sp* can be used in future steps. In addition, you can select from your progenitor specialization in steps two and six of actor creation.
+
+#### Multiple Progenitors
+
+Not all progenitors can procreate with each other, but some can. If you want to have parents from different progenitors, it is quite easy. You can simply pick specializations from both progenitors and gain half of the *sp* from one and half from the other. Below is grouping of progenitors that can have children together:
+
+- Thecian, Alfim, Perim, and Nephilim 
+- Avian and Saurisozan 
+
+Otherwise you must select a single progenitor.
 
 ## Advancement
 

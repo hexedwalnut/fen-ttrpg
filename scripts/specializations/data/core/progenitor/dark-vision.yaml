@@ -1,0 +1,15 @@
+name: Dark-vision
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You have the ability to see in the dark. You gain [dark-vision]({{< ref "/core/ref/dark-vision.md" >}}) to 60 feet.
+tags:
+  - thecian-progenitor-specialization
+  - alfim-progenitor-specialization
+  - nephilim-progenitor-specialization
+  - perim-progenitor-specialization
+abstract: Gain dark-vision.
+module: core
+scale: skirmish 

@@ -1,0 +1,12 @@
+name: Natural Camouflage
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  Select an environment where your actor is accustom or adapted, while in that environment you can roll an additional die on contests to hide.
+tags:
+  - alfim-progenitor-specialization
+abstract: You have blend into your surroundings better than most actors.
+module: core
+scale: skirmish 

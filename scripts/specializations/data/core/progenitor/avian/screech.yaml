@@ -1,0 +1,12 @@
+name: Screech
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  While you can speak you can use a major action to screech. This causes a fight/will contest against a target actor within [short]({{< ref "/core/ref/short.md" >}}) range that can hear you. If you win the contest, the target has [Fear]({{< ref "/core/ref/fear-condition.md" >}})(1).
+tags:
+  - avian-progenitor-specialization
+abstract: You gain a powerful screech that can cause fear.
+module: core
+scale: skirmish 

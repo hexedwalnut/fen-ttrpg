@@ -14,10 +14,25 @@ def validate(sp):
     if not sp["module"]:
         print(f"{sp["name"]}: no module")
         return False
+
     if not sp["scale"]:
         print(f"{sp["name"]}: no scale")
         return False
+    if sp["scale"].lower().strip() not in ["all", "skirmish", "battle", "war"]:
+        print(f"{sp["name"]}: scale not correct ({sp["scale"]})")
+        return False
+
+    if sp["traits"] and not isinstance(sp["traits"], list):
+        print(f"{sp["name"]}: traits not a list it is a {type(sp["traits"])}")
+        return False
+    if sp["prereqs"] and not isinstance(sp["prereqs"], list):
+        print(f"{sp["name"]}: prereqs not a list")
+        return False
+    if sp["tags"] and not isinstance(sp["tags"], list):
+        print(f"{sp["name"]}: tags not a list")
+        return False
     return True
+
 def dict_to_specialization(sp):
     if validate(sp):
         return create_specialization(
@@ -39,9 +54,6 @@ def dict_to_specialization(sp):
 def create_specialization(
     name, type, cost, traits, prereqs, text, tags, abstract, module, scale
 ):
-    if scale.strip() not in ["all", "skirmish", "battle", "war"]:
-        print(f"{name} has a faulty scale ({scale})")
-        return
     output = f"""+++
 draft=false
 title="{name}"
@@ -59,6 +71,7 @@ tags=["specialization", "{str(type)}-specialization\", "{str(module)}-module", "
   [params.specialization]
     module="{str(module)}"
     cost="{cost} sp"
+    scale="{str(scale)}"
     traits=["""
 
     if traits:

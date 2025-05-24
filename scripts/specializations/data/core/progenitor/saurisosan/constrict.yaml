@@ -1,0 +1,14 @@
+name: Constrict
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You have a greater ability to grapple your foes using your whole body to hold them down, like a snake that can constrict its prey. 
+
+  You gain an additional skill die on contests to grapple or contests against an actor you have grappled.
+tags:
+  - saurisosan-progenitor-specialization
+abstract: You have a better ability to grapple your foes.
+module: core
+scale: skirmish 

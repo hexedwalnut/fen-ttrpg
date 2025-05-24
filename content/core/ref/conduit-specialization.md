@@ -8,6 +8,7 @@ tags=["specialization", "magic-specialization", "core-module", "skirmish-scale"]
   [params.specialization]
     module="core"
     cost="10 sp"
+    scale="skirmish"
     traits=["-"]
     prereq=["-"]
 +++
@@ -27,14 +28,14 @@ representing available effort to avoid death, it represents your total ability
 to cast or preform magic spells.* **Primary Source**: The source you pull most of your magic from.
 * **Starting Spell List**: A list of default spells that you know how to cast.
 
-## Magic Skill
+### Magic Skill
 
 When you take this specialization you gain the [magic skill]({{< ref "/core/ref/magic-skill.md" >}}).
 Like stated above, this represents your ability to cast, understand, and control
 magical sources, spells, phenomena, and creatures. You initially have a magic
 skill of 1d6, it can be increased via the normal means (i.e., [talent specialization]({{< ref "/core/ref/talent-specialization" >}})).
 
-## Magic Point Statistic (mp)
+### Magic Point Statistic (mp)
 
 When you take this specialization you gain the magic point statistic. This
 represents the total amount of magical ability you have at the current time.
@@ -43,7 +44,7 @@ engaging with your source. When you take this specialization you gain a maximum
 mp of a non-explosive [magic]({{< ref "/core/ref/magic-skill.md" >}}) roll. 
 This maximum can be increased via the [magic well specialization]({{< ref "/core/ref/magic-well-specialization.md" >}}).
 
-## Primary Source
+### Primary Source
 
 As described in the [Magic]({{< ref "/core/chapters/magic.md" >}}) chapter, 
 each conduit has a source where they pull their power from. Select one on of the
@@ -67,15 +68,27 @@ your magic from self-sacrificial acts. You gain magic from your willingness to
 give as much as you take, trading your bodily and mental health from magical 
 power, a fair but brutal bargain.
 
-### Pure Source (needs GM approval)
+#### Pure Source (needs GM approval)
 
 You pull from the pure source as your primary source. This allows you to move
 fluidly between any of the above sources. You can pull freely from any of the 
 above sources.
 
-## Starting Spell List
+### Starting Spell List
 
 No conduit is alone in their manifestations of magical spells. You gain a
 starting spell list based on your interests. Select one spell list from those 
-featured below.
+featured below:
+
+- [Apotropaic]({{< ref "/core/ref/apotropaic-spell-list.md" >}}): Apotropaic spells cast by Apotropaics are defensive spells. They specialize in the ability to undo or prevent magic. Take this spell list if you want to counter and dispel enemy magic.
+- [Shaman]({{< ref "/core/ref/shaman-spell-list.md" >}}): Shaman spells cast by Shamans deal with the harnessing of nature and its animals. They specialize in bending nature to their will. Take this spell list if you want an army of animal companions and use magical wood as weapons and armor.
+- [Sorcery]({{< ref "/core/ref/sorcery-spell-list.md" >}}): Sorcery spells cast by sorcerers are pure battle magic. They specialize in dealing damage to their enemies. Take this spell list if you want to burn and blast your enemies.
+- [Sympathetic]({{< ref "/core/ref/sympathetic-spell-list.md" >}}): Sympathetic spells cast by empaths are mind magic. They specialize in understanding and influencing the feelings, memories, and minds of their enemies. Take this spell list if you want to charm and dominate your enemies.
+- [Thaumaturgy]({{< ref "/core/ref/thaumaturgy-spell-list.md" >}}): Thaumaturgy spells cast by Thaumaturges are manifestation spells. They specialize in creating (or seeming to create) objects. Take this spell list if you want to change form, change the battle field, to best your enemies.
+- [Viturgy]({{< ref "/core/ref/viturgy-spell-list.md" >}}): Viturgy spells cast by Viturges are life magic. They specialize in keeping people alive and raising the dead. Take this spell list if you want to keep your allies alive.
+
+Every conduit learns the following spells:
+
+- [Contingency]({{< ref "/core/ref/contingency-spell.md" >}})
+- [Permanency]({{< ref "/core/ref/permanency-spell.md" >}})
 

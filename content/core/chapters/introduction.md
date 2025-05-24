@@ -36,6 +36,10 @@ When told to roll an additional die, you roll one more die of the same sides as 
 
 For example, if you are told to roll one additional weapon die for your [Dagger]({{< ref "/core/ref/dagger-weapon.md" >}}), which as a weapon die of 1d4, you roll 2d4 instead. Likewise, if told to roll an additional die for a roll of 1d4+1d8+1d20, you would roll 1d4+1d8+2d20 instead.
 
+### Fewer Die
+
+Much like additional but the opposite. You simply roll the specified fewer dice. If you only have one die, regardless of the amount specified, roll the one die twice and take the lower result. Otherwise, you simply remove one die from amount the dice rolled with the highest amount of sides, if two or more dice have the same number of sides, you can select which to remove. 
+
 ### Non-explosive
 
 A non-explosive roll means that you roll one dice of the number of sides indicated that cannot explode. For example, if a specialization asks you to roll one non-explosive vigor skill and you have 3d8 in vigor, you roll 1d8 that does not explode. Likewise if it asks you to roll two non-explosive vigor skill with the same vigor, you roll 2d8 where each die does not explode.

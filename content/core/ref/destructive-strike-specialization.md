@@ -8,6 +8,7 @@ tags=["specialization", "weapon-specialization", "core-module", "all-scale"]
   [params.specialization]
     module="core"
     cost="15 sp"
+    scale="all"
     traits=["Repeatable"]
     prereq=["Weapon Training(X)(2)"]
 +++

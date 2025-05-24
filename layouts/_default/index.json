@@ -11,6 +11,6 @@
         {{ $tags = (printf "%s, %s" $tags $newtags)}}
     {{ end }}
     {{ end }}
-    {{- $index = $index | append (dict "title" ( .Title | plainify ) "permalink" .Permalink  "tags" ( $tags ) "categories" ( .Params.categories ) "summary" ( .Params.abstract | markdownify | htmlUnescape | plainify) ) -}}
+    {{- $index = $index | append (dict "title" (replace ( .Title | plainify ) "/" " ") "permalink" .Permalink  "tags" ( $tags ) "categories" ( .Params.categories ) "summary" ( .Params.abstract | markdownify | htmlUnescape | plainify) ) -}}
 {{- end -}}
 {{- $index | jsonify -}}

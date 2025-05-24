@@ -1,0 +1,14 @@
+name: Bite
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You cannot gain the [Fangs]({{< ref "/core/ref/fangs-specialization.md" >}}) by any means if you take this specialization.
+
+  You have strong teeth and jaw or some other reptilian mouth than can cause damage. Your beak is considered an [ax]({{< ref "/core/ref/ax-archetype.md" >}}) weapon that deals 1d6 [S]({{< ref "/core/ref/damage-types.md#slashing" >}}) damage.
+tags:
+  - saurisosan-progenitor-specialization
+abstract: You gain a powerful bite weapon.
+module: core
+scale: skirmish 

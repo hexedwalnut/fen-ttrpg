@@ -1,0 +1,12 @@
+name: Chameleon
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You gain the uncanny ability to change the color of your scales to match your surroundings. You can use a minor action to change your scales. Once you do so, you gain an additional skill die on all contests to hide from sight for the next round.
+tags:
+  - saurisosan-progenitor-specialization
+abstract: You can change the color of your scales.
+module: core
+scale: skirmish 

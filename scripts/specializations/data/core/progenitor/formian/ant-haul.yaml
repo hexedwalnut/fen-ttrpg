@@ -1,0 +1,12 @@
+name: Ant Haul
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You do not suffer any penalties for being encumbered.
+tags:
+  - formian-progenitor-specialization
+abstract: You do not suffer any penalties for being encumbered.
+module: core
+scale: skirmish

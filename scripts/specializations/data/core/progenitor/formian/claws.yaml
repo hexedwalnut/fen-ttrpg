@@ -1,0 +1,13 @@
+name: Claws
+type: progenitor
+cost: 2
+traits: null
+prereqs:
+  - Xi'Fosra Curse
+text: |
+  You gain a set of claws. They act similarly to hands, but are also considered 1d6 [B]({{< ref "/core/ref/damage-types.md#bludgeoning" >}}) [cudgel]({{< ref "/core/ref/cudgel-archetype.md" >}}) with the [light]({{< ref "/core/ref/light-trait.md" >}}).
+tags:
+  - formian-progenitor-specialization
+abstract: You gain powerful natural claw weapons for hands.
+module: core
+scale: skirmish 

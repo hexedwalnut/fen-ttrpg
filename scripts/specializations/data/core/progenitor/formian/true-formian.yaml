@@ -1,0 +1,17 @@
+name: True Formian
+type: progenitor
+cost: 2
+traits: null
+prereqs:
+  - Pheromosis
+text: |
+  Once you select this specialization you cannot gain [aracnia]({{< ref "/core/ref/aracnia-specialization.md" >}}) or [ecdysis]({{< ref "/core/ref/ecdysis-specialization.md" >}}) by any means.
+
+  You sport the six limbs and strong exoskeleton customary of the legions of the Formian Collective. You are one of many born from the queen, to serve the purposes of the Collective, and build the glass palaces. Whether you heed the call is yet to be seen.
+
+  You have two sets of arms, meaning that you can wield a total of 4 single-handed weapons or two two-handed weapons. You may also wear two sets of gloves for the purposes of magic items or style.
+tags:
+  - formian-progenitor-specialization
+abstract: You have two sets of arms. 
+module: core
+scale: skirmish 

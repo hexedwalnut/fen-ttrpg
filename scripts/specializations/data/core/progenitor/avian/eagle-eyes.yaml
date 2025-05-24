@@ -1,0 +1,12 @@
+name: Eagle Eyes
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You have an incredible ability to see at long distances and notice things others miss. When you roll a contest to see something, roll one additional skill die. In addition, you can roll to see things at [long]({{< ref "/core/ref/long.md" >}}) range without the aid of a device (i.e., spyglass).
+tags:
+  - avian-progenitor-specialization
+abstract: You gain a powerful beak natural weapon.
+module: core
+scale: skirmish 

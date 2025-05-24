@@ -8,6 +8,7 @@ tags=["specialization", "basic-specialization", "core-module", "all-scale"]
   [params.specialization]
     module="core"
     cost="5 sp"
+    scale="all"
     traits=["-"]
     prereq=["tactics(1d6+)"]
 +++

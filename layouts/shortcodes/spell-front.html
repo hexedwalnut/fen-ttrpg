@@ -1,0 +1,59 @@
+<table>
+    <tr>
+        <th>mp Cost</th>
+        <td>{{.Page.Params.spell.mp}}</td>
+    </tr>
+    <tr>
+        <th>Action Cost</th>
+        <td>{{.Page.Params.spell.action}}</td>
+    </tr>
+    <tr>
+        <th>Traits</th>
+        <td>{{ range .Page.Params.spell.traits }}
+            {{ $rngRef := "ERROR" }}
+            {{ if hasPrefix (upper .) "SINK" }}
+                {{ $rngRef = ref $.Page "/core/ref/sink-trait.md" }}
+            {{ else if hasPrefix (upper .) "REVERSIBLE" }}
+                {{ $rngRef = ref $.Page "/core/ref/reversible-spell-trait.md" }}
+            {{ else if hasPrefix (upper .) "PERMANENCY" }}
+                {{ $rngRef = ref $.Page "/core/ref/permanency-spell-trait.md" }}
+            {{ else if hasPrefix (upper .) "RITUAL" }}
+                {{ $rngRef = ref $.Page "/core/ref/ritual-trait.md" }}
+            {{ else if eq (upper .) "-" }}
+                {{ $rngRef = "NO" }}
+            {{ end }}
+            {{ if eq $rngRef "NO" }}
+                {{.}}
+            {{ else }}
+                <a href="{{ $rngRef }}">{{.}}</a> 
+            {{ end }}
+        {{ end }}</td>
+    </tr>
+    <tr>
+        <th>List</th>
+        <td>{{ range .Page.Params.spell.list }}
+            {{ $rngRef := "ERROR" }}
+            {{ if hasPrefix (upper .) "SORCERY" }}
+                {{ $rngRef = ref $.Page "/core/ref/sorcery-spell-list.md" }}
+            {{ else if hasPrefix (upper .) "VITURGY" }}
+                {{ $rngRef = ref $.Page "/core/ref/viturgy-spell-list.md" }}
+            {{ else if hasPrefix (upper .) "SHAMAN" }}
+                {{ $rngRef = ref $.Page "/core/ref/shaman-spell-list.md" }}
+            {{ else if hasPrefix (upper .) "THAUMATURGY" }}
+                {{ $rngRef = ref $.Page "/core/ref/thaumaturgy-spell-list.md" }}
+            {{ else if hasPrefix (upper .) "APOTROPAIC" }}
+                {{ $rngRef = ref $.Page "/core/ref/apotropaic-spell-list.md" }}
+            {{ else if hasPrefix (upper .) "SYMPATHETIC" }}
+                {{ $rngRef = ref $.Page "/core/ref/sympathetic-spell-list.md" }}
+            {{ else if eq (upper .) "-" }}
+                {{ $rngRef = "NO" }}
+            {{ end }}
+
+            {{ if eq $rngRef "NO" }}
+                {{.}}
+            {{ else }}
+                <a href="{{ $rngRef }}">{{.}}</a>
+            {{ end }}
+        {{ end }}</td>
+    </tr>
+</table>

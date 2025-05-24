@@ -1,0 +1,12 @@
+name: Parrot
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You can mimic a voice or sound you are familiar with. Roll an additional skill die on a contest to deceive or pass your voice off as another or a particular sound.
+tags:
+  - avian-progenitor-specialization
+abstract: You can mimic a voice or sound you are familiar with.
+module: core
+scale: skirmish 

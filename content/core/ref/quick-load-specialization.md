@@ -8,6 +8,7 @@ tags=["specialization", "weapon-specialization", "core-module", "all-scale"]
   [params.specialization]
     module="core"
     cost="10 sp"
+    scale="all"
     traits=["-"]
     prereq=["dodge(1d6+)", "shoot(1d6+)"]
 +++

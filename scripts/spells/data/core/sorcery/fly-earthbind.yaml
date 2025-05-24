@@ -1,0 +1,34 @@
+name: Fly/Earthbind
+mp: 10
+action: major
+traits:
+  - Reversible 
+  - Permanency
+  - Sink
+list:
+  - sorcery
+text: |
+  ### Fly
+
+  For the next hour, you can take the [move]({{< ref "/core/ref/move-action.md" >}}) action you can move in any direction including into the air. You take no damage when falling as long as you are not [immobile]({{< ref "/core/ref/immobile-condition.md" >}}) or [incapacitated]({{< ref "/core/ref/incapacitated-condition.md" >}}). In addition, you can use a minor action to maintain your current height in the air as long as you are not immobile. Alternatively, you can select an actor you can see within [short]({{< ref "/core/ref/short.md" >}}) range to receive the above benefits.
+
+  #### Sink
+
+  For every 5 *mp* you spend above the original cost of this spell, you can target an additional actor with this above effect.
+
+  #### Permanency
+
+  You can make the fly spell permanent with the permanency spell. When you do so you must supply 50 bats or 30 pigeons (costing at least 2,000gp, or equivalent). You cannot use the sink trait of fly when you cast the spell this way.
+
+  ### Earthbind
+  
+  You target a flying actor you can see within a [long]({{< ref "/core/ref/long.md" >}}) range. That target must succeed a vigor/magic contest against you, or be dragged to the earth. For the next hour, the target cannot use the [move]({{< ref "/core/ref/move-action.md" >}}) to fly. Alternatively, if the target is under the effect of the Fly spell, Earthbind dispels it.
+
+  #### Sink
+
+  For every 1 *mp* you spend above the original cost of this spell, you can target additional actor with the above effect.
+tags:
+  - "permanency-spell"
+abstract: You either can fly or stop an actor from flying.
+module: core
+scale: skirmish 

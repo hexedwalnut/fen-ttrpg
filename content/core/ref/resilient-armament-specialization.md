@@ -8,6 +8,7 @@ tags=["specialization", "armor-specialization", "core-module", "all-scale"]
   [params.specialization]
     module="core"
     cost="5 sp"
+    scale="all"
     traits=["Repeatable"]
     prereq=["Averting Armor(X)(2)"]
 +++

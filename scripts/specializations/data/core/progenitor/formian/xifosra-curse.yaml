@@ -1,0 +1,16 @@
+name: Xi'Fosra Curse
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You may not select this specialization unless directed to via the [Formian Progenitor]({{< ref "/core/ref/formian-progenitor.md" >}}) creation rules.
+
+  You many never gain the [Pheromosis]({{< ref "/core/ref/pheromosis-specialization.md" >}}) specialization by any means. In addition, you consume five times the normal amount of water rations than is normal. If you do not fully submerge yourself in water for seven days you take one point of *wp*.
+
+  You can breath water and salt water can be consumed as if it were fresh water. You can swim without rolling when not encumbered, while encumbered you gain an additional skill die to swim.
+tags:
+  - formian-progenitor-specialization
+abstract: You are cursed as a descendent of the Xi'Fosra.
+module: core
+scale: skirmish 

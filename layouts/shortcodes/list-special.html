@@ -1,0 +1,6 @@
+{{ $p := where site.Pages "Params.tags" "intersect" (slice (.Get 0)) }}
+    <ul>
+    {{ range $p }}
+    <li><a href="{{.Permalink}}"><strong>{{ .Title }}</strong></a> ({{.Params.specialization.cost}}): {{.Params.abstract}}</li>
+    {{ end }}
+    </ul>

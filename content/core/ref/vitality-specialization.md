@@ -8,6 +8,7 @@ tags=["specialization", "basic-specialization", "core-module", "all-scale"]
   [params.specialization]
     module="core"
     cost="1 sp"
+    scale="all"
     traits=["Repeatable"]
     prereq=["-"]
 +++

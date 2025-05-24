@@ -1,0 +1,17 @@
+name: Permanency
+mp: 10
+action: major
+traits:
+  - Ritual
+list:
+  - all
+text: |
+  You make a spell permanent. The following spells can be made permanent:
+
+  {{< page-list "permanency-spell" >}}
+
+  With GM approval other spells can be made permanent. Your GM will decided what the effect of this spell on the other will be.
+tags: null
+abstract: You make a spell permanent.
+module: core
+scale: skirmish 

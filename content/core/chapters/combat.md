@@ -26,7 +26,7 @@ A surprised side's actors do not have turns during the first round of combat and
 
 ### Step 2: Roll Initiative
 
-Initiative determines the order in which sides act. Each round starts with both sides selecting one of their members to roll initiative. Once an actor selected to roll initiative, they cannot be selected again until all other actors on their side have been selected. Note, actors with the *minion* trait are not considered when selecting actors to roll initiative. Every selected actor chooses to roll *notice* or *dodge*, the highest roll goes first, the second highest goes second, and so on. If a tie occurs, the players' side goes first, if a tie occurs between two non-player sides, the GM decides the order.
+Initiative determines the order in which sides act. Each round starts with both sides selecting one of their members to roll initiative. Once an actor selected to roll initiative, they cannot be selected again until all other actors on their side have been selected. Note, actors with the [minion]({{< ref "/core/ref/minion-trait.md" >}}) trait are not considered when selecting actors to roll initiative. Every selected actor chooses to roll *notice* or *dodge*, the highest roll goes first, the second highest goes second, and so on. If a tie occurs, the players' side goes first, if a tie occurs between two non-player sides, the GM decides the order.
 
 ### Step 3: Take Turns
 

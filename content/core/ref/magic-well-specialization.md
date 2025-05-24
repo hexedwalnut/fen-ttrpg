@@ -8,6 +8,7 @@ tags=["specialization", "magic-specialization", "core-module", "skirmish-scale"]
   [params.specialization]
     module="core"
     cost="1 sp"
+    scale="skirmish"
     traits=["Repeatable"]
     prereq=["Conduit"]
 +++

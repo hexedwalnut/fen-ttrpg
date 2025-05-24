@@ -1,0 +1,12 @@
+name: Beak
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You have a strong beak that denotes your ancestors as Tiercel. Your beak is considered an [ax]({{< ref "/core/ref/ax-archetype.md" >}}) weapon that deals 1d6 [S]({{< ref "/core/ref/damage-types.md#slashing" >}}) damage.
+tags:
+  - avian-progenitor-specialization
+abstract: You gain a powerful beak natural weapon.
+module: core
+scale: skirmish 

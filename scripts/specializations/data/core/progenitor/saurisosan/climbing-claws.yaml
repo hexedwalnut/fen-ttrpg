@@ -1,0 +1,14 @@
+name: Climbing Claws
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  Your claws allow you to climb more effectively.
+
+  You can climb without rolling when not encumbered, while encumbered you gain an additional skill die to climb.
+tags:
+  - saurisosan-progenitor-specialization
+abstract: Your claws allow you to climb more effectively.
+module: core
+scale: skirmish 

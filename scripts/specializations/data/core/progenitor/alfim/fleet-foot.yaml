@@ -1,0 +1,12 @@
+name: Fleet Foot
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  When you take the [Move]({{< ref "/core/ref/move-action.md" >}}) or move as per the Move action, you move 6 times the sides of your [*dodge*] die instead of 5. In addition, when moving you can choose to not leave tracks.
+tags:
+  - alfim-progenitor-specialization
+abstract: You move faster than most people.
+module: core
+scale: skirmish 

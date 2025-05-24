@@ -20,7 +20,8 @@ text: |
   from the bludgeon specialization and the target is under the effects of the
   incapacitated condition, they become 
   [unconscious]({{< relref "/core/ref/unconscious-condition.md" >}}).
-tags: cudgel-specialization 
+tags:
+  - cudgel-specialization 
 abstract: Knock people out with destructive strikes.
 module: armory
 scale: all

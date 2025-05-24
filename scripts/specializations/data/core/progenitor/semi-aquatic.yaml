@@ -1,0 +1,13 @@
+name: Semi-aquatic
+type: progenitor
+cost: 4
+traits: null
+prereqs: null
+text: |
+  You are semi-aquatic. You can swim without rolling when not encumbered, while encumbered you gain an additional skill die to swim. In addition, you can hold your breath a number of hours equal to the number of sides in your vigor skill die.
+tags:
+  - saurisosan-progenitor-specialization
+  - alfim-progenitor-specialization
+abstract: You can swim and hold your breath better than most actors.
+module: core
+scale: skirmish 

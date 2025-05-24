@@ -1,0 +1,12 @@
+name: Wall Climb
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You can climb without rolling when not encumbered, while encumbered you gain an additional skill die to climb. You are allowed to climb on vertical and horizontal surfaces without hand-holds.
+tags:
+  - formian-progenitor-specialization
+abstract: You can easily climb walls and ceilings.
+module: core
+scale: skirmish 

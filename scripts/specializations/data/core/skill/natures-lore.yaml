@@ -1,0 +1,11 @@
+name: Nature's Lore
+type: skill 
+cost: 10
+traits: null
+prereqs: null
+text: |
+  You gain the skill [Nature]({{< ref "/core/ref/nature-skill.md" >}}).
+tags: null
+abstract: You gain the Nature skill.
+module: core
+scale: all

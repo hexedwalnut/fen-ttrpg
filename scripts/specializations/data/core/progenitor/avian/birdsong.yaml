@@ -1,0 +1,12 @@
+name: Birdsong
+type: progenitor 
+cost: 2
+traits: null
+prereqs: null
+text: |
+  Your voice is considered a musical instrument. In addition, you can roll one additional die to perform with your voice.
+tags:
+  - avian-progenitor-specialization
+abstract: You're birdsong is a musical instrument and you are more proficient at performing musically with that instrument.
+module: core
+scale: skirmish 

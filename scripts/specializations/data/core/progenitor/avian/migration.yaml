@@ -1,0 +1,12 @@
+name: Migration
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You still have the navigational instincts that denote your ancestors as migratory birds. When navigating you can roll one additional skill die.
+tags:
+  - avian-progenitor-specialization
+abstract: You are very good at navigating boasting migratory bird instincts. 
+module: core
+scale: skirmish 

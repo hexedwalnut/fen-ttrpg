@@ -8,6 +8,7 @@ tags=["specialization", "weapon-specialization", "armory-module", "all-scale", "
   [params.specialization]
     module="armory"
     cost="20 sp"
+    scale="all"
     traits=["-"]
     prereq=["Quick Draw"]
 +++

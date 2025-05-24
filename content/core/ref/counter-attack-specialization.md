@@ -8,6 +8,7 @@ tags=["specialization", "basic-specialization", "core-module", "all-scale"]
   [params.specialization]
     module="core"
     cost="10 sp"
+    scale="all"
     traits=["-"]
     prereq=["Weapon Training(X)(3)", "Opportunity Attack"]
 +++

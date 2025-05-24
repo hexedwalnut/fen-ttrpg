@@ -1,0 +1,14 @@
+name: Aus-child
+type: progenitor
+cost: 2
+traits: null
+prereqs: null
+text: |
+  You are descendant of those that immigrated to Fen via the Ausbridge. You do not suffer any negative consequences for traversing between spheres.
+tags:
+  - alfim-progenitor-specialization
+  - nephilim-progenitor-specialization
+  - perim-progenitor-specialization
+abstract: You can traverse spheres more easily than other actors.
+module: core
+scale: skirmish 

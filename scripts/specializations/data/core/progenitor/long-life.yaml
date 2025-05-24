@@ -1,0 +1,14 @@
+name: Long Life
+type: progenitor
+cost: 1
+traits: null
+prereqs: null
+text: |
+  Instead of rolling for your maximum life-span and date of death like normal, instead the GM takes the maximum value.
+tags:
+  - alfim-progenitor-specialization
+  - nephilim-progenitor-specialization
+  - perim-progenitor-specialization
+abstract: You have an extra long life.
+module: core
+scale: skirmish 
